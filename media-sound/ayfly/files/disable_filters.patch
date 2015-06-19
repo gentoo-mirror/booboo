@@ -1,0 +1,11 @@
+--- a/src/libayfly/ay.cpp
++++ b/src/libayfly/ay.cpp
+@@ -439,7 +439,7 @@
+         float left = s0 * a_left + s1 * b_left + s2 * c_left + beeper_volume;
+         float right = s0 * a_right + s1 * b_right + s2 * c_right + beeper_volume;
+ 
+-        flt.Process2(left, right);
++        //flt.Process2(left, right);
+         if(flt_state > flt_state_limit)
+         {
+             flt_state -= flt_state_limit;
