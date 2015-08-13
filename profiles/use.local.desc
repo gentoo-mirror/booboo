@@ -1,10 +1,40 @@
-# Copyright 1999-2008 Gentoo Foundation.
-# Distributed under the terms of the GNU General Public License v2
-# $Header: $
+# This file is deprecated as per GLEP 56 in favor of metadata.xml. Please add
+# your descriptions to your package's metadata.xml ONLY.
+# * generated automatically using pmaint *
 
-# This file contains descriptions of local USE flags, and the ebuilds which
-# contain them.
-
-# Keep it sorted.
-
-media-gfx/ristretto:xfce - Enable wallpaper changing support in xfce4.6
+app-misc/2gis:data - Use maps and other data from app-misc/2gis-data
+dev-tcltk/tclgpg:helper - Compile C helper to run gpg binary
+games-engines/onscripter-en:scale - Enables experimental scaling support
+games-simulation/openttd:aplaymidi - Enables midi music in game, using aplaymidi as an external player
+games-simulation/openttd:dedicated - Build only the openttd server, and not the client.
+games-simulation/openttd:lzo - Enables LZO compression for savegames. This is only needed to load extremely old savegames. (versions before 0.2)
+games-simulation/openttd:openmedia - Enables the free open media sets: OpenGFX, OpenSFX, OpenMSX, removing the requirement for proprietary TTD assets to play OpenTTD.
+media-libs/netpbm:rle - Build converters for the RLE format (utah raster toolkit)
+media-sound/cmus:pidgin - install support script for net-im/pidgin
+media-sound/cmus:wma - add support for Windows Media Audio
+media-sound/cmus:zsh-completion - enable zsh completion support
+media-sound/mumble:g15 - Enable support for the Logitech G15 LCD (and compatible devices).
+media-sound/mumble:speech - Enable text-to-speech support in Mumble.
+net-im/spectrum:frotz - Allows playing interactive-fiction games
+net-im/spectrum:jabber - IRC
+net-im/spectrum:purple - AIM, Jabber, Facebook, GTalk, ICQ, MSN
+net-im/spectrum:skype - Skype using the official client
+net-im/spectrum:sms - SMS using connected mobile phone
+net-im/spectrum:twitter - Twitter
+net-im/spectrum:yahoo - Yahoo
+net-libs/loudmouth:asyncns - Use libasyncns for asynchronous name resolution.
+sci-geosciences/googleearth:bundled-libs - Use bundled libraries.
+sci-geosciences/merkaartor:libproxy - Use net-libs/libproxy for getting the HTTP/HTTPS/SOCKS proxy configuration
+sci-geosciences/merkaartor:qrcode - Enable QR code scanning with media-gfx/zbar
+sys-apps/usb_modeswitch:jimtcl - Use dev-lang/jimtcl instead of dev-lang/tcl for smaller memory footprint
+www-client/uzbl:browser - Install the uzbl-browser script
+www-client/uzbl:experimental - Enable experimental branch
+www-client/uzbl:gtk3 - Use x11-libs/gtk+:3 instead of x11-libs/gtk+:2
+www-client/uzbl:helpers - Optional tools used by uzbl scripts
+www-client/uzbl:tabbed - Install the uzbl-tabbed script
+www-servers/lighttpd:memcache - Enable memcache support for mod_cml and mod_trigger_b4_dl
+www-servers/lighttpd:rrdtool - Enable rrdtool support via mod_rrdtool
+www-servers/lighttpd:webdav - Enable webdav properties
+x11-libs/qt-meta:immqt - Enable binary incompatible version of immodule for Qt
+x11-libs/qt-meta:immqt-bc - Enable binary compatible version of immodule for Qt
+x11-wm/matchbox-desktop:dnotify - Use the linux kernel directory notification feature.
