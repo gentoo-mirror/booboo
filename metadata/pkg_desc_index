@@ -94,6 +94,7 @@ games-simulation/simutrans-exp-lang 9999: Language pack for Simutrans
 games-strategy/dyson 1.10: Dyson is an ambient real-time strategy game with abstract visuals.
 games-strategy/freeciv 2.5.0: multiplayer strategy game (Civilization Clone)
 games-strategy/hedgewars 9999: Free Worms-like turn based strategy game
+games-strategy/ufo-ai 2.5: UFO: Alien Invasion - X-COM inspired strategy game
 games-util/catcodec 1.0.5: Decodes and encodes sample catalogues for OpenTTD
 games-util/grfcodec 999_p988: A suite of programs to modify openttd/Transport Tycoon Deluxe's GRF files
 games-util/nml 999_p5655_p412: Compiler of NML files into grf/nfo files
