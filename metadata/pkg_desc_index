@@ -101,6 +101,7 @@ games-util/grfcodec 999_p988: A suite of programs to modify openttd/Transport Ty
 games-util/nml 999_p5655_p412: Compiler of NML files into grf/nfo files
 gnome-base/gconf 2.18.0.1: Gnome Configuration System and Daemon
 media-fonts/arialuni 2: Arial Unicode MS Font is an extended version of font Arial
+media-gfx/amide 1.0.5: Amide's a Medical Image Data Examiner: Amide is a tool for viewing, registering, and analyzing anatomical and functional volumetric medical imaging data sets.
 media-gfx/implicitcad 9999: Math-inspired programmatic 2&3D CAD: CSG, bevels, and shells; gcode export
 media-gfx/qiv 9999: Quick Image Viewer
 media-gfx/synfig 0.63.03 0.63.04 0.63.05: Film-Quality Vector Animation (core engine)
