@@ -124,6 +124,7 @@ media-video/motion 9999-r1: A fork of the software motion detector
 media-video/mplayer 9999-r1: Media Player for Linux
 media-video/mplayer-mt 20090510: Media Player for Linux (with multithread decoding support)
 media-video/recordmydesktop 9999: A desktop session recorder producing Ogg video/audio files
+net-analyzer/nmap_vulscan 2.0: A NSE vulnerability scanner which uses an offline version of different vulnerability databases
 net-dialup/openl2tp 1.7 1.8: Userspace tools for kernel L2TP implementation.
 net-fs/davfs2 1.5.2: Linux FUSE (or coda) driver that allows you to mount a WebDAV resource
 net-fs/tahoe-lafs 9999: Secure, decentralized, data store
