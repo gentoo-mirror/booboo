@@ -164,6 +164,7 @@ net-misc/radvd 9999: Linux IPv6 Router Advertisement Daemon
 net-misc/tor-arm 9999: Terminal tor status monitor
 net-misc/trackma 9999: Open multi-site list manager for media tracking sites.
 net-misc/vuurmuur_conf 0.7: Iptables frontend. Ncurses GUI, for administration and monitoring.
+net-misc/youtube-dl 9999: Download videos from YouTube.com (and more sites...)
 net-p2p/chimera 1.20: Chimera, a light-weight & efficient implementation of a structured peer-to-peer overlay network
 net-p2p/dogecoind 9999: Very scrypt! Such random! Much profit! Wow! Many coin!
 net-p2p/litecoind 9999: Litecoin manages to maintain the unique traits and attributes of Bitcoin, while adding to the mixture CPU-specific mining and a 2.5 minute block rate.
