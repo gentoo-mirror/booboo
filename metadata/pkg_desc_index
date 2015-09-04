@@ -113,7 +113,7 @@ media-libs/libdts 0.0.2-r3: library for decoding DTS Coherent Acoustics streams 
 media-libs/libmafw 0.2.2010.06: The Multimedia Applications FrameWork (MAFW) complements GStreamer to enhance the multimedia experience in the Maemo platform, providing developers with a flexible, easy to use, and extensible high-level layer on top of other included multimedia-related technologies.
 media-libs/libmafw-shared 0.3.2010.36: The Multimedia Applications FrameWork (MAFW) complements GStreamer to enhance the multimedia experience in the Maemo platform, providing developers with a flexible, easy to use, and extensible high-level layer on top of other included multimedia-related technologies.
 media-libs/netpbm 9999-r1: A set of utilities for converting to/from the netpbm (and related) formats
-media-plugins/alsa-plugin-rsound 9999: RSound plugin for ALSA
+media-plugins/alsa-plugin-rsound 9999-r1: RSound plugin for ALSA
 media-radio/GtkMMorse 9999: GtkMMorse is a morse code learning tool released under GPL, which provides two type of training methods: Koch method Classic method
 media-sound/acousticbrainz-gui 9999: This client lets you submit your own audio features to the AcousticBrainz project.
 media-sound/ayfly 0.0.25: Ayfly is a AY-891x emulator and player.
@@ -123,6 +123,7 @@ media-sound/cursynth 1.4: Cursynth is a polyphonic music synthesizer that runs g
 media-sound/m9u 0.5: m9u is designed to be a music server, much like mpd or xmms2. It sits in the background playing music, exporting an interface that one or more clients can connect to to control playback.
 media-sound/midieditor 9999: Simple Midi-Editing on Windows and Linux!
 media-sound/mumble 9999: Mumble is an open source, low-latency, high quality voice chat software
+media-sound/rsound 1.1: RSound is a networked audio system. It allows applications to transfer their audio data to a different computer.
 media-video/motion 9999-r1: A fork of the software motion detector
 media-video/mplayer 9999-r1: Media Player for Linux
 media-video/mplayer-mt 20090510: Media Player for Linux (with multithread decoding support)
