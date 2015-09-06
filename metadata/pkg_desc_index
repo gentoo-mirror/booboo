@@ -90,7 +90,7 @@ games-misc/opengfx 999_p5617_p182: OpenGFX data files for OpenTTD
 games-misc/openmsx 999_p5401_p20: An ambiguously named music replacement set for OpenTTD
 games-misc/opensfx 999_p5401_p15: OpenSFX data files for OpenTTD
 games-puzzle/neverball 9999: Clone of Super Monkey Ball using SDL/OpenGL
-games-simulation/openttd 1.5.1: OpenTTD is a clone of Transport Tycoon Deluxe
+games-simulation/openttd 1.5.1 1.5.2: OpenTTD is a clone of Transport Tycoon Deluxe
 games-simulation/simutrans-exp 9999: A free Transport Tycoon clone Experimental version.
 games-simulation/simutrans-exp-britain-ex 9999: Britain pakset for Simutrans Experimental
 games-simulation/simutrans-exp-lang 9999: Language pack for Simutrans
