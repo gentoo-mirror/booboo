@@ -23,6 +23,7 @@ app-misc/kdrill 6.5: Kanji quiz and a lookup tool for X, helps in memorizing Jap
 app-misc/todos 9999: Easy-to-use TODOs manager.
 app-misc/uimge 0.07.5.0: console application to post you pictures into web
 app-misc/wego 9999: wego is a weather client for the terminal.
+app-mobilephone/gsm-ussd 0.4.0.25: a script to send USSD (Unstructured Supplementary Services Data) queries to your broadband provider.
 app-office/ledger 9999: A double-entry accounting system with a command-line reporting interface
 app-paludis/pink-update 9999: paludis port of etc-update
 app-text/apvlv 9999-r2: a PDF Viewer which behaviors like Vim
