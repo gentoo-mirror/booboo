@@ -155,6 +155,7 @@ net-im/telegram-cli 9999-r1: Command line interface client for Telegram
 net-im/tkabber 9999-r6: GUI client for XMPP (Jabber) instant messaging protocol, written in Tcl/Tk.
 net-libs/libinfinity 9999: An implementation of the Infinote protocol written in GObject-based C.
 net-libs/loudmouth 9999: Lightweight C Jabber library
+net-libs/opendht 9999: A lightweight C++11 Distributed Hash Table implementation originally based on https://github.com/jech/dht by Juliusz Chroboczek.
 net-libs/pjsip 2.4: Multimedia communication libraries written in C language for building VoIP applications.
 net-libs/webkit-gtk 1.2.6-r1: Open source web browser engine
 net-libs/zoidcom 0.6.5 0.6.7 0.6.10: High-level, UDP-based networking library
