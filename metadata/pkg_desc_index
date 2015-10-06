@@ -178,7 +178,7 @@ net-p2p/chimera 1.20: Chimera, a light-weight & efficient implementation of a st
 net-p2p/dogecoind 9999: Very scrypt! Such random! Much profit! Wow! Many coin!
 net-p2p/litecoind 9999: Litecoin manages to maintain the unique traits and attributes of Bitcoin, while adding to the mixture CPU-specific mining and a 2.5 minute block rate.
 net-p2p/microdc2 0.15.6-r1: A small command-line based Direct Connect client
-net-p2p/openbazaar 9999: penBazaar is a decentralized marketplace proof of concept. It is based off of the POC code by the darkmarket team and is now licensed under the MIT license.
+net-p2p/openbazaar 9999: OpenBazaar is a decentralized marketplace proof of concept. It is based off of the POC code by the darkmarket team and is now licensed under the MIT license.
 net-p2p/opentracker 9999: An open and free bittorrent tracker
 net-p2p/quarkcoind 9999: Just another bitcoin fork
 net-p2p/transmission 9999: A Fast, Easy and Free BitTorrent client
