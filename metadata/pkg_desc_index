@@ -197,6 +197,7 @@ sys-apps/apparmor 2.10: Userspace utils and init scripts for the AppArmor applic
 sys-apps/apparmor-utils 2.10: Additional userspace utils to assist with AppArmor profile management
 sys-apps/usb_modeswitch 2.2.5_p20150627: USB_ModeSwitch is a tool for controlling 'flip flop' (multiple devices) USB gear like UMTS sticks
 sys-apps/vbtracetool 9999: Video bios execution tracing widget
+sys-boot/dracut-tuxonice 9999: TuxOnIce module for dracut.
 sys-devel/ct-ng 9999: crosstool-ng is a tool to build cross-compiling toolchains
 sys-fs/gmailfs 0.8.0: GmailFS provides a mountable Linux filesystem which uses your Gmail account as its storage medium.
 sys-fs/zfs-fuse 9999: An implementation of the ZFS filesystem for FUSE/Linux
