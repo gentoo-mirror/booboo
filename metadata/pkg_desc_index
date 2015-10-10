@@ -205,7 +205,7 @@ sys-fs/zfs-fuse 9999: An implementation of the ZFS filesystem for FUSE/Linux
 sys-libs/libapparmor 2.10: Library to support AppArmor userspace utilities
 sys-libs/libcal 9999: Configuration Access Library
 sys-libs/libspfs 0.2: Library for writing 9P2000 compliant user-space file servers that can be mounted using v9fs file system.
-www-client/qutebrowser 0.4.0: A keyboard-driven, vim-like browser based on PyQt5 and QtWebKit
+www-client/qutebrowser 0.4.0 0.4.1: A keyboard-driven, vim-like browser based on PyQt5 and QtWebKit
 www-client/uzbl 9999-r1: Web interface tools which adhere to the unix philosophy.
 www-client/vimb 2.10: a fast, lightweight, vim-like browser based on webkit
 www-client/vimprobable 9999: Vimprobable is a WWW browser that behaves like the Vimperator plugin available for Mozilla Firefox based on the WebKit engine using GTK bindings.
