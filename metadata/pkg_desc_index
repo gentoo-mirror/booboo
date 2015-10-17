@@ -16,6 +16,7 @@ app-dicts/stardict-mova-ushakov 2.4.2: Another Stardict Dictionary
 app-editors/gobby 9999: GTK-based collaborative editor
 app-forensics/afl 1.90b: american fuzzy lop - compile-time instrumentation fuzzer
 app-misc/2gis 3.5.5.1-r1: Proprietary freeware multimedia map of several Russian and Ukrainian towns
+app-misc/co2mon 9999: CLI for MasterKit CO2 Monitor
 app-misc/gentoo-sucks 0: An example of a portage flaw. Make sure it doesn't break your spawning stuff before running.
 app-misc/jq 9999: A lightweight and flexible command-line JSON processor
 app-misc/kanatest 9999: Visual flashcard tool for memorizing the Japanese Hiragana and Katakana alphabet
