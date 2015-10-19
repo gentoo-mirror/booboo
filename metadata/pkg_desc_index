@@ -163,6 +163,7 @@ net-libs/libringclient 9999: Ring is a Voice-over-IP software phone.
 net-libs/loudmouth 9999: Lightweight C Jabber library
 net-libs/opendht 9999: A lightweight C++11 Distributed Hash Table implementation originally based on https://github.com/jech/dht by Juliusz Chroboczek.
 net-libs/pjsip 2.4: Multimedia communication libraries written in C language for building VoIP applications.
+net-libs/ustream-ssl 9999: A general purpose library for the OpenWRT project.
 net-libs/webkit-gtk 1.2.6-r1: Open source web browser engine
 net-libs/zoidcom 0.6.5 0.6.7 0.6.10: High-level, UDP-based networking library
 net-mail/notifmail 9999: notifmail is an email daemon checker which notifies system about new emails on configured IMAP servers.
