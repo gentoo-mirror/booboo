@@ -214,7 +214,7 @@ www-client/uzbl 9999-r1: Web interface tools which adhere to the unix philosophy
 www-client/vimb 2.10: a fast, lightweight, vim-like browser based on webkit
 www-client/vimprobable 9999: Vimprobable is a WWW browser that behaves like the Vimperator plugin available for Mozilla Firefox based on the WebKit engine using GTK bindings.
 www-plugins/uzblstuff 9999: uzbl event manager and tab manager and cookie manager
-www-servers/lighttpd 9999: Lightweight high-performance web server
+www-servers/lighttpd 1.5.9999 2.9999: Lightweight high-performance web server
 www-servers/uhttpd 9999: OpenWRT HTTP server
 www-servers/yaws 9999: Yaws is a high performance HTTP 1.1 web server.
 x11-apps/arbtt 9999: Automatic Rule-Based Time Tracker
