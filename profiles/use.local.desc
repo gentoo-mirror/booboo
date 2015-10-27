@@ -40,6 +40,11 @@ net-im/spectrum:twitter - Twitter
 net-im/spectrum:yahoo - Yahoo
 net-libs/loudmouth:asyncns - Use libasyncns for asynchronous name resolution.
 net-libs/ortp:ntp-timestamp - Turn on NTP timestamping on received packet
+net-voip/linphone:assistant - Turn on assistant compiling (needs gtk enabled)
+net-voip/linphone:gsm-nonstandard - Support non-standard GSM frequencies
+net-voip/linphone:sqlite - Turn on compilation of message storage
+net-voip/linphone:tools - Compile tools
+net-voip/linphone:video - Enable video support (display/capture)
 sci-geosciences/googleearth:bundled-libs - Use bundled libraries.
 sci-geosciences/merkaartor:libproxy - Use net-libs/libproxy for getting the HTTP/HTTPS/SOCKS proxy configuration
 sci-geosciences/merkaartor:qrcode - Enable QR code scanning with media-gfx/zbar

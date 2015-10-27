@@ -194,6 +194,7 @@ net-p2p/opentracker 9999: An open and free bittorrent tracker
 net-p2p/quarkcoind 9999: Just another bitcoin fork
 net-p2p/transmission 9999: A Fast, Easy and Free BitTorrent client
 net-voip/gnome-ring 9999: Ring is a Voice-over-IP software phone.
+net-voip/linphone 9999: Video softphone based on the SIP protocol
 net-voip/ring-daemon 9999: Ring is a Voice-over-IP software phone.
 net-wireless/crda 1.0.1-r1: Central Regulatory Domain Agent for wireless networks.
 sci-geosciences/florb 9999: florb is a really simple map viewer and GPX editor written in C++ using the FLTK UI toolkit.
