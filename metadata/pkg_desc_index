@@ -58,6 +58,7 @@ dev-lang/psyclpc 20090321: psycLPC is a multi-user network server programming la
 dev-lang/sedsed 9999: Sedsed can debug, indent, tokenize and HTMLize your SED scripts.
 dev-libs/libev 4.15-r1: A high-performance event loop/event model with lots of feature
 dev-libs/librs232 9999: multiplatform library for serial communications over RS-232 (serial port)
+dev-libs/msgpack 1.2.0: MessagePack is a binary-based efficient data interchange format
 dev-perl/UI-Dialog 1.08: 
 dev-python/bitcoin 1.1.27: Python Bitcoin Tools
 dev-python/cjklib 0.3: Cjklib provides language routines related to Han characters (characters based on Chinese characters named Hanzi, Kanji, Hanja and chu Han respectively) used in writing of the Chinese, the Japanese, infrequently the Korean and formerly the Vietnamese language(s). Functionality is included for character pronunciations, radicals, glyph components, stroke decomposition and variant information.
