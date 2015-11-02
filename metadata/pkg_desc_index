@@ -194,6 +194,7 @@ net-p2p/openbazaar-server 9999: OpenBazaar is a decentralized marketplace proof 
 net-p2p/opentracker 9999: An open and free bittorrent tracker
 net-p2p/quarkcoind 9999: Just another bitcoin fork
 net-p2p/transmission 9999: A Fast, Easy and Free BitTorrent client
+net-voip/baresip 9999: Baresip is a portable and modular SIP User-Agent with audio and video support.
 net-voip/gnome-ring 9999: Ring is a Voice-over-IP software phone.
 net-voip/linphone 9999: Video softphone based on the SIP protocol
 net-voip/re 0.4.14: Libre is a portable and generic library for real-time communications with async IO support and a complete SIP stack with support for SDP, RTP/RTCP, STUN/TURN/ICE, BFCP and DNS Client
