@@ -4,7 +4,7 @@ app-admin/sigar 9999: System Information Gatherer And Reporter
 app-benchmarks/phoronix-test-suite 9999: Comprehensive testing and benchmarking platform
 app-cdr/lacie-lightscribe-labeler 1.0.6: LaCie LightScribe Labeler 4L
 app-crypt/qca-gnupg 2.0.0_beta3-r1: GnuPG plugin for QCA
-app-crypt/wotsap 0.7: Web of trust statistics and pathfinder
+app-crypt/wotsap 0.7-r1: Web of trust statistics and pathfinder
 app-dicts/stardict-edict 2.4.2: Collection of dicts for stardict.
 app-dicts/stardict-full-eng-rus 2.4.2: Full English-Russian
 app-dicts/stardict-full-rus-eng 2.4.2: Full Russian-English
