@@ -27,6 +27,7 @@ app-mobilephone/gsm-ussd 0.4.0.25: a script to send USSD (Unstructured Supplemen
 app-office/blockdiag 1.5.3: Simple block diagram generator
 app-office/ledger 9999: A double-entry accounting system with a command-line reporting interface
 app-paludis/pink-update 9999: paludis port of etc-update
+app-portage/gentoo-clang 9999: Clang blacklist synchronizer.
 app-text/apvlv 9999-r2: a PDF Viewer which behaviors like Vim
 app-text/epub2pdf 0.5: epub2pdf is a command-line tool that quickly generates PDF files from EPUB ebooks. It allows the user to specify page size, fonts, margins, and default paragraph alignment.
 app-text/htmltidy 99999999: The granddaddy of HTML tools, with support for modern standards
