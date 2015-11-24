@@ -1,0 +1,12 @@
+DEFINED_PHASES=configure postinst prepare
+DEPEND=dev-libs/check !<sys-devel/gettext-0.18.1.1-r3 || ( >=sys-devel/automake-1.15:1.15 ) >=sys-devel/autoconf-2.69 >=sys-devel/libtool-2.4
+DESCRIPTION=The Multimedia Applications FrameWork (MAFW) complements GStreamer to enhance the multimedia experience in the Maemo platform, providing developers with a flexible, easy to use, and extensible high-level layer on top of other included multimedia-related technologies.
+EAPI=5
+HOMEPAGE=https://wiki.maemo.org/Documentation/Maemo_5_Developer_Guide/Using_Multimedia_Components/Media_Application_Framework_(MAFW)
+KEYWORDS=~amd64 ~x86 ~arm
+LICENSE=LGPL-2.1
+SLOT=0
+SRC_URI=http://repository.maemo.org/pool/maemo5.0/free/libm/libmafw/libmafw_0.2.2010.06-1+0m5.tar.gz
+_eclass_exported_funcs=pkg_postinst:- src_prepare:- src_configure:-
+_eclasses_=autotools	07e71b3b5690738ef7e8bc097077e00c	eutils	f20548a2f7b0128068388cd2ec26708a	libtool	b75230758539a7da029e24afdb693960	multilib	3972ca401cf7dbb430df9995f5d8d580	toolchain-funcs	7a212e5e01adfa4805c9978366e6ee85
+_md5_=eaeb0714de8a9f33131b053add379b74

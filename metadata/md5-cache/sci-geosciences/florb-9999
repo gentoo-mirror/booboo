@@ -1,0 +1,11 @@
+DEFINED_PHASES=compile install unpack
+DEPEND=dev-util/omake >=dev-vcs/git-1.8.2.1
+DESCRIPTION=florb is a really simple map viewer and GPX editor written in C++ using the FLTK UI toolkit.
+EAPI=5
+HOMEPAGE=http://florb.shugaa.de/
+LICENSE=MIT
+RDEPEND=dev-libs/tinyxml2 x11-libs/fltk sci-geosciences/gpsd[cxx] >=dev-cpp/yaml-cpp-0.5.0 dev-libs/boost net-misc/curl x11-libs/libXpm
+SLOT=0
+_eclass_exported_funcs=src_unpack:git-r3 src_compile:- src_install:-
+_eclasses_=eutils	f20548a2f7b0128068388cd2ec26708a	git-r3	b00a846f415f26e5b66e5c44c7dc87dc	multilib	3972ca401cf7dbb430df9995f5d8d580	toolchain-funcs	7a212e5e01adfa4805c9978366e6ee85
+_md5_=7a15d59c007890d941ca3a8d1867d515

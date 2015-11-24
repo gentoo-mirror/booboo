@@ -1,0 +1,12 @@
+DEFINED_PHASES=compile configure install prepare setup test unpack
+DEPEND=>=dev-libs/boost-1.35:=[python?] dev-libs/gmp dev-libs/mpfr doc? ( sys-apps/texinfo ) libedit? ( dev-libs/libedit ) sys-devel/make >=dev-util/cmake-2.8.12 userland_GNU? ( >=sys-apps/findutils-4.4.0 ) >=dev-vcs/git-1.8.2.1
+DESCRIPTION=A double-entry accounting system with a command-line reporting interface
+EAPI=5
+HOMEPAGE=http://ledger-cli.org/
+IUSE=debug doc gnuplot libedit python static-libs vim-syntax experimental
+LICENSE=BSD
+RDEPEND=>=dev-libs/boost-1.35:=[python?] dev-libs/gmp dev-libs/mpfr doc? ( sys-apps/texinfo ) libedit? ( dev-libs/libedit ) gnuplot? ( sci-visualization/gnuplot ) vim-syntax? ( app-vim/ledger-syntax )
+SLOT=0
+_eclass_exported_funcs=pkg_setup:python src_unpack:git-r3 src_prepare:- src_configure:- src_compile:- src_test:cmake-utils src_install:-
+_eclasses_=cmake-utils	f16fa5681153277df51f001deaf17ff8	eutils	f20548a2f7b0128068388cd2ec26708a	flag-o-matic	85dc1eac3c64d8141374490ed64122e5	git-r3	b00a846f415f26e5b66e5c44c7dc87dc	multilib	3972ca401cf7dbb430df9995f5d8d580	python	0c2c16ea4f9074d3248bd4365d03890c	toolchain-funcs	7a212e5e01adfa4805c9978366e6ee85	versionator	99ae9d758cbe7cfed19170e7d48f5a9c
+_md5_=822af420ffb09a158dff8804e7ff7a77
