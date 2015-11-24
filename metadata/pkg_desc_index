@@ -1,10 +1,10 @@
-app-admin/firejail 0.9.20 0.9.22 0.9.26 0.9.28 0.9.32: Firejail is a SUID security sandbox program that reduces the risk of security breaches by restricting the running environment of untrusted applications using Linux namespaces and seccomp-bpf. It allows a process and all its descendants to have their own private view of the globally shared kernel resources, such as the network stack, process table, mount table.
-app-admin/firetools 0.9.26.1 0.9.30: Firetools is the graphical user interface of Firejail security sandbox. It provides a sandbox launcher integrated with the system tray, sandbox editing, management and statistics. The application is built using Qt4 libraries, and it is distributed as a separate package.
-app-admin/sigar 9999: System Information Gatherer And Reporter
+app-admin/firejail 0.9.20 0.9.22 0.9.26 0.9.28 0.9.32: 
+app-admin/firetools 0.9.26.1 0.9.30: 
+app-admin/sigar 9999: 
 app-benchmarks/phoronix-test-suite 9999: Comprehensive testing and benchmarking platform
 app-cdr/lacie-lightscribe-labeler 1.0.6: LaCie LightScribe Labeler 4L
 app-crypt/qca-gnupg 2.0.0_beta3-r1: GnuPG plugin for QCA
-app-crypt/wotsap 0.7-r1: Web of trust statistics and pathfinder
+app-crypt/wotsap 0.7-r1: 
 app-dicts/stardict-edict 2.4.2: Collection of dicts for stardict.
 app-dicts/stardict-full-eng-rus 2.4.2: Full English-Russian
 app-dicts/stardict-full-rus-eng 2.4.2: Full Russian-English
@@ -14,84 +14,84 @@ app-dicts/stardict-longman 2.4.2: Stardict Longman Dictionary of Contemporary En
 app-dicts/stardict-mova-ozhegov 2.4.2: Another Stardict Dictionary
 app-dicts/stardict-mova-ushakov 2.4.2: Another Stardict Dictionary
 app-editors/gobby 9999: GTK-based collaborative editor
-app-forensics/afl 1.90b: american fuzzy lop - compile-time instrumentation fuzzer
-app-misc/co2mon 9999: CLI for MasterKit CO2 Monitor
+app-forensics/afl 1.90b: 
+app-misc/co2mon 9999: 
 app-misc/gentoo-sucks 0: An example of a portage flaw. Make sure it doesn't break your spawning stuff before running.
-app-misc/jq 9999: A lightweight and flexible command-line JSON processor
+app-misc/jq 9999: 
 app-misc/kanatest 9999: Visual flashcard tool for memorizing the Japanese Hiragana and Katakana alphabet
 app-misc/kdrill 6.5: Kanji quiz and a lookup tool for X, helps in memorizing Japanese characters
 app-misc/todos 9999: Easy-to-use TODOs manager.
 app-misc/uimge 0.07.5.0: console application to post you pictures into web
-app-misc/wego 9999: wego is a weather client for the terminal.
-app-mobilephone/gsm-ussd 0.4.0.25: a script to send USSD (Unstructured Supplementary Services Data) queries to your broadband provider.
+app-misc/wego 9999: 
+app-mobilephone/gsm-ussd 0.4.0.25: 
 app-office/blockdiag 1.5.3: Simple block diagram generator
-app-office/ledger 9999: A double-entry accounting system with a command-line reporting interface
+app-office/ledger 9999: 
 app-paludis/pink-update 9999: paludis port of etc-update
-app-portage/gentoo-clang 9999: Clang blacklist synchronizer.
+app-portage/gentoo-clang 9999: 
 app-text/apvlv 9999-r2: a PDF Viewer which behaviors like Vim
 app-text/epub2pdf 0.5: epub2pdf is a command-line tool that quickly generates PDF files from EPUB ebooks. It allows the user to specify page size, fonts, margins, and default paragraph alignment.
-app-text/htmltidy 99999999: The granddaddy of HTML tools, with support for modern standards
-app-text/polebrush 9999: Polebrush — human-oriented markup language
+app-text/htmltidy 99999999: 
+app-text/polebrush 9999: 
 app-text/uniutils 2.27: This package consists of a set of programs for manipulating and analyzing Unicode text. The analysis utilities are useful when working with Unicode files when one doesn't know the writing system, doesn't have the necessary font, needs to inspect invisible characters, needs to find out whether characters have been combined or in what order they occur, or needs statistics on which characters occur.
-app-text/xml2rfc 2.5.0: Xml2rfc generates RFCs and IETF drafts from document source in XML according to the dtd in RFC2629.
-app-vim/ledger-syntax 9999: vim plugin: app-office/ledger file format syntax
+app-text/xml2rfc 2.5.0: 
+app-vim/ledger-syntax 9999: 
 app-vim/rc-syntax 20091204 20091226: vim plugin: rc shell script syntax highlighting
 dev-cpp/commoncpp2 9999: GNU Common C++ is a C++ framework offering portable support for threading, sockets, file access, daemons, persistence, serial I/O, XML parsing, and system services
-dev-embedded/libmpsse 1.3: Open source library for SPI/I2C control via FTDI chips
-dev-embedded/serproxy 0.1.2: Serproxy is a multi-threaded proxy program for redirecting network socket connections to/from serial links, in cases where the remote end of the serial link doesn't have a TCP/IP stack (eg an embedded or microcontroller system). The proxy allows other hosts on the network to communicate with the system on the remote end of the serial link.
-dev-embedded/stlink 9999-r1: On board debugger driver for stm32-discovery boards
-dev-embedded/stm32flash 0.4: Open source flash program for STM32 using the ST serial bootloader
-dev-embedded/stm32sprog 9999: Serial programmer for STM32 that uses the built in bootloader's USART protocol.
-dev-go/go-colorable 9999: Colorable writer
+dev-embedded/libmpsse 1.3: 
+dev-embedded/serproxy 0.1.2: 
+dev-embedded/stlink 9999-r1: 
+dev-embedded/stm32flash 0.4: 
+dev-embedded/stm32sprog 9999: 
+dev-go/go-colorable 9999: 
 dev-go/go9p 9999: 
-dev-haskell/blaze-svg 0.3.4.1: SVG combinator library
-dev-haskell/boolean 0.2.3: Generalized booleans and numbers
-dev-haskell/bytestring-progress 1.0.5: A library for tracking the consumption of a lazy ByteString
+dev-haskell/blaze-svg 0.3.4.1: 
+dev-haskell/boolean 0.2.3: 
+dev-haskell/bytestring-progress 1.0.5: 
 dev-haskell/haxml 9999: Utilities for manipulating XML documents
-dev-haskell/memotrie 0.6.2: Trie-based memo functions
-dev-haskell/numinstances 1.4: Instances of numeric classes for functions and tuples
-dev-haskell/storable-endian 0.2.5: Storable instances with endianness
-dev-haskell/terminal-progress-bar 0.0.1.4: A simple progress bar in the terminal
-dev-haskell/vector-space 0.10.2: Vector & affine spaces, linear maps, and derivatives
-dev-lang/go 9999-r1: A concurrent garbage collected and typesafe programming language
+dev-haskell/memotrie 0.6.2: 
+dev-haskell/numinstances 1.4: 
+dev-haskell/storable-endian 0.2.5: 
+dev-haskell/terminal-progress-bar 0.0.1.4: 
+dev-haskell/vector-space 0.10.2: 
+dev-lang/go 9999-r1: 
 dev-lang/kdb+ 9999: K is a proprietary array processing language.
 dev-lang/kona 9999: Kona is an open-source implementation of the K programming language.
 dev-lang/openapl 0.14: OpenAPL is an open-source APL (A Programming Language) implementation. APL's strength is in the ease with which a programmer can manipulate arrays of numbers or characters.
 dev-lang/owl 0.7.6: owl means Obfuscated Weird Language, and it's my main project regarding obfuscated programming languages. It was born from the ashes of bogusforth (another older language of mine, not longer maintained), but it's a different thing. Its foundations are simplicity, strength and power.
 dev-lang/psyclpc 20090321: psycLPC is a multi-user network server programming language
 dev-lang/sedsed 9999: Sedsed can debug, indent, tokenize and HTMLize your SED scripts.
-dev-libs/libev 4.15-r1: A high-performance event loop/event model with lots of feature
-dev-libs/librs232 9999: multiplatform library for serial communications over RS-232 (serial port)
-dev-libs/msgpack 1.2.0: MessagePack is a binary-based efficient data interchange format
+dev-libs/libev 4.15-r1: 
+dev-libs/librs232 9999: 
+dev-libs/msgpack 1.2.0: 
 dev-perl/UI-Dialog 1.08: 
-dev-python/bitcoin 1.1.27: Python Bitcoin Tools
+dev-python/bitcoin 1.1.27: 
 dev-python/cjklib 0.3: Cjklib provides language routines related to Han characters (characters based on Chinese characters named Hanzi, Kanji, Hanja and chu Han respectively) used in writing of the Chinese, the Japanese, infrequently the Korean and formerly the Vietnamese language(s). Functionality is included for character pronunciations, radicals, glyph components, stroke decomposition and variant information.
-dev-python/dnschain 0.1.0: A Python DNSChain library
-dev-python/foolscap 0.8.0: RPC protocol for Twisted
+dev-python/dnschain 0.1.0: 
+dev-python/foolscap 0.8.0: 
 dev-python/fs 9999: Filesystem abstraction
-dev-python/html2text 2015.4.14: Turn HTML into equivalent Markdown-structured text
-dev-python/notify2 0.3: Python interface to DBus notifications
-dev-python/pyee 0.1.0: A port of node.js's EventEmitter to python.
-dev-python/pyelliptic 1.5.6: Python OpenSSL wrapper for modern cryptography with ECC, AES, HMAC, Blowfish, ...
-dev-python/pynacl 9999: PyNaCl is a Python binding to the Networking and Cryptography library, a crypto library with the stated goal of improving usability, security and speed.
-dev-python/pystun 0.1.0: A Python STUN client for getting NAT type and external IP (RFC 3489)
-dev-python/python-obelisk 0.1.3: Python native client for the obelisk blockchain server.
-dev-python/txrestapi 0.2: Easing the creation of REST API services in Python
-dev-python/txrudp 9999: Implementation of a Reliable UDP Protocol Layer over Twisted.
-dev-qt/libgq 0.2: This is libgq, a set of small libraries with Q wrappers for G things.
-dev-qt/qt5ct 0.19: Qt5 configuration utility
-dev-tcltk/tclgpg 9999-r1: Tcl interface to GNU Privacy Guard with interface similar to TclGPGME.
-dev-tcltk/tcludp 1.0.11: The Tcl UDP extension provides a simple library to support UDP socket in Tcl.
+dev-python/html2text 2015.4.14: 
+dev-python/notify2 0.3: 
+dev-python/pyee 0.1.0: 
+dev-python/pyelliptic 1.5.6: 
+dev-python/pynacl 9999: 
+dev-python/pystun 0.1.0: 
+dev-python/python-obelisk 0.1.3: 
+dev-python/txrestapi 0.2: 
+dev-python/txrudp 9999: 
+dev-qt/libgq 0.2: 
+dev-qt/qt5ct 0.19: 
+dev-tcltk/tclgpg 9999-r1: 
+dev-tcltk/tcludp 1.0.11: 
 dev-tcltk/tkimg 9999: Adds a lot of image formats to Tcl/Tk
 dev-util/abootimg 9999-r1: Manipulate boot images for the Android bootloader
 dev-util/gstlfilt 3.10: STLFilt simplifies and/or reformats long-winded C++ error and warning messages, with a focus on STL-related diagnostics
 dev-util/monodevelop-fsharp 9999: F# language binding for MonoDevelop
-dev-vcs/vcsh 9999: Manage config files in $HOME via fake bare git repositories
+dev-vcs/vcsh 9999: 
 games-arcade/jumpnbump 1.55: a funny multiplayer game about cute little fluffy bunnies
 games-arcade/taisei 1.0a 9999: Taisei (lit. Occident) is a fan-made, Open Source clone of the Touhou series, written in C using SDL/OpenGL/OpenAL.
 games-board/glgo 1.4.1: PANDA-glGo is a board interface for Go games
 games-board/qgo2 9999: qGo is a full featured SGF editor and Go Client.
-games-board/rftg 0.9.4: "Race for the Galaxy" card game.
+games-board/rftg 0.9.4: 
 games-engines/onscripter-en 99999999: A fork of the ONScripter engine with added English support
 games-fps/anaglyph-stereo-quake 130100-r1: play Quake in 3D with red - blue glasses
 games-fps/darkplaces 9999: Enhanced engine for iD Software's Quake 1
@@ -99,55 +99,55 @@ games-fps/doomsday 1.9.0_beta69: A modern gaming engine for Doom, Heretic, and H
 games-fps/ezquake 9999: Quakeworld client with mqwcl functionality and many more features.
 games-fps/tremulous-bin 1.1.0: Team-based aliens vs humans FPS with buildable structures
 games-fps/tremulous-gpp 1: Team-based aliens vs humans FPS with buildable structures
-games-misc/opengfx 999_p5617_p182: OpenGFX data files for OpenTTD
-games-misc/openmsx 999_p5401_p20: An ambiguously named music replacement set for OpenTTD
-games-misc/opensfx 999_p5401_p15: OpenSFX data files for OpenTTD
+games-misc/opengfx 999_p5617_p182: 
+games-misc/openmsx 999_p5401_p20: 
+games-misc/opensfx 999_p5401_p15: 
 games-puzzle/neverball 9999: Clone of Super Monkey Ball using SDL/OpenGL
-games-simulation/openttd 1.5.1 1.5.2: OpenTTD is a clone of Transport Tycoon Deluxe
-games-simulation/simutrans-exp 9999: A free Transport Tycoon clone Experimental version.
-games-simulation/simutrans-exp-britain-ex 9999: Britain pakset for Simutrans Experimental
-games-simulation/simutrans-exp-lang 9999: Language pack for Simutrans
+games-simulation/openttd 1.5.1 1.5.2: 
+games-simulation/simutrans-exp 9999: 
+games-simulation/simutrans-exp-britain-ex 9999: 
+games-simulation/simutrans-exp-lang 9999: 
 games-strategy/dyson 1.10: Dyson is an ambient real-time strategy game with abstract visuals.
-games-strategy/freeciv 2.5.0: multiplayer strategy game (Civilization Clone)
+games-strategy/freeciv 2.5.0: 
 games-strategy/hedgewars 9999: Free Worms-like turn based strategy game
 games-strategy/ufo-ai 2.5: UFO: Alien Invasion - X-COM inspired strategy game
-games-util/catcodec 1.0.5: Decodes and encodes sample catalogues for OpenTTD
-games-util/grfcodec 999_p988: A suite of programs to modify openttd/Transport Tycoon Deluxe's GRF files
-games-util/nml 999_p5655_p412: Compiler of NML files into grf/nfo files
-gnome-base/gconf 2.18.0.1: Gnome Configuration System and Daemon
+games-util/catcodec 1.0.5: 
+games-util/grfcodec 999_p988: 
+games-util/nml 999_p5655_p412: 
+gnome-base/gconf 2.18.0.1: 
 media-fonts/arialuni 2: Arial Unicode MS Font is an extended version of font Arial
-media-gfx/amide 1.0.5: Amide's a Medical Image Data Examiner: Amide is a tool for viewing, registering, and analyzing anatomical and functional volumetric medical imaging data sets.
-media-gfx/implicitcad 9999: Math-inspired programmatic 2&3D CAD: CSG, bevels, and shells; gcode export
-media-gfx/qiv 9999: Quick Image Viewer
+media-gfx/amide 1.0.5: 
+media-gfx/implicitcad 9999: 
+media-gfx/qiv 9999: 
 media-gfx/synfig 0.63.03 0.63.04 0.63.05: Film-Quality Vector Animation (core engine)
 media-gfx/synfigstudio 0.63.03 0.63.04 0.63.05: Main UI of synfig: Film-Quality Vector Animation
 media-gfx/vuescan 8.6.38 9999: A high-quality scanning and digital camera raw image processing software.
 media-libs/libdts 0.0.2-r3: library for decoding DTS Coherent Acoustics streams used in DVD
-media-libs/libmafw 0.2.2010.06: The Multimedia Applications FrameWork (MAFW) complements GStreamer to enhance the multimedia experience in the Maemo platform, providing developers with a flexible, easy to use, and extensible high-level layer on top of other included multimedia-related technologies.
-media-libs/libmafw-shared 0.3.2010.36: The Multimedia Applications FrameWork (MAFW) complements GStreamer to enhance the multimedia experience in the Maemo platform, providing developers with a flexible, easy to use, and extensible high-level layer on top of other included multimedia-related technologies.
-media-libs/mediastreamer 9999: Mediastreaming library for telephony application
+media-libs/libmafw 0.2.2010.06: 
+media-libs/libmafw-shared 0.3.2010.36: 
+media-libs/mediastreamer 9999: 
 media-libs/netpbm 9999-r1: A set of utilities for converting to/from the netpbm (and related) formats
-media-libs/rem 0.4.6: Librem is a portable and generic library for real-time audio and video processing.
-media-plugins/alsa-plugin-rsound 9999-r1: RSound plugin for ALSA
+media-libs/rem 0.4.6: 
+media-plugins/alsa-plugin-rsound 9999-r1: 
 media-radio/GtkMMorse 9999: GtkMMorse is a morse code learning tool released under GPL, which provides two type of training methods: Koch method Classic method
-media-sound/acousticbrainz-gui 9999: This client lets you submit your own audio features to the AcousticBrainz project.
+media-sound/acousticbrainz-gui 9999: 
 media-sound/ayfly 0.0.25: Ayfly is a AY-891x emulator and player.
-media-sound/cmus 9999: A ncurses based music player with plugin support for many formats
+media-sound/cmus 9999: 
 media-sound/cmusfm 0.1.2: Last.fm scrobbler for cmus music player
-media-sound/cursynth 1.4: Cursynth is a polyphonic music synthesizer that runs graphically inside your terminal.
+media-sound/cursynth 1.4: 
 media-sound/m9u 0.5: m9u is designed to be a music server, much like mpd or xmms2. It sits in the background playing music, exporting an interface that one or more clients can connect to to control playback.
-media-sound/midieditor 9999: Simple Midi-Editing on Windows and Linux!
-media-sound/mumble 9999: Mumble is an open source, low-latency, high quality voice chat software
-media-sound/rsound 1.1: RSound is a networked audio system. It allows applications to transfer their audio data to a different computer.
+media-sound/midieditor 9999: 
+media-sound/mumble 9999: 
+media-sound/rsound 1.1: 
 media-video/motion 9999-r1: A fork of the software motion detector
 media-video/mplayer 9999-r1: Media Player for Linux
 media-video/mplayer-mt 20090510: Media Player for Linux (with multithread decoding support)
 media-video/recordmydesktop 9999: A desktop session recorder producing Ogg video/audio files
-net-analyzer/nmap_vulscan 2.0: A NSE vulnerability scanner which uses an offline version of different vulnerability databases
+net-analyzer/nmap_vulscan 2.0: 
 net-dialup/openl2tp 1.7 1.8: Userspace tools for kernel L2TP implementation.
 net-fs/davfs2 1.5.2: Linux FUSE (or coda) driver that allows you to mount a WebDAV resource
-net-fs/tahoe-lafs 9999: Secure, decentralized, data store
-net-fs/tahoestaticfs 9999: Tahoestaticfs is a Fuse filesystem that enables read and write access to files stored on a Tahoe-LAFS grid.
+net-fs/tahoe-lafs 9999: 
+net-fs/tahoestaticfs 9999: 
 net-fs/u9fs 9999: 9P2000 Server
 net-ftn/binkd 9999: Binkd - the binkp daemon for FTN communications
 net-ftn/husky-areafix 9999: FTN husky areafix library
@@ -155,96 +155,96 @@ net-ftn/husky-fidoconf 9999: FTN husky fidoconf library
 net-ftn/husky-hpt 9999: FTN husky hpt library
 net-ftn/husky-huskylib 9999: FTN husky huskylib library
 net-ftn/husky-smapi 9999: FTN husky smapi library
-net-im/biboumi 2.0: XMPP gateway to IRC.
-net-im/communi 2.2.9999: A cross-platform IRC framework written with Qt
-net-im/dyskinesia 9999: A PSYC client written in QT
+net-im/biboumi 2.0: 
+net-im/communi 2.2.9999: 
+net-im/dyskinesia 9999: 
 net-im/hatexmpp 9999: hatexmpp is a xmpp-client featuring ii-like interface
 net-im/psyced 20090617: Server for Decentralized Messaging and Chat over PSYC, IRC, Jabber/XMPP and more
-net-im/pyimapsmtpt 9999: An xmpp transport (or bot, possibly to-be-done) that allows using IMAP+SSMTP (e.g. gmail's) from an XMPP client.
-net-im/ricochet 9999: Anonymous metadata-resistant instant messaging that just works
+net-im/pyimapsmtpt 9999: 
+net-im/ricochet 9999: 
 net-im/spectrum 9999-r1: Spectrum is a XMPP transport/gateway
 net-im/swiften 2.9999-r1 3.0_beta2: Just a perfect C++ XMPP library
-net-im/telegram-cli 9999-r1: Command line interface client for Telegram
-net-im/tkabber 9999-r6: GUI client for XMPP (Jabber) instant messaging protocol, written in Tcl/Tk.
-net-libs/belle-sip 9999: SIP (RFC3261) implementation written in C, with an object oriented API
+net-im/telegram-cli 9999-r1: 
+net-im/tkabber 9999-r6: 
+net-libs/belle-sip 9999: 
 net-libs/libinfinity 9999: An implementation of the Infinote protocol written in GObject-based C.
-net-libs/liboping 9999: C library and ncurses based program to generate ICMP echo requests and ping multiple hosts at once
-net-libs/libringclient 9999: Ring is a Voice-over-IP software phone.
+net-libs/liboping 9999: 
+net-libs/libringclient 9999: 
 net-libs/loudmouth 9999: Lightweight C Jabber library
-net-libs/opendht 9999: A lightweight C++11 Distributed Hash Table implementation originally based on https://github.com/jech/dht by Juliusz Chroboczek.
-net-libs/ortp 9999: Open Real-time Transport Protocol (RTP, RFC3550) stack
+net-libs/opendht 9999: 
+net-libs/ortp 9999: 
 net-libs/pjsip 2.4: Multimedia communication libraries written in C language for building VoIP applications.
-net-libs/ustream-ssl 9999: A general purpose library for the OpenWRT project.
+net-libs/ustream-ssl 9999: 
 net-libs/webkit-gtk 1.2.6-r1: Open source web browser engine
 net-libs/zoidcom 0.6.5 0.6.7 0.6.10: High-level, UDP-based networking library
-net-mail/notifmail 9999: notifmail is an email daemon checker which notifies system about new emails on configured IMAP servers.
-net-misc/dialer-app 9999: Dialer app for Ubuntu Touch
+net-mail/notifmail 9999: 
+net-misc/dialer-app 9999: 
 net-misc/drawterm 9999: drawterm – connect to Plan 9 CPU servers from other operating systems
 net-misc/gopher 3.0.13: Distributed Hypertext Client, Gopher protocol
-net-misc/iodine 9999: IP over DNS tunnel
+net-misc/iodine 9999: 
 net-misc/killcx 1.0.3: Close a TCP connection
-net-misc/mobos-gui 9999: A simple QML GUI to use with oFono
+net-misc/mobos-gui 9999: 
 net-misc/n2n 9999-r1: A Layer Two Peer-to-Peer VPN
 net-misc/radvd 9999: Linux IPv6 Router Advertisement Daemon
 net-misc/tor-arm 9999: Terminal tor status monitor
-net-misc/trackma 9999: Open multi-site list manager for media tracking sites.
+net-misc/trackma 9999: 
 net-misc/vuurmuur_conf 0.7: Iptables frontend. Ncurses GUI, for administration and monitoring.
-net-misc/youtube-dl 9999: Download videos from YouTube.com (and more sites...)
+net-misc/youtube-dl 9999: 
 net-p2p/chimera 1.20: Chimera, a light-weight & efficient implementation of a structured peer-to-peer overlay network
 net-p2p/dogecoind 9999: Very scrypt! Such random! Much profit! Wow! Many coin!
 net-p2p/litecoind 9999: Litecoin manages to maintain the unique traits and attributes of Bitcoin, while adding to the mixture CPU-specific mining and a 2.5 minute block rate.
 net-p2p/microdc2 0.15.6-r1: A small command-line based Direct Connect client
-net-p2p/openbazaar 9999: OpenBazaar is a decentralized marketplace proof of concept. It is based off of the POC code by the darkmarket team and is now licensed under the MIT license.
-net-p2p/openbazaar-server 9999: OpenBazaar is a decentralized marketplace proof of concept. It is based off of the POC code by the darkmarket team and is now licensed under the MIT license.
+net-p2p/openbazaar 9999: 
+net-p2p/openbazaar-server 9999: 
 net-p2p/opentracker 9999: An open and free bittorrent tracker
 net-p2p/quarkcoind 9999: Just another bitcoin fork
 net-p2p/transmission 9999: A Fast, Easy and Free BitTorrent client
-net-voip/baresip 9999: Baresip is a portable and modular SIP User-Agent with audio and video support.
-net-voip/gnome-ring 9999: Ring is a Voice-over-IP software phone.
-net-voip/linphone 9999: Video softphone based on the SIP protocol
-net-voip/re 0.4.14: Libre is a portable and generic library for real-time communications with async IO support and a complete SIP stack with support for SDP, RTP/RTCP, STUN/TURN/ICE, BFCP and DNS Client
-net-voip/ring-daemon 9999: Ring is a Voice-over-IP software phone.
+net-voip/baresip 9999: 
+net-voip/gnome-ring 9999: 
+net-voip/linphone 9999: 
+net-voip/re 0.4.14: 
+net-voip/ring-daemon 9999: 
 net-wireless/crda 1.0.1-r1: Central Regulatory Domain Agent for wireless networks.
-sci-electronics/qucs 0.0.19.150523: Quite Universal Circuit Simulator in Qt4
-sci-geosciences/florb 9999: florb is a really simple map viewer and GPX editor written in C++ using the FLTK UI toolkit.
-sci-geosciences/googleearth 7.1.4.1529: A 3D interface to the planet
+sci-electronics/qucs 0.0.19.150523: 
+sci-geosciences/florb 9999: 
+sci-geosciences/googleearth 7.1.4.1529: 
 sci-geosciences/grass 6.4.2-r1 6.4.3-r1: A free GIS with raster and vector functionality, as well as 3D vizualization
-sci-geosciences/merkaartor 0.18.2: A Qt4 based map editor for the openstreetmap.org project
-sci-libs/gdcm 2.4.4: Cross-platform DICOM implementation
-sci-libs/itk 3.20.1: NLM Insight Segmentation and Registration Toolkit
+sci-geosciences/merkaartor 0.18.2: 
+sci-libs/gdcm 2.4.4: 
+sci-libs/itk 3.20.1: 
 sys-apps/915resolution 0.5.3: Utility to patch VBIOS of Intel 855 / 865 / 915 chipsets
 sys-apps/9mount 1.3 9999: A set of SUID mounting tools for use with v9fs.
-sys-apps/apparmor 2.10: Userspace utils and init scripts for the AppArmor application security system
-sys-apps/apparmor-utils 2.10: Additional userspace utils to assist with AppArmor profile management
-sys-apps/usb_modeswitch 2.2.5_p20150627: USB_ModeSwitch is a tool for controlling 'flip flop' (multiple devices) USB gear like UMTS sticks
+sys-apps/apparmor 2.10: 
+sys-apps/apparmor-utils 2.10: 
+sys-apps/usb_modeswitch 2.2.5_p20150627: 
 sys-apps/vbtracetool 9999: Video bios execution tracing widget
-sys-boot/dracut-tuxonice 9999: TuxOnIce module for dracut.
-sys-devel/ct-ng 9999: crosstool-ng is a tool to build cross-compiling toolchains
+sys-boot/dracut-tuxonice 9999: 
+sys-devel/ct-ng 9999: 
 sys-fs/gmailfs 0.8.0: GmailFS provides a mountable Linux filesystem which uses your Gmail account as its storage medium.
 sys-fs/zfs-fuse 9999: An implementation of the ZFS filesystem for FUSE/Linux
-sys-libs/libapparmor 2.10: Library to support AppArmor userspace utilities
-sys-libs/libcal 9999: Configuration Access Library
+sys-libs/libapparmor 2.10: 
+sys-libs/libcal 9999: 
 sys-libs/libspfs 0.2: Library for writing 9P2000 compliant user-space file servers that can be mounted using v9fs file system.
-www-client/dillo 9999: Lean FLTK based web browser
-www-client/qutebrowser 0.4.0 0.4.1: A keyboard-driven, vim-like browser based on PyQt5 and QtWebKit
-www-client/uzbl 9999-r1: Web interface tools which adhere to the unix philosophy.
-www-client/vimb 2.10: a fast, lightweight, vim-like browser based on webkit
+www-client/dillo 9999: 
+www-client/qutebrowser 0.4.0 0.4.1: 
+www-client/uzbl 9999-r1: 
+www-client/vimb 2.10: 
 www-client/vimprobable 9999: Vimprobable is a WWW browser that behaves like the Vimperator plugin available for Mozilla Firefox based on the WebKit engine using GTK bindings.
 www-plugins/uzblstuff 9999: uzbl event manager and tab manager and cookie manager
-www-servers/lighttpd 1.5.9999 2.9999: Lightweight high-performance web server
-www-servers/uhttpd 9999: OpenWRT HTTP server
+www-servers/lighttpd 1.5.9999 2.9999: 
+www-servers/uhttpd 9999: 
 www-servers/yaws 9999: Yaws is a high performance HTTP 1.1 web server.
-x11-apps/arbtt 9999: Automatic Rule-Based Time Tracker
+x11-apps/arbtt 9999: 
 x11-drivers/synaptics 0.14.6-r2: Driver for Synaptics touchpads
 x11-libs/qt-meta 3.3.8b-r3: The Qt toolkit is a comprehensive C++ application development framework.
 x11-libs/xosd 2.2.14-r2: Library for overlaying text in X-Windows X-On-Screen-Display plus binary for sending text from CLI
 x11-misc/dmenu 4.0-r1: a generic, highly customizable, and efficient menu for the X Window System
 x11-misc/dzen 9999: a general purpose messaging, notification and menuing program for X11.
-x11-misc/i3lock 9999: Simple screen locker
+x11-misc/i3lock 9999: 
 x11-misc/i3status 9999-r1: Generates status bar to use with dzen2 or xmobar
-x11-misc/pakej 9999: Status bar daemon
+x11-misc/pakej 9999: 
 x11-misc/tabbed 9999: Simple generic tabbed fronted to xembed aware applications
 x11-misc/twmn 9999: A notification system for tiling window managers.
 x11-misc/xautoclick 0.31: xAutoClick is an autoclicker application to reduce or avoid repetitive stress injury (RSI) by simulating multiple mouse clicks.
-x11-wm/matchbox-desktop 0.9.1-r1: The Matchbox Desktop
+x11-wm/matchbox-desktop 0.9.1-r1: 
 x11-wm/xmonad-contrib 9999: Third party extensions for xmonad

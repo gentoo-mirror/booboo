@@ -1,0 +1,12 @@
+DEFINED_PHASES=compile install unpack
+DEPEND=net-ftn/husky-huskylib net-ftn/husky-smapi sys-devel/gnuconfig dev-vcs/cvs
+DESCRIPTION=FTN husky fidoconf library
+EAPI=0
+HOMEPAGE=http://husky.sf.net
+KEYWORDS=x86 amd64
+LICENSE=LGPL-2
+RDEPEND=net-ftn/husky-huskylib net-ftn/husky-smapi
+SLOT=0
+_eclass_exported_funcs=src_unpack:- src_compile:- src_install:-
+_eclasses_=cvs	e94c89c58918dff87fa3db1e817c25be	eutils	f20548a2f7b0128068388cd2ec26708a	gnuconfig	3920de1188fc7bfee873515453ed1d10	multilib	3972ca401cf7dbb430df9995f5d8d580	toolchain-funcs	7a212e5e01adfa4805c9978366e6ee85
+_md5_=2961a92234adc58dc242c165c5792487

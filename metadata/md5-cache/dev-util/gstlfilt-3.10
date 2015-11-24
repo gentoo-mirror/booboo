@@ -1,0 +1,10 @@
+DEFINED_PHASES=install prepare
+DESCRIPTION=STLFilt simplifies and/or reformats long-winded C++ error and warning messages, with a focus on STL-related diagnostics
+EAPI=2
+HOMEPAGE=http://www.bdsoft.com/tools/stlfilt.html
+KEYWORDS=~x86 ~amd64
+SLOT=0
+SRC_URI=http://www.bdsoft.com/dist/gstlfilt.tar
+_eclass_exported_funcs=src_prepare:- src_install:-
+_eclasses_=eutils	f20548a2f7b0128068388cd2ec26708a	multilib	3972ca401cf7dbb430df9995f5d8d580	toolchain-funcs	7a212e5e01adfa4805c9978366e6ee85
+_md5_=4c95fa5875ea4271c35959dd29643755

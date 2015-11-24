@@ -1,0 +1,11 @@
+DEFINED_PHASES=compile install postinst postrm setup test unpack
+DEPEND=>=dev-lang/ghc-6.12.1 >=dev-haskell/cabal-1.2 dev-haskell/utf8-string <dev-haskell/parsec-3.0.0 dev-haskell/mtl dev-haskell/ansi-terminal dev-haskell/glob dev-haskell/time dev-haskell/regex-pcre dev-haskell/data-hash dev-haskell/dyre >=dev-haskell/cabal-1.1.4 dev-vcs/git
+DESCRIPTION=Easy-to-use TODOs manager.
+EAPI=0
+HOMEPAGE=http://gitorious.org/todos
+KEYWORDS=~amd64 ~ppc64 ~x86
+LICENSE=BSD-3
+SLOT=0
+_eclass_exported_funcs=pkg_postrm:haskell-cabal pkg_postinst:haskell-cabal pkg_setup:haskell-cabal src_unpack:git-2 src_compile:haskell-cabal src_test:haskell-cabal src_install:haskell-cabal
+_eclasses_=base	3fe4f8980633fd7bc69e9887209ba2fe	eutils	f20548a2f7b0128068388cd2ec26708a	ghc-package	6165faf4ae46df43d5a9b0dd28ec8654	git-2	df00117322129fb906bb0a53c3d6a020	haskell-cabal	2d9bae28d8a91ec04d1bb1ef0071c64f	multilib	3972ca401cf7dbb430df9995f5d8d580	multiprocessing	d769539d9bace6eaca30af23bc2b4dde	toolchain-funcs	7a212e5e01adfa4805c9978366e6ee85	versionator	99ae9d758cbe7cfed19170e7d48f5a9c
+_md5_=56d90f18ddf09751d8a2a868723243b7

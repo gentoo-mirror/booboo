@@ -1,0 +1,12 @@
+DEFINED_PHASES=compile configure install prepare unpack
+DEPEND=>=dev-libs/boost-1.41.0 dev-libs/openssl[-bindist] upnp? ( net-libs/miniupnpc ) sys-libs/db:4.8[cxx] dev-vcs/git
+DESCRIPTION=Very scrypt! Such random! Much profit! Wow! Many coin!
+EAPI=4
+HOMEPAGE=http://dogecoin.com/
+IUSE=ipv6 upnp
+LICENSE=MIT
+RDEPEND=>=dev-libs/boost-1.41.0 dev-libs/openssl[-bindist] upnp? ( net-libs/miniupnpc ) sys-libs/db:4.8[cxx]
+SLOT=0
+_eclass_exported_funcs=src_unpack:git-2 src_prepare:qt4-r2 src_configure:qt4-r2 src_compile:- src_install:-
+_eclasses_=base	3fe4f8980633fd7bc69e9887209ba2fe	db-use	a4966c7f4f7df444ead1212848c13cc9	eutils	f20548a2f7b0128068388cd2ec26708a	git-2	df00117322129fb906bb0a53c3d6a020	multilib	3972ca401cf7dbb430df9995f5d8d580	qmake-utils	bd69cb386c63df4642cf1392b50c8d81	qt4-r2	cb2cb5856695b300266b425da70e82d8	toolchain-funcs	7a212e5e01adfa4805c9978366e6ee85	versionator	99ae9d758cbe7cfed19170e7d48f5a9c
+_md5_=7db909222ee26e2879ac751fcfcd1920

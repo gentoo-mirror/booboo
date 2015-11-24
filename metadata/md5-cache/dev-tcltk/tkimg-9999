@@ -1,0 +1,12 @@
+DEFINED_PHASES=install preinst prepare unpack
+DEPEND=dev-lang/tk >=dev-tcltk/tcllib-1.11 >=media-libs/libpng-1.4 virtual/jpeg media-libs/tiff || ( dev-vcs/subversion[http] dev-vcs/subversion[webdav-neon] dev-vcs/subversion[webdav-serf] ) net-misc/rsync
+DESCRIPTION=Adds a lot of image formats to Tcl/Tk
+EAPI=3
+HOMEPAGE=http://sourceforge.net/projects/tkimg/
+IUSE=doc
+LICENSE=BSD
+RDEPEND=dev-lang/tk >=dev-tcltk/tcllib-1.11 >=media-libs/libpng-1.4 virtual/jpeg media-libs/tiff
+SLOT=0
+_eclass_exported_funcs=pkg_preinst:subversion src_unpack:subversion src_prepare:subversion src_install:-
+_eclasses_=eutils	f20548a2f7b0128068388cd2ec26708a	multilib	3972ca401cf7dbb430df9995f5d8d580	prefix	e7f2b9c6e57342e5d25eac22fce23062	subversion	4fee0a764150bb4dda27ed4d2c4ed7ce	toolchain-funcs	7a212e5e01adfa4805c9978366e6ee85
+_md5_=689f42ea82047354f9c0a92ee54382da

@@ -1,0 +1,12 @@
+DEFINED_PHASES=compile install unpack
+DEPEND=perl? ( >=dev-lang/perl-5.8.3 ) bzip2? ( >=app-arch/bzip2-1.0.3 ) zlib? ( >=sys-libs/zlib-1.2.3 ) dev-vcs/cvs
+DESCRIPTION=Binkd - the binkp daemon for FTN communications
+EAPI=0
+HOMEPAGE=ftp://happy.kiev.ua/pub/fidosoft/mailer/binkd/
+IUSE=perl bzip2 zlib https bwlim
+LICENSE=GPL-2
+RDEPEND=perl? ( >=dev-lang/perl-5.8.3 ) bzip2? ( >=app-arch/bzip2-1.0.3 ) zlib? ( >=sys-libs/zlib-1.2.3 )
+SLOT=0
+_eclass_exported_funcs=src_unpack:cvs src_compile:- src_install:-
+_eclasses_=cvs	e94c89c58918dff87fa3db1e817c25be	eutils	f20548a2f7b0128068388cd2ec26708a	multilib	3972ca401cf7dbb430df9995f5d8d580	toolchain-funcs	7a212e5e01adfa4805c9978366e6ee85
+_md5_=984529d88571468d1fdf91334ec6e87d
