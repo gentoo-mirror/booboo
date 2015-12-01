@@ -24,6 +24,7 @@ app-misc/todos 9999: Easy-to-use TODOs manager.
 app-misc/uimge 0.07.5.0: console application to post you pictures into web
 app-misc/wego 9999: wego is a weather client for the terminal.
 app-mobilephone/gsm-ussd 0.4.0.25: a script to send USSD (Unstructured Supplementary Services Data) queries to your broadband provider.
+app-mobilephone/vcf2csv 0.6.201011061941: vcf2csv is a command line tool to convert vcard files to html or csv.
 app-office/blockdiag 1.5.3: Simple block diagram generator
 app-office/ledger 9999: A double-entry accounting system with a command-line reporting interface
 app-paludis/pink-update 9999: paludis port of etc-update
