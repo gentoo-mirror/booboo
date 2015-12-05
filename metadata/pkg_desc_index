@@ -50,6 +50,7 @@ dev-haskell/boolean 0.2.3: Generalized booleans and numbers
 dev-haskell/bytestring-progress 1.0.5: A library for tracking the consumption of a lazy ByteString
 dev-haskell/haxml 9999: Utilities for manipulating XML documents
 dev-haskell/memotrie 0.6.2: Trie-based memo functions
+dev-haskell/mime-directory 9999: A (l29ah's fork of) library for parsing/printing the text/directory mime type
 dev-haskell/numinstances 1.4: Instances of numeric classes for functions and tuples
 dev-haskell/storable-endian 0.2.5: Storable instances with endianness
 dev-haskell/terminal-progress-bar 0.0.1.4: A simple progress bar in the terminal
