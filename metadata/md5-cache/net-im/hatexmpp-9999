@@ -9,4 +9,4 @@ RDEPEND=>=dev-libs/glib-2.18.4 >=sys-fs/fuse-2.7.4 >=net-libs/loudmouth-1.4.3
 SLOT=0
 _eclass_exported_funcs=pkg_postinst:- src_unpack:git-2 src_compile:- src_install:-
 _eclasses_=git-2	df00117322129fb906bb0a53c3d6a020
-_md5_=16c787e6f59cfbfb4301eaac8ead83d4
+_md5_=dd32db6c4efce0135560eef086d583c1

@@ -7,4 +7,4 @@ LICENSE=as-is
 SLOT=0
 _eclass_exported_funcs=src_unpack:git-2 src_install:-
 _eclasses_=git-2	df00117322129fb906bb0a53c3d6a020
-_md5_=92ce5c7665cfd3977881b6226d912e2d
+_md5_=96a962b378b8bd064ea9464127f2b1d0
