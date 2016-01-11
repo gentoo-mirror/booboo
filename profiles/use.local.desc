@@ -155,6 +155,11 @@ sci-libs/itk:review - Enable compilation of methods under review
 sci-libs/itk:vtkglue - PLEASE FIX MY DESCRIPTION
 sci-libs/mpir:cpudetection - Enables runtime cpudetection (useful for bindist, compatability on other CPUs)
 sys-apps/usb_modeswitch:jimtcl - Use dev-lang/jimtcl instead of dev-lang/tcl for smaller memory footprint
+sys-fs/owfs:ftpd - Enable building the OWFS FTP server (owftpd)
+sys-fs/owfs:fuse - Enable building the FUSE-based OWFS client (owfs)
+sys-fs/owfs:httpd - Enable building the OWFS web server (owhttpd)
+sys-fs/owfs:parport - Enable support for the DS1410E parallel port adapter
+sys-fs/owfs:server - Enable building the OWFS server (owserver)
 www-client/uzbl:browser - Install the uzbl-browser script
 www-client/uzbl:experimental - Enable experimental branch
 www-client/uzbl:gtk3 - Use x11-libs/gtk+:3 instead of x11-libs/gtk+:2

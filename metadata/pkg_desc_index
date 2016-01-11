@@ -233,6 +233,7 @@ sys-apps/vbtracetool 9999: Video bios execution tracing widget
 sys-boot/dracut-tuxonice 9999: TuxOnIce module for dracut.
 sys-devel/ct-ng 9999: crosstool-ng is a tool to build cross-compiling toolchains
 sys-fs/gmailfs 0.8.0: GmailFS provides a mountable Linux filesystem which uses your Gmail account as its storage medium.
+sys-fs/owfs 3.1_p0: Access 1-Wire devices like a filesystem
 sys-fs/zfs-fuse 9999: An implementation of the ZFS filesystem for FUSE/Linux
 sys-libs/libapparmor 2.10: Library to support AppArmor userspace utilities
 sys-libs/libcal 9999: Configuration Access Library
