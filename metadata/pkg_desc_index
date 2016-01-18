@@ -2,6 +2,7 @@ app-admin/collectd 5.5.0: A a daemon which collects system statistic and provide
 app-admin/f3 9999: Fight Flash Fraud, or Fight Fake Flash
 app-admin/firetools 0.9.26.1 0.9.30: Firetools is the graphical user interface of Firejail security sandbox. It provides a sandbox launcher integrated with the system tray, sandbox editing, management and statistics. The application is built using Qt4 libraries, and it is distributed as a separate package.
 app-admin/sigar 9999: System Information Gatherer And Reporter
+app-backup/obnam 1.19: A backup program that supports encryption and deduplication
 app-benchmarks/phoronix-test-suite 9999: Comprehensive testing and benchmarking platform
 app-cdr/lacie-lightscribe-labeler 1.0.6: LaCie LightScribe Labeler 4L
 app-crypt/qca-gnupg 2.0.0_beta3-r1: GnuPG plugin for QCA
