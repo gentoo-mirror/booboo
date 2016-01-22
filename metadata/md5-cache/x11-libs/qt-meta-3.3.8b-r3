@@ -11,5 +11,5 @@ RDEPEND=virtual/jpeg >=media-libs/freetype-2 >=media-libs/libmng-1.0.9 media-lib
 SLOT=3
 SRC_URI=ftp://ftp.trolltech.com/qt/source/qt-x11-free-3.3.8b.tar.gz immqt? ( mirror://gentoo/qt-x11-immodule-unified-qt3.3.8-20070321-gentoo.diff.bz2 ) immqt-bc? ( mirror://gentoo/qt-x11-immodule-unified-qt3.3.8-20070321-gentoo.diff.bz2 )
 _eclass_exported_funcs=pkg_postinst:- pkg_setup:- src_unpack:- src_compile:- src_install:-
-_eclasses_=eutils	7332d4dd366dcd51c0014dde21f21897	flag-o-matic	85dc1eac3c64d8141374490ed64122e5	multilib	3972ca401cf7dbb430df9995f5d8d580	toolchain-funcs	7a212e5e01adfa4805c9978366e6ee85
+_eclasses_=eutils	8982475656ba7ade9b3201397efbd612	flag-o-matic	85dc1eac3c64d8141374490ed64122e5	multilib	3972ca401cf7dbb430df9995f5d8d580	toolchain-funcs	7a212e5e01adfa4805c9978366e6ee85
 _md5_=ccec40dba057a3f5793b6d3d88132537
