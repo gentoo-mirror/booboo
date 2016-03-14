@@ -8,5 +8,5 @@ LICENSE=LGPL-2
 RDEPEND=net-ftn/husky-huskylib
 SLOT=0
 _eclass_exported_funcs=src_unpack:cvs src_compile:- src_install:-
-_eclasses_=cvs	e94c89c58918dff87fa3db1e817c25be	eutils	43da5163ba106e87d22d2e7d6d67537f	gnuconfig	3920de1188fc7bfee873515453ed1d10	multilib	df4e4d5cfd3d137d0c248e1991c0e4d6	toolchain-funcs	1dfcad7b3f439dbc511d76c49f23da0d
+_eclasses_=cvs	e94c89c58918dff87fa3db1e817c25be	eutils	9d81603248f2ba3ec59124320d123e5e	gnuconfig	3920de1188fc7bfee873515453ed1d10	multilib	3972ca401cf7dbb430df9995f5d8d580	toolchain-funcs	7a212e5e01adfa4805c9978366e6ee85
 _md5_=fcba25ec2a7a59018b3cac18805747fc
