@@ -1,0 +1,12 @@
+DEFINED_PHASES=compile install unpack
+DEPEND=dev-libs/dietlibc >=dev-libs/libowfat-0.27 dev-vcs/cvs
+DESCRIPTION=An open and free bittorrent tracker
+EAPI=0
+HOMEPAGE=http://erdgeist.org/arts/software/opentracker/
+IUSE=ipv6 blacklist whitelist debug gzip restrict-stats live-sync log-network
+KEYWORDS=~x86 ~amd64
+LICENSE=BEER-WARE
+SLOT=0
+_eclass_exported_funcs=src_unpack:cvs src_compile:- src_install:-
+_eclasses_=cvs	e94c89c58918dff87fa3db1e817c25be	eutils	792f83d5ec9536cb5ccef375469d8bde	multilib	d062ae4ba2fc40a19c11de2ad89b6616	toolchain-funcs	d513d423d449877e49d99af3f7af7acb
+_md5_=4b8bf38fee52af4683f3d8b13cb617fb

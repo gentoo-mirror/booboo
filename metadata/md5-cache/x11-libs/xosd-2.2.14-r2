@@ -1,0 +1,14 @@
+DEFINED_PHASES=compile install unpack
+DEPEND=x11-libs/libX11 x11-libs/libXext x11-libs/libXt xft? ( x11-libs/pango ) xinerama? ( x11-proto/xineramaproto ) x11-proto/xextproto x11-proto/xproto dev-util/pkgconfig !<sys-devel/gettext-0.18.1.1-r3 || ( >=sys-devel/automake-1.15:1.15 ) >=sys-devel/autoconf-2.69 >=sys-devel/libtool-2.4
+DESCRIPTION=Library for overlaying text in X-Windows X-On-Screen-Display plus binary for sending text from CLI
+EAPI=2
+HOMEPAGE=https://sourceforge.net/projects/libxosd/
+IUSE=xinerama xft
+KEYWORDS=~arm alpha amd64 hppa ia64 ppc ppc64 sparc x86
+LICENSE=GPL-2
+RDEPEND=x11-libs/libX11 x11-libs/libXext x11-libs/libXt xft? ( x11-libs/pango )
+SLOT=0
+SRC_URI=mirror://debian/pool/main/x/xosd/xosd_2.2.14.orig.tar.gz mirror://debian/pool/main/x/xosd/xosd_2.2.14-1.diff.gz http://digilander.libero.it/dgp85/gentoo/xosd-gentoo-m4-1.tar.bz2 xft? ( http://sites.google.com/site/bb1001dd/linux-hacks-and-patches/xosd-font-antialiasing-patch/xosd-2.2.14-xft.patch -> xosd-2.2.14-xft.patch )
+_eclass_exported_funcs=src_unpack:- src_compile:- src_install:-
+_eclasses_=autotools	07e71b3b5690738ef7e8bc097077e00c	eutils	792f83d5ec9536cb5ccef375469d8bde	libtool	4890219c51da247200223277f993e054	multilib	d062ae4ba2fc40a19c11de2ad89b6616	toolchain-funcs	d513d423d449877e49d99af3f7af7acb
+_md5_=4323a203c2ba5b756a9583bb5f5dec3d

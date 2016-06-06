@@ -1,0 +1,12 @@
+DEFINED_PHASES=compile configure install prepare unpack
+DEPEND=sys-devel/make
+DESCRIPTION=This package consists of a set of programs for manipulating and analyzing Unicode text. The analysis utilities are useful when working with Unicode files when one doesn't know the writing system, doesn't have the necessary font, needs to inspect invisible characters, needs to find out whether characters have been combined or in what order they occur, or needs statistics on which characters occur.
+EAPI=3
+HOMEPAGE=http://billposer.org/Software/unidesc.html
+KEYWORDS=~x86 ~amd64
+LICENSE=GPL-3
+SLOT=0
+SRC_URI=http://billposer.org/Software/Downloads/uniutils-2.27.tar.bz2
+_eclass_exported_funcs=src_unpack:base src_prepare:base src_configure:base src_compile:base src_install:base
+_eclasses_=base	3fe4f8980633fd7bc69e9887209ba2fe	eutils	792f83d5ec9536cb5ccef375469d8bde	multilib	d062ae4ba2fc40a19c11de2ad89b6616	toolchain-funcs	d513d423d449877e49d99af3f7af7acb
+_md5_=0ea5fd311682ff6b5ebbb94c7e2b2fb2

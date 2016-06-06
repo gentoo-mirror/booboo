@@ -1,0 +1,13 @@
+DEFINED_PHASES=install setup
+DESCRIPTION=Web of trust statistics and pathfinder
+EAPI=5
+HOMEPAGE=https://www.lysator.liu.se/~jc/wotsap/
+IUSE=+png
+KEYWORDS=~x86 ~amd64
+LICENSE=GPL-2
+RDEPEND=<dev-lang/python-3 png? ( dev-python/pillow )
+SLOT=0
+SRC_URI=https://www.lysator.liu.se/~jc/wotsap/download/wotsap-0.7.tgz
+_eclass_exported_funcs=pkg_setup:python src_install:-
+_eclasses_=multilib	d062ae4ba2fc40a19c11de2ad89b6616	python	efc1c55fc44c5b7272fc2ffba73c3e6f	toolchain-funcs	d513d423d449877e49d99af3f7af7acb
+_md5_=67c9a59c7a99a346394beb7058a1bb65

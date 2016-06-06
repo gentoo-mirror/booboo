@@ -1,0 +1,15 @@
+DEFINED_PHASES=compile install unpack
+DEPEND=virtual/libc sys-devel/libtool =sys-devel/automake-1.7* >=sys-devel/autoconf-2.52d-r1 !<sys-devel/gettext-0.18.1.1-r3 || ( >=sys-devel/automake-1.15 ) >=sys-devel/autoconf-2.69 >=sys-devel/libtool-2.4
+DESCRIPTION=library for decoding DTS Coherent Acoustics streams used in DVD
+EAPI=0
+HOMEPAGE=http://www.videolan.org/dtsdec.html
+IUSE=oss debug
+KEYWORDS=alpha amd64 arm hppa ia64 ~mips ppc ppc64 sparc x86
+LICENSE=GPL-2
+RDEPEND=virtual/libc
+RESTRICT=test
+SLOT=0
+SRC_URI=http://www.videolan.org/pub/videolan/libdts/0.0.2/libdts-0.0.2.tar.gz
+_eclass_exported_funcs=src_unpack:- src_compile:- src_install:-
+_eclasses_=autotools	07e71b3b5690738ef7e8bc097077e00c	eutils	792f83d5ec9536cb5ccef375469d8bde	libtool	4890219c51da247200223277f993e054	multilib	d062ae4ba2fc40a19c11de2ad89b6616	toolchain-funcs	d513d423d449877e49d99af3f7af7acb
+_md5_=f12e00c7b28cbfd262ba70c825f03cd2

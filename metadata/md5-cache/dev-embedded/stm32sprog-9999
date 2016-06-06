@@ -1,0 +1,10 @@
+DEFINED_PHASES=install unpack
+DEPEND=dev-vcs/mercurial
+DESCRIPTION=Serial programmer for STM32 that uses the built in bootloader's USART protocol.
+EAPI=5
+HOMEPAGE=https://code.google.com/p/stm32sprog/
+LICENSE=MIT-with-advertising
+SLOT=0
+_eclass_exported_funcs=src_unpack:mercurial src_install:-
+_eclasses_=eutils	792f83d5ec9536cb5ccef375469d8bde	mercurial	789038b352d112bcff9dff083aa40d8d	multilib	d062ae4ba2fc40a19c11de2ad89b6616	toolchain-funcs	d513d423d449877e49d99af3f7af7acb
+_md5_=1b7e027363c56583c938109cfd308e8b

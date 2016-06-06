@@ -1,0 +1,12 @@
+DEFINED_PHASES=-
+DEPEND=dev-lang/tcl
+DESCRIPTION=The Tcl UDP extension provides a simple library to support UDP socket in Tcl.
+EAPI=5
+HOMEPAGE=http://sourceforge.net/projects/tcludp/
+KEYWORDS=~x86 ~amd64
+LICENSE=MIT-with-advertising
+RDEPEND=dev-lang/tcl
+SLOT=0
+SRC_URI=mirror://sourceforge/tcludp/1.0.11/tcludp-1.0.11.tar.gz
+_eclass_exported_funcs=-
+_md5_=7ad0538835487da833c1aa7c3a668f05

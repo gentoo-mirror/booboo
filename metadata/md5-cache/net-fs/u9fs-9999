@@ -1,0 +1,13 @@
+DEFINED_PHASES=compile install postinst unpack
+DEPEND=sys-libs/libixp
+DESCRIPTION=9P2000 Server
+EAPI=0
+HOMEPAGE=http://plan9.bell-labs.com/sources/plan9/sys/src/cmd/unix/u9fs/
+IUSE=xinetd
+KEYWORDS=~x86 ~amd64
+LICENSE=Lucent Public License
+RDEPEND=xinetd? ( sys-apps/xinetd )
+SLOT=0
+_eclass_exported_funcs=pkg_postinst:- src_unpack:- src_compile:- src_install:-
+_eclasses_=eutils	792f83d5ec9536cb5ccef375469d8bde	multilib	d062ae4ba2fc40a19c11de2ad89b6616	toolchain-funcs	d513d423d449877e49d99af3f7af7acb
+_md5_=a1b5e571883cb9e9f2a69d745463179a

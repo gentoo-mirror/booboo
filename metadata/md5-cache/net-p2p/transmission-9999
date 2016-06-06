@@ -1,0 +1,11 @@
+DEFINED_PHASES=configure install postinst postrm preinst prepare setup unpack
+DEPEND=>=dev-libs/openssl-0.9.4 || ( >=net-misc/curl-7.16.3[ssl] >=net-misc/curl-7.16.3[gnutls] ) gtk? ( >=dev-libs/glib-2.15.5 >=x11-libs/gtk+-2.6 >=dev-libs/dbus-glib-0.70 libnotify? ( >=x11-libs/libnotify-0.4.4 ) ) sys-devel/gettext dev-util/intltool virtual/pkgconfig !<sys-devel/gettext-0.18.1.1-r3 || ( >=sys-devel/automake-1.15:1.15 ) >=sys-devel/autoconf-2.69 >=sys-devel/libtool-2.4 >=sys-apps/sed-4 || ( dev-vcs/subversion[http] dev-vcs/subversion[webdav-neon] dev-vcs/subversion[webdav-serf] ) net-misc/rsync
+DESCRIPTION=A Fast, Easy and Free BitTorrent client
+EAPI=2
+HOMEPAGE=http://www.transmissionbt.com
+LICENSE=MIT GPL-2
+RDEPEND=>=dev-libs/openssl-0.9.4 || ( >=net-misc/curl-7.16.3[ssl] >=net-misc/curl-7.16.3[gnutls] ) gtk? ( >=dev-libs/glib-2.15.5 >=x11-libs/gtk+-2.6 >=dev-libs/dbus-glib-0.70 libnotify? ( >=x11-libs/libnotify-0.4.4 ) )
+SLOT=0
+_eclass_exported_funcs=pkg_preinst:- pkg_postrm:- pkg_postinst:- pkg_setup:- src_unpack:subversion src_prepare:- src_configure:- src_install:-
+_eclasses_=autotools	07e71b3b5690738ef7e8bc097077e00c	eutils	792f83d5ec9536cb5ccef375469d8bde	fdo-mime	92d07846ea8ea54172f8c0112a47ae3d	gnome2-utils	c6dcdf3a2c22b578b16adb945dc85c35	libtool	4890219c51da247200223277f993e054	multilib	d062ae4ba2fc40a19c11de2ad89b6616	subversion	4fee0a764150bb4dda27ed4d2c4ed7ce	toolchain-funcs	d513d423d449877e49d99af3f7af7acb	xdg-utils	e2b2bd56125ce8cf59ce30c642b59d48
+_md5_=80a9c45d68b0480f3f4736ddcdcde9d9
