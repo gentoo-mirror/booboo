@@ -109,6 +109,12 @@ games-engines/onscripter-en:scale - Enables experimental scaling support
 games-strategy/0ad:editor - Include Atlas scenario editor projects
 games-strategy/0ad:lobby - Enable the use of net-libs/gloox and the multiplayer lobby
 games-strategy/0ad:nvtt - Support for some uncompressed data formats via media-gfx/nvidia-texture-tools (might be needed for some mods)
+mail-client/mutt:gpg - Enable support for app-crypt/gpgme
+mail-client/mutt:pop - Enable support for pop
+mail-client/mutt:sidebar - Use the vanilla tree + sidebar patch
+mail-client/mutt:smime - Enable support for smime
+mail-client/mutt:smtp - Enable support for smtp
+mail-client/mutt:tokyocabinet - Enable tokyocabinet database backend for header caching
 media-libs/esdl:image - Enable image support
 media-libs/mediastreamer:amr - Use of AMR Narrow Band codec plugin
 media-libs/mediastreamer:dtls - Turn on or off compilation of dtls
