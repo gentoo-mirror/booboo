@@ -41,7 +41,17 @@ src_prepare() {
 }
 
 src_compile() {
-	true
+	local THIRD_PARTY_TKABBER_PLUGINS_DIR="${S}/plugins/3rd-party"
+	if use 3rd-party-plugins && has vimage ${TKABBER_PLUGINS}; then
+		cd "${THIRD_PARTY_TKABBER_PLUGINS_DIR}/vimage/lib/tkImageTools" \
+			|| die "Cannot cd to tkImageTools"
+		# Replace hardcoded tcl version
+		if has_version ">=dev-lang/tcl-8.6"; then
+			sed -i -e 's/MINOR_VERSION = 5/MINOR_VERSION = 6/' Makefile \
+				|| die "Cannot patch tkImageTools Makefile"
+		fi
+		emake
+	fi
 }
 
 src_install() {
@@ -53,7 +63,7 @@ src_install() {
 
 	for x in *; do
 		if [[ -d "${x}" ]] ; then
-			if ! has "${x}" "${DOCSDIRS}" ; then
+			if ! has "${x}" ${DOCSDIRS} ; then
 				cp -R "${x}" "${D}/usr/share/tkabber" \
 			|| die "Can't copy ${x} to ${D}/usr/share/tkabber"
 			fi
@@ -183,7 +193,7 @@ plugins_verify() {
 		PLUGINS=( ${TKABBER_PLUGINS} )
 		TKABBER_PLUGINS=""
 		for i in "${PLUGINS[@]}"; do
-			if has "${i}" "${AVAILABLE_PLUGINS}"; then
+			if has "${i}" ${AVAILABLE_PLUGINS}; then
 				TKABBER_PLUGINS="${TKABBER_PLUGINS} ${i}"
 			else
 				ABSENT_PLUGINS="${ABSENT_PLUGINS} ${i}"
@@ -207,7 +217,7 @@ plugins_verify() {
 	if ! use tkimg; then
 		PLUGINS=( ${TKABBER_PLUGINS:-${AVAILABLE_PLUGINS}} )
 		for i in "${PLUGINS[@]}"; do
-			if has "${i}" "${TKIMG_DEPENDENT_PLUGINS}"; then
+			if has "${i}" ${TKIMG_DEPENDENT_PLUGINS}; then
 				DEPENDENT_PLUGINS="${DEPENDENT_PLUGINS} ${i}"
 			fi
 		done
@@ -266,7 +276,7 @@ plugins_install() {
 
 	[[ -d "${D}/${TKABBER_SITE_PLUGINS}" ]] || mkdir "${D}/${TKABBER_SITE_PLUGINS}"
 	for i in "${PLUGINS[@]}"; do
-		if has "${i}" "${EXISTING_PLUGINS}"; then
+		if has "${i}" ${EXISTING_PLUGINS}; then
 			cp -R "${PLUGINS_DIR}/${i}" "${D}/${TKABBER_SITE_PLUGINS}" \
 			|| echo "Can't copy ${PLUGINS_DIR}/${i} to ${D}/${TKABBER_SITE_PLUGINS}"
 		fi
@@ -281,8 +291,8 @@ fix_existing_third_party_tkabber_plugins() {
 	EXISTING_THIRD_PARTY_TKABBER_PLUGINS=""
 
 	for i in "${PLUGINS[@]}"; do
-		if ! has "${i}" "${EXISTING_OFFICIAL_TKABBER_PLUGINS}"; then
-			if ! has "${i}" "${INCOMPATIBLE_PLUGINS}"; then
+		if ! has "${i}" ${EXISTING_OFFICIAL_TKABBER_PLUGINS}; then
+			if ! has "${i}" ${INCOMPATIBLE_PLUGINS}; then
 				EXISTING_THIRD_PARTY_TKABBER_PLUGINS="${EXISTING_THIRD_PARTY_TKABBER_PLUGINS} ${i}"
 			fi
 		else
