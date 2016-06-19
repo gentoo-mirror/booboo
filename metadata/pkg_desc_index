@@ -149,7 +149,7 @@ media-libs/esdl 1.3.1: Erlang bindings for the SDL library
 media-libs/libdts 0.0.2-r3: library for decoding DTS Coherent Acoustics streams used in DVD
 media-libs/libmafw 0.2.2010.06: The Multimedia Applications FrameWork (MAFW) complements GStreamer to enhance the multimedia experience in the Maemo platform, providing developers with a flexible, easy to use, and extensible high-level layer on top of other included multimedia-related technologies.
 media-libs/libmafw-shared 0.3.2010.36: The Multimedia Applications FrameWork (MAFW) complements GStreamer to enhance the multimedia experience in the Maemo platform, providing developers with a flexible, easy to use, and extensible high-level layer on top of other included multimedia-related technologies.
-media-libs/mediastreamer 9999: Mediastreaming library for telephony application
+media-libs/mediastreamer 2.12.1 9999: Mediastreaming library for telephony application
 media-libs/netpbm 9999-r1: A set of utilities for converting to/from the netpbm (and related) formats
 media-libs/rem 0.4.6 0.4.7: Librem is a portable and generic library for real-time audio and video processing.
 media-plugins/alsa-plugin-rsound 9999-r1: RSound plugin for ALSA
@@ -198,7 +198,7 @@ net-libs/liboping 9999: C library and ncurses based program to generate ICMP ech
 net-libs/libringclient 9999: Ring is a Voice-over-IP software phone.
 net-libs/loudmouth 9999: Lightweight C Jabber library
 net-libs/opendht 9999: A lightweight C++11 Distributed Hash Table implementation originally based on https://github.com/jech/dht by Juliusz Chroboczek.
-net-libs/ortp 9999: Open Real-time Transport Protocol (RTP, RFC3550) stack
+net-libs/ortp 0.25.0 9999: Open Real-time Transport Protocol (RTP, RFC3550) stack
 net-libs/pjsip 2.4: Multimedia communication libraries written in C language for building VoIP applications.
 net-libs/ustream-ssl 9999: A general purpose library for the OpenWRT project.
 net-libs/webkit-gtk 1.2.6-r1: Open source web browser engine
@@ -231,7 +231,7 @@ net-p2p/quarkcoind 9999: Just another bitcoin fork
 net-p2p/transmission 9999: A Fast, Easy and Free BitTorrent client
 net-voip/baresip 9999: Baresip is a portable and modular SIP User-Agent with audio and video support.
 net-voip/gnome-ring 9999: Ring is a Voice-over-IP software phone.
-net-voip/linphone 9999: Video softphone based on the SIP protocol
+net-voip/linphone 3.9.1 9999: Video softphone based on the SIP protocol
 net-voip/re 0.4.14 0.4.15: Libre is a portable and generic library for real-time communications with async IO support and a complete SIP stack with support for SDP, RTP/RTCP, STUN/TURN/ICE, BFCP and DNS Client
 net-voip/ring-daemon 9999: Ring is a Voice-over-IP software phone.
 net-wireless/crda 1.0.1-r1: Central Regulatory Domain Agent for wireless networks.

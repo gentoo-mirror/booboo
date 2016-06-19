@@ -1,0 +1,16 @@
+DEFINED_PHASES=configure install prepare test
+DEPEND=net-libs/bctoolbox net-libs/libsrtp alsa? ( media-libs/alsa-lib ) g726? ( >=media-libs/spandsp-0.0.6_pre1 ) gsm? ( media-sound/gsm ) opus? ( media-libs/opus ) ortp? ( >=net-libs/ortp-0.25.0 ) pcap? ( sys-libs/libcap ) portaudio? ( media-libs/portaudio ) pulseaudio? ( >=media-sound/pulseaudio-0.9.21 ) qsa? ( media-libs/alsa-lib ) speex? ( >=media-libs/speex-1.2_beta3 ) upnp? ( net-libs/libupnp ) video? ( virtual/ffmpeg opengl? ( media-libs/glew virtual/opengl x11-libs/libX11 ) v4l? ( media-libs/libv4l sys-kernel/linux-headers ) vp8? ( media-libs/libvpx ) theora? ( media-libs/libtheora ) sdl? ( media-libs/libsdl[video,X] ) X? ( x11-libs/libX11 x11-libs/libXv ) ) zrtp? ( >=net-libs/libzrtpcpp-4.0.0 ) dev-util/intltool dev-util/xxdi virtual/pkgconfig doc? ( app-doc/doxygen ) test? ( >=dev-util/cunit-2.1_p2[ncurses] ) X? ( x11-proto/videoproto ) !<sys-devel/gettext-0.18.1.1-r3 || ( >=sys-devel/automake-1.15:1.15 ) >=sys-devel/autoconf-2.69 >=sys-devel/libtool-2.4
+DESCRIPTION=Mediastreaming library for telephony application
+EAPI=5
+HOMEPAGE=http://www.linphone.org/
+IUSE=+alsa amr bindist coreaudio debug doc dtls examples +filters g726 g729 gsm ilbc non-free-codecs ntp-timestamp opengl opus +ortp oss pcap portaudio pulseaudio qsa sdl silk +speex static-libs test theora upnp v4l video vp8 x264 X zrtp
+KEYWORDS=~x86 ~amd64
+LICENSE=GPL-2
+PDEPEND=amr? ( !bindist? ( media-plugins/mediastreamer-amr ) ) g729? ( !bindist? ( media-plugins/mediastreamer-bcg729 ) ) ilbc? ( media-plugins/mediastreamer-ilbc ) video? ( x264? ( media-plugins/mediastreamer-x264 ) ) silk? ( !bindist? ( media-plugins/mediastreamer-silk ) )
+RDEPEND=net-libs/bctoolbox net-libs/libsrtp alsa? ( media-libs/alsa-lib ) g726? ( >=media-libs/spandsp-0.0.6_pre1 ) gsm? ( media-sound/gsm ) opus? ( media-libs/opus ) ortp? ( >=net-libs/ortp-0.25.0 ) pcap? ( sys-libs/libcap ) portaudio? ( media-libs/portaudio ) pulseaudio? ( >=media-sound/pulseaudio-0.9.21 ) qsa? ( media-libs/alsa-lib ) speex? ( >=media-libs/speex-1.2_beta3 ) upnp? ( net-libs/libupnp ) video? ( virtual/ffmpeg opengl? ( media-libs/glew virtual/opengl x11-libs/libX11 ) v4l? ( media-libs/libv4l sys-kernel/linux-headers ) vp8? ( media-libs/libvpx ) theora? ( media-libs/libtheora ) sdl? ( media-libs/libsdl[video,X] ) X? ( x11-libs/libX11 x11-libs/libXv ) ) zrtp? ( >=net-libs/libzrtpcpp-4.0.0 )
+REQUIRED_USE=|| ( oss alsa portaudio coreaudio pulseaudio qsa ) video? ( || ( opengl sdl X ) ) theora? ( video ) X? ( video ) v4l? ( video ) opengl? ( video )
+SLOT=0/3
+SRC_URI=http://download.savannah.gnu.org/releases/linphone/mediastreamer/mediastreamer-2.12.1.tar.gz
+_eclass_exported_funcs=src_prepare:- src_configure:- src_test:- src_install:-
+_eclasses_=autotools	07e71b3b5690738ef7e8bc097077e00c	eutils	792f83d5ec9536cb5ccef375469d8bde	libtool	4890219c51da247200223277f993e054	multilib	d062ae4ba2fc40a19c11de2ad89b6616	toolchain-funcs	c9d9187f4caa4026a0ceddd8dfceb3c1
+_md5_=f293e38ef9844a4cd52b1d7c117b3792
