@@ -37,6 +37,7 @@ app-text/polebrush 9999: Polebrush — human-oriented markup language
 app-text/uniutils 2.27: This package consists of a set of programs for manipulating and analyzing Unicode text. The analysis utilities are useful when working with Unicode files when one doesn't know the writing system, doesn't have the necessary font, needs to inspect invisible characters, needs to find out whether characters have been combined or in what order they occur, or needs statistics on which characters occur.
 app-text/xml2rfc 2.5.0: Xml2rfc generates RFCs and IETF drafts from document source in XML according to the dtd in RFC2629.
 app-vim/ledger-syntax 9999: vim plugin: app-office/ledger file format syntax
+app-vim/pyclewn 2.3: Pyclewn allows using vim as a front end to a debugger (pdb or gdb)
 app-vim/rc-syntax 20091204 20091226: vim plugin: rc shell script syntax highlighting
 dev-cpp/commoncpp2 9999: GNU Common C++ is a C++ framework offering portable support for threading, sockets, file access, daemons, persistence, serial I/O, XML parsing, and system services
 dev-embedded/arachne-pnr 9999: Arachne PNR - free and open-source place and route tool for FPGAs
