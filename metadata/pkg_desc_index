@@ -172,9 +172,11 @@ net-analyzer/nmap_vulscan 2.0: A NSE vulnerability scanner which uses an offline
 net-dialup/openl2tp 1.7 1.8: Userspace tools for kernel L2TP implementation.
 net-dialup/picocom 2.1 9999: minimal dumb-terminal emulation program
 net-fs/davfs2 1.5.2: Linux FUSE (or coda) driver that allows you to mount a WebDAV resource
+net-fs/diod 1.0.24: Distributed I/O Daemon - a 9P file server
 net-fs/tahoe-lafs 9999: Secure, decentralized, data store
 net-fs/tahoestaticfs 9999: Tahoestaticfs is a Fuse filesystem that enables read and write access to files stored on a Tahoe-LAFS grid.
 net-fs/u9fs 9999: 9P2000 Server
+net-fs/ufs 0.2: libspfs-based daemon that shares the local filesystem over 9P
 net-ftn/binkd 9999: Binkd - the binkp daemon for FTN communications
 net-ftn/husky-areafix 9999: FTN husky areafix library
 net-ftn/husky-fidoconf 9999: FTN husky fidoconf library
