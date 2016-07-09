@@ -171,6 +171,7 @@ media-video/recordmydesktop 9999: A desktop session recorder producing Ogg video
 net-analyzer/nmap_vulscan 2.0: A NSE vulnerability scanner which uses an offline version of different vulnerability databases
 net-dialup/openl2tp 1.7 1.8: Userspace tools for kernel L2TP implementation.
 net-dialup/picocom 2.1 9999: minimal dumb-terminal emulation program
+net-dns/avahi 0.6.32-r1: System which facilitates service discovery on a local network
 net-fs/davfs2 1.5.2: Linux FUSE (or coda) driver that allows you to mount a WebDAV resource
 net-fs/diod 1.0.24: Distributed I/O Daemon - a 9P file server
 net-fs/tahoe-lafs 9999: Secure, decentralized, data store
