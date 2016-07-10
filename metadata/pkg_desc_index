@@ -284,4 +284,4 @@ x11-misc/twmn 9999: A notification system for tiling window managers.
 x11-misc/xautoclick 0.31: xAutoClick is an autoclicker application to reduce or avoid repetitive stress injury (RSI) by simulating multiple mouse clicks.
 x11-wm/matchbox-desktop 0.9.1-r1: The Matchbox Desktop
 x11-wm/xmonad-contrib 9999: Third party extensions for xmonad
-x11-wm/xpra 0.17.0: X Persistent Remote Apps (xpra) and Partitioning WM (parti) based on wimpiggy
+x11-wm/xpra 0.17.0 9999: X Persistent Remote Apps (xpra) and Partitioning WM (parti) based on wimpiggy
