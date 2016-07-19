@@ -97,6 +97,7 @@ dev-python/txrestapi 0.2: Easing the creation of REST API services in Python
 dev-python/txrudp 9999: Implementation of a Reliable UDP Protocol Layer over Twisted.
 dev-qt/libgq 0.2: This is libgq, a set of small libraries with Q wrappers for G things.
 dev-qt/qt5ct 0.19: Qt5 configuration utility
+dev-tcltk/bwidget 1.9.10: High-level widget set for Tcl/Tk
 dev-tcltk/tclgpg 9999-r1: Tcl interface to GNU Privacy Guard with interface similar to TclGPGME.
 dev-tcltk/tcludp 1.0.11: The Tcl UDP extension provides a simple library to support UDP socket in Tcl.
 dev-tcltk/tkimg 9999: Adds a lot of image formats to Tcl/Tk
