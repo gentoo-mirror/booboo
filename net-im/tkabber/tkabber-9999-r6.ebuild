@@ -7,7 +7,7 @@ inherit fossil eutils
 
 DESCRIPTION="GUI client for XMPP (Jabber) instant messaging protocol, written in Tcl/Tk."
 HOMEPAGE="http://tkabber.jabber.ru/"
-IUSE="contrib -crypt +doc examples plugins 3rd-party-plugins ssl sound tkimg
+IUSE="contrib -gpg +doc examples plugins 3rd-party-plugins ssl sound tkimg
 trayicon +udp vanilla"
 
 RDEPEND="
@@ -16,7 +16,7 @@ RDEPEND="
 	>=dev-tcltk/tcllib-1.6
 	>=dev-tcltk/bwidget-1.3
 	>=dev-tcltk/tkXwin-1.0
-	crypt? ( dev-tcltk/tclgpg )
+	gpg? ( dev-tcltk/tclgpg )
 	ssl? ( >=dev-tcltk/tls-1.4.1 )
 	sound? ( dev-tcltk/snack )
 	trayicon? ( >=dev-tcltk/tktray-1.1 )
@@ -55,7 +55,7 @@ src_compile() {
 }
 
 src_install() {
-	dodir /usr/share/tkabber
+	insinto "/usr/share/${PN}"
 	cd "${S}/tkabber/" || die "Can't chdir to ${S}/tkabber/"
 
 	local x
@@ -64,27 +64,29 @@ src_install() {
 	for x in *; do
 		if [[ -d "${x}" ]] ; then
 			if ! has "${x}" ${DOCSDIRS} ; then
-				cp -R "${x}" "${D}/usr/share/tkabber" \
-			|| die "Can't copy ${x} to ${D}/usr/share/tkabber"
+				doins -r "${x}"
 			fi
 		fi
 	done
 
-	sed -i -e 's#\[fullpath ChangeLog\]#"/usr/share/doc/'"$PF"'/ChangeLog"#' tkabber.tcl
-	cp *.tcl "${D}/usr/share/tkabber" \
-		|| die "Can't copy tcl files to ${D}/usr/share/tkabber"
+	sed -i -e 's#\[fullpath ChangeLog\]#"/usr/share/doc/'"$PF"'/ChangeLog"#' tkabber.tcl \
+		|| die "Failed to fix Changelog fullpath in tkabber.tcl"
 
-	emake DESTDIR="${D}" PREFIX="/usr" install-bin || die "emake install failed."
-	if use doc; then
-		emake DESTDIR="${D}" PREFIX="/usr" DOCDIR="/usr/share/doc/$PF" install-doc || die "emake install-doc failed."
+	doins *.tcl
+
+	emake DESTDIR="${D}" PREFIX="/usr" install-bin
+
+	if use doc ; then
+		emake DESTDIR="${D}" PREFIX="/usr" DOCDIR="/usr/share/doc/${PF}" install-doc
 	fi
 
 	if use examples ; then
-		emake DESTDIR="${D}" PREFIX="/usr" install-examples || die "Can't install examples."
+		emake DESTDIR="${D}" PREFIX="/usr" DOCDIR="/usr/share/doc/${PF}" install-examples
 	fi
+
 	if use contrib ; then
 		insinto "/usr/share/doc/${PF}"
-		doins -r contrib || die "Can't install additional contrib components to ${D}/usr/share/doc/${PF}"
+		doins -r contrib
 	fi
 
 	doicon "${FILESDIR}/${PN}.png"
@@ -96,7 +98,7 @@ src_install() {
 		local THIRD_PARTY_TKABBER_PLUGINS_DIR="${S}/plugins/3rd-party"
 		local TKABBER_SITE_PLUGINS="/usr/share/tkabber/site-plugins"
 		local INCOMPATIBLE_PLUGINS="pluginmanager"
-		local TKIMG_DEPENDENT_PLUGINS="alarm"
+		local TKIMG_DEPENDENT_PLUGINS="alarm vimage"
 
 		if use plugins; then
 			local EXISTING_OFFICIAL_TKABBER_PLUGINS="$(dirlist "${OFFICIAL_TKABBER_PLUGINS_DIR}")"
@@ -135,17 +137,17 @@ pkg_postinst() {
 	einfo "to use an external one for (dubious) performance reasons,"
 	einfo "in which case you may like to emerge dev-tcltk/tdom (and put"
 	einfo "\"package require tdom\" in your ~/.tkabber/config.tcl)."
-	echo
+	einfo
 	einfo "You may also optionally emerge dev-tcltk/tclx to theoretically"
 	einfo "speed some other of tkabber's pure-Tcl operations up,"
 	einfo "as you'd get them written in C. Real performance gains are"
 	einfo "subject to further tests."
-	echo
+	einfo
 	if ! use tkimg; then
 		ewarn "dev-tcltk/tkimg adds support for PNG and JPG images, such as avatars,"
 		ewarn "photos, non-default emoticons, etc. Some plugins, for example the"
 		ewarn "\"alarm\" plugin may not function correctly without dev-tcltk/tkimg"
-		echo
+		ewarn
 	fi
 	plugins_inform
 }
@@ -188,7 +190,7 @@ plugins_verify() {
 		shift
 	done
 
-# 	Verifying plugins existence.
+	# Verifying plugins existence.
 	if [[ -n "$TKABBER_PLUGINS" ]]; then
 		PLUGINS=( ${TKABBER_PLUGINS} )
 		TKABBER_PLUGINS=""
@@ -200,17 +202,12 @@ plugins_verify() {
 			fi
 		done
 		if [[ -n "${ABSENT_PLUGINS}" ]]; then
-			echo
+			ewarn
 			ewarn "Following plugins specified in the TKABBER_PLUGINS environment variable"
 			ewarn "are not present in the svn repositories:"
 			ewarn
 			ewarn "${ABSENT_PLUGINS}"
 			ewarn
-			ewarn "You may want to cancel the installation by pressing ^c now and verify"
-			ewarn "your settings. Waiting 5 seconds before continuing..."
-			echo
-			ebeep 5
-			epause 5
 		fi
 	fi
 
@@ -222,13 +219,13 @@ plugins_verify() {
 			fi
 		done
 		if [[ -n "${DEPENDENT_PLUGINS}" ]]; then
-			echo
+			eerror
 			eerror "The \"tkimg\" USE-flag is not enabled, but the following plugins depend on dev-tcltk/tkimg:"
 			eerror
 			eerror "${DEPENDENT_PLUGINS}"
 			eerror
 			eerror "Please activate the \"tkimg\" USE-flag before installing these plugins"
-			echo
+			eerror
 			die "\"tkimg\" USE-flag required, but not enabled."
 		fi
 	fi
@@ -238,7 +235,7 @@ plugins_inform() {
 	if use plugins or use 3rd-party-plugins; then
 		ewarn "You may need to refresh your profile (eg. login again)"
 		ewarn "for the plugins to work."
-		echo
+		ewarn
 		if [[ -z "${TKABBER_PLUGINS}" ]]; then
 			einfo "You selected to install plugins via the plugins and/or 3rd-party-plugins"
 			einfo "USE variables. Please note, that if you wish to install only particular"
@@ -248,12 +245,13 @@ plugins_inform() {
 			einfo "Currently the following plugins are available:"
 			einfo
 			einfo "${AVAILABLE_PLUGINS}"
-			echo
+			einfo
 		fi
 	fi
 }
 
 plugins_install() {
+	insinto "${TKABBER_SITE_PLUGINS}"
 	local PLUGINS
 	local EXISTING_PLUGINS
 	local PLUGINS_DIR
@@ -277,8 +275,7 @@ plugins_install() {
 	[[ -d "${D}/${TKABBER_SITE_PLUGINS}" ]] || mkdir "${D}/${TKABBER_SITE_PLUGINS}"
 	for i in "${PLUGINS[@]}"; do
 		if has "${i}" ${EXISTING_PLUGINS}; then
-			cp -R "${PLUGINS_DIR}/${i}" "${D}/${TKABBER_SITE_PLUGINS}" \
-			|| echo "Can't copy ${PLUGINS_DIR}/${i} to ${D}/${TKABBER_SITE_PLUGINS}"
+			doins -r "${PLUGINS_DIR}/${i}"
 		fi
 	done
 }
@@ -301,10 +298,10 @@ fix_existing_third_party_tkabber_plugins() {
 	done
 
 	if [[ -n "${CONFLICTING_PLUGINS}" ]]; then
-		echo
+		ewarn
 		ewarn "Repositories have the following plugins duplicated,"
 		ewarn "official versions of this plugins will be prefered:"
 		ewarn "${CONFLICTING_PLUGINS}"
-		echo
+		ewarn
 	fi
 }
