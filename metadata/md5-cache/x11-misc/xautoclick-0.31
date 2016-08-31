@@ -10,5 +10,5 @@ RDEPEND=qt? ( dev-qt/qtcore:4 ) gtk? ( x11-libs/gtk+:2 ) fltk? ( x11-libs/fltk:1
 SLOT=0
 SRC_URI=mirror://sourceforge/xautoclick/xautoclick-0.31.tar.xz
 _eclass_exported_funcs=src_prepare:- src_configure:-
-_eclasses_=eutils	792f83d5ec9536cb5ccef375469d8bde	multilib	d062ae4ba2fc40a19c11de2ad89b6616	toolchain-funcs	6198c04daba0e1307bd844df7d37f423
+_eclasses_=eutils	b83a2420b796f7c6eff682679d08fe25	multilib	d062ae4ba2fc40a19c11de2ad89b6616	toolchain-funcs	6198c04daba0e1307bd844df7d37f423
 _md5_=3f85b2bae6370699d06181ed1a84e439
