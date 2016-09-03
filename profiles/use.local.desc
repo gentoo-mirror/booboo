@@ -151,6 +151,18 @@ net-im/spectrum:skype - Skype using the official client
 net-im/spectrum:sms - SMS using connected mobile phone
 net-im/spectrum:twitter - Twitter
 net-im/spectrum:yahoo - Yahoo
+net-im/tkabber:3rd-party-plugins - Enables installation the extra third party plugins
+net-im/tkabber:contrib - Enables installation additional contrib components ('contrib' dir), don't confuse with tkabber-contrib repo name for third party plugins
+net-im/tkabber:examples - Enables installation examples of configs, tools, xrdb, etc ('examples' dir)
+net-im/tkabber:fix-site-plugins-path - Patches sources with path to installed external plugins. Likely will be useful when 'plugins' or '3rd-party-plugins' USE flags are enabled.
+net-im/tkabber:gpg - Enables GnuPG support with dev-tcltk/tclgpg
+net-im/tkabber:plugins - Enables installation the extra plugins
+net-im/tkabber:sound - Enables sound event support with dev-tcltk/snack
+net-im/tkabber:ssl - Enables SSL/TLS support with dev-tcltk/tls
+net-im/tkabber:tkimg - Enables image support with dev-tcltk/tkimg
+net-im/tkabber:trayicon - Enables support for tray icon with dev-tcltk/tktray
+net-im/tkabber:udp - Enables support for DNS resolving over UDP.
+net-im/tkabber:vanilla - Skips any kind of source patching (and epatch_user too).
 net-libs/loudmouth:asyncns - Use libasyncns for asynchronous name resolution.
 net-libs/ortp:ntp-timestamp - Turn on NTP timestamping on received packet
 net-misc/tigervnc:server - Build TigerVNC server
