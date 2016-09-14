@@ -4,21 +4,16 @@
 
 EAPI=5
 
-inherit git-2 go
+inherit git-r3 go
 
-DESCRIPTION="Colorable writer"
-EGO_PACKAGE_PATH="github.com/mattn/go-colorable"
+DESCRIPTION="persistent storage for flags in go"
+EGO_PACKAGE_PATH="github.com/schachmat/ingo"
 HOMEPAGE="https://${EGO_PACKAGE_PATH}/"
-EGIT_REPO_URI=$HOMEPAGE
-SRC_URI=""
+EGIT_REPO_URI="$HOMEPAGE"
 
-LICENSE=""
+LICENSE="ISC"
 SLOT="0"
 KEYWORDS="~x86 ~amd64"
 IUSE=""
 
 DEPEND="$DEPEND"
-
-src_prepare() {
-	rm -rf _example _example2
-}
