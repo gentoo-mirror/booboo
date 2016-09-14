@@ -23,6 +23,7 @@ app-misc/kanatest 9999: Visual flashcard tool for memorizing the Japanese Hiraga
 app-misc/kdrill 6.5: Kanji quiz and a lookup tool for X, helps in memorizing Japanese characters
 app-misc/todos 9999: Easy-to-use TODOs manager.
 app-misc/uimge 0.07.5.0: console application to post you pictures into web
+app-misc/wego 9999: wego is a weather client for the terminal.
 app-mobilephone/gsm-ussd 0.4.0.25: a script to send USSD (Unstructured Supplementary Services Data) queries to your broadband provider.
 app-mobilephone/vcf2csv 0.6.201011061941: vcf2csv is a command line tool to convert vcard files to html or csv.
 app-office/blockdiag 1.5.3: Simple block diagram generator
@@ -53,7 +54,9 @@ dev-embedded/stm32flash 0.4 0.5: Open source flash program for STM32 using the S
 dev-embedded/stm32sprog 9999: Serial programmer for STM32 that uses the built in bootloader's USART protocol.
 dev-embedded/yosys 9999: Yosys - Yosys Open SYnthesis Suite
 dev-go/go-colorable 9999: Colorable writer
+dev-go/go-runewidth 9999: Provides functions to get fixed width of the character or string.
 dev-go/go9p 9999: 
+dev-go/ingo 9999: persistent storage for flags in go
 dev-haskell/blaze-svg 0.3.4.1: SVG combinator library
 dev-haskell/boolean 0.2.3: Generalized booleans and numbers
 dev-haskell/bytestring-progress 1.0.5: A library for tracking the consumption of a lazy ByteString
