@@ -207,6 +207,7 @@ net-libs/libinfinity 9999: An implementation of the Infinote protocol written in
 net-libs/liboping 9999: C library and ncurses based program to generate ICMP echo requests and ping multiple hosts at once
 net-libs/libringclient 9999: Ring is a Voice-over-IP software phone.
 net-libs/loudmouth 9999: Lightweight C Jabber library
+net-libs/miniupnpc 2.0: UPnP client library and a simple UPnP client
 net-libs/opendht 9999: A lightweight C++11 Distributed Hash Table implementation originally based on https://github.com/jech/dht by Juliusz Chroboczek.
 net-libs/ortp 0.25.0 9999: Open Real-time Transport Protocol (RTP, RFC3550) stack
 net-libs/pjsip 2.4: Multimedia communication libraries written in C language for building VoIP applications.
