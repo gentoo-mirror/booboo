@@ -1,0 +1,12 @@
+DEFINED_PHASES=-
+DEPEND=|| ( net-libs/polarssl net-libs/mbedtls ) dev-util/cunit
+DESCRIPTION=Utilities library used by Belledonne Communications softwares like belle-sip, mediastreamer2 and linphone.
+EAPI=5
+HOMEPAGE=http://www.linphone.org/
+KEYWORDS=~x86 ~amd64
+LICENSE=GPL-2
+RDEPEND=|| ( net-libs/polarssl net-libs/mbedtls )
+SLOT=0
+SRC_URI=https://www.linphone.org/releases/sources/bctoolbox/bctoolbox-0.2.0.tar.gz
+_eclass_exported_funcs=-
+_md5_=fca015f00ccae0aed18da557bf3d6830
