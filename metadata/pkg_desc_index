@@ -84,7 +84,7 @@ dev-libs/msgpack 1.2.0: MessagePack is a binary-based efficient data interchange
 dev-libs/wiringPi 2.13 9999: A 'wiring' like library for the Raspberry Pi
 dev-perl/UI-Dialog 1.08: 
 dev-python/ansi2html 9999: Convert text with ANSI color codes to HTML
-dev-python/bitcoin 1.1.27: Python Bitcoin Tools
+dev-python/bitcoin 1.1.27 1.1.42: Python Bitcoin Tools
 dev-python/cjklib 0.3: Cjklib provides language routines related to Han characters (characters based on Chinese characters named Hanzi, Kanji, Hanja and chu Han respectively) used in writing of the Chinese, the Japanese, infrequently the Korean and formerly the Vietnamese language(s). Functionality is included for character pronunciations, radicals, glyph components, stroke decomposition and variant information.
 dev-python/dnschain 0.1.0: A Python DNSChain library
 dev-python/foolscap 0.10.1: RPC protocol for Twisted
