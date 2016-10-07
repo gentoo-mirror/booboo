@@ -1,7 +1,7 @@
 DEFINED_PHASES=compile configure install prepare unpack
 DEPEND=>=dev-libs/glib-2.4 gnutls? ( >=net-libs/gnutls-1.4.0 ) openssl? ( dev-libs/openssl ) virtual/pkgconfig doc? ( >=dev-util/gtk-doc-am-1 <dev-util/gtk-doc-1.12 ) >=dev-vcs/git-1.8.2.1
 DESCRIPTION=Lightweight C Jabber library
-EAPI=2
+EAPI=5
 HOMEPAGE=https://github.com/mcabber/loudmouth
 IUSE=openssl gnutls doc
 LICENSE=LGPL-2.1
@@ -9,4 +9,4 @@ RDEPEND=>=dev-libs/glib-2.4 gnutls? ( >=net-libs/gnutls-1.4.0 ) openssl? ( dev-l
 SLOT=0
 _eclass_exported_funcs=src_unpack:git-r3 src_prepare:- src_configure:- src_compile:base src_install:-
 _eclasses_=base	3fe4f8980633fd7bc69e9887209ba2fe	eutils	b83a2420b796f7c6eff682679d08fe25	git-r3	00f60a84fc7b499c99edfe99caea9f95	multilib	165fc17c38d1b11dac2008280dab6e80	toolchain-funcs	6198c04daba0e1307bd844df7d37f423
-_md5_=c3b9b40c8b6380d71fecaa400d861bcf
+_md5_=edd4d47b8be9612f4c7e38ddea8106dd
