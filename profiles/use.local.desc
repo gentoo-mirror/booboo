@@ -166,6 +166,16 @@ net-im/tkabber:udp - Enables support for DNS resolving over UDP.
 net-im/tkabber:vanilla - Skips any kind of source patching (and epatch_user too).
 net-libs/loudmouth:asyncns - Use libasyncns for asynchronous name resolution.
 net-libs/ortp:ntp-timestamp - Turn on NTP timestamping on received packet
+net-misc/electrum:cli - Enables the CLI interface
+net-misc/electrum:cosign - Enable plugin to support multisig wallets between multiple Electrum clients
+net-misc/electrum:email - Enable plugin to support emailing invoices
+net-misc/electrum:fiat - Enable plugin for looking up fiat values of bitcoin
+net-misc/electrum:greenaddress_it - Enable plugin to verify GreenAddress.it instant transactions
+net-misc/electrum:gtk3 - Enable support for gtk+3
+net-misc/electrum:qrcode - Enable QR code scanning with media-gfx/zbar
+net-misc/electrum:sync - Enable plugin to sync wallet metadata across multiple Electrum clients
+net-misc/electrum:trustedcoin_com - Enable plugin to use two-factor service by TrustedCoin.com
+net-misc/electrum:vkb - Enable plugin for virtual keyboard
 net-misc/tigervnc:server - Build TigerVNC server
 net-misc/tigervnc:xorgmodule - Build the Xorg module
 net-voip/linphone:assistant - Turn on assistant compiling (needs gtk enabled)
