@@ -8,5 +8,5 @@ LICENSE=GPL-2
 RDEPEND=!server? ( virtual/opengl virtual/glu media-libs/libsdl2 media-libs/sdl2-image[jpeg,png] media-libs/sdl2-ttf media-libs/sdl2-mixer virtual/jpeg media-libs/libpng:0 media-libs/libogg media-libs/libvorbis x11-proto/xf86vidmodeproto ) net-misc/curl sys-devel/gettext sys-libs/zlib editor? ( dev-libs/libxml2 virtual/jpeg media-libs/openal x11-libs/gtkglext x11-libs/gtksourceview:2.0 ) games-misc/games-envd
 SLOT=0
 _eclass_exported_funcs=pkg_preinst:games pkg_postinst:games pkg_setup:- src_unpack:git-r3 src_prepare:base src_configure:- src_compile:- src_install:-
-_eclasses_=base	3fe4f8980633fd7bc69e9887209ba2fe	eutils	b83a2420b796f7c6eff682679d08fe25	flag-o-matic	8632fcd33a047954f007dee9a137bdcc	games	2cf0d67d765e6358b435ccda30c13ad8	git-r3	00f60a84fc7b499c99edfe99caea9f95	multilib	165fc17c38d1b11dac2008280dab6e80	toolchain-funcs	6198c04daba0e1307bd844df7d37f423	user	80aaa71614ced86f02ee1a513821dc87
+_eclasses_=base	3fe4f8980633fd7bc69e9887209ba2fe	eutils	b83a2420b796f7c6eff682679d08fe25	flag-o-matic	8632fcd33a047954f007dee9a137bdcc	games	2cf0d67d765e6358b435ccda30c13ad8	git-r3	86ff3e88fc8a07b4f595afa27e416341	multilib	165fc17c38d1b11dac2008280dab6e80	toolchain-funcs	6198c04daba0e1307bd844df7d37f423	user	80aaa71614ced86f02ee1a513821dc87
 _md5_=14e7e487aa4fd43bbc489a6cf5893106
