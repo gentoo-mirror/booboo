@@ -1,4 +1,5 @@
 app-admin/collectd 5.5.0: A a daemon which collects system statistic and provides mechanisms to store the values
+app-admin/conky 1.10.5-r1: An advanced, highly configurable system monitor for X
 app-admin/f3 9999: Fight Flash Fraud, or Fight Fake Flash
 app-admin/sigar 9999: System Information Gatherer And Reporter
 app-backup/obnam 1.19: A backup program that supports encryption and deduplication
