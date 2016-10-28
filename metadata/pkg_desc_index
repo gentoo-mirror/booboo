@@ -288,6 +288,7 @@ www-servers/lighttpd 1.5.9999 2.9999: Lightweight high-performance web server
 www-servers/uhttpd 9999: OpenWRT HTTP server
 www-servers/yaws 9999: Yaws is a high performance HTTP 1.1 web server.
 x11-apps/arbtt 9999: Automatic Rule-Based Time Tracker
+x11-apps/xkb-switch 9999: Switch your X keyboard layouts from the command line
 x11-drivers/synaptics 0.14.6-r2: Driver for Synaptics touchpads
 x11-libs/xosd 2.2.14-r2: Library for overlaying text in X-Windows X-On-Screen-Display plus binary for sending text from CLI
 x11-misc/dmenu 4.0-r1: a generic, highly customizable, and efficient menu for the X Window System
