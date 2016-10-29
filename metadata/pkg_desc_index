@@ -42,6 +42,7 @@ app-text/xml2rfc 2.5.0: Xml2rfc generates RFCs and IETF drafts from document sou
 app-vim/ledger-syntax 9999: vim plugin: app-office/ledger file format syntax
 app-vim/pyclewn 2.3: Pyclewn allows using vim as a front end to a debugger (pdb or gdb)
 app-vim/rc-syntax 20091204 20091226: vim plugin: rc shell script syntax highlighting
+app-vim/vim-xkbswitch 0.14.1: easily switch current keyboard layout when entering and leaving Insert mode
 dev-cpp/commoncpp2 9999: GNU Common C++ is a C++ framework offering portable support for threading, sockets, file access, daemons, persistence, serial I/O, XML parsing, and system services
 dev-embedded/arachne-pnr 9999: Arachne PNR - free and open-source place and route tool for FPGAs
 dev-embedded/esptool 9999: A cute Python utility to communicate with the ROM bootloader in Espressif ESP8266. It is intended to be a simple, platform independent, open source replacement for XTCOM.
