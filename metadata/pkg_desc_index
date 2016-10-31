@@ -224,7 +224,7 @@ net-mail/notifmail 9999: notifmail is an email daemon checker which notifies sys
 net-misc/6tunnel 9999: TCP proxy for applications that don't speak IPv6
 net-misc/dialer-app 9999: Dialer app for Ubuntu Touch
 net-misc/drawterm 9999: drawterm – connect to Plan 9 CPU servers from other operating systems
-net-misc/electrum 2.7.6 2.7.7 2.7.9: User friendly Bitcoin client
+net-misc/electrum 2.7.6 2.7.7 2.7.9 2.7.11: User friendly Bitcoin client
 net-misc/fastd 18: Fast and Secure Tunneling Daemon (fastd)
 net-misc/gopher 3.0.13: Distributed Hypertext Client, Gopher protocol
 net-misc/iodine 9999: IP over DNS tunnel
