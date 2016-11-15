@@ -9,5 +9,5 @@ RDEPEND=>=x11-libs/fltk-1.3 sys-libs/zlib jpeg? ( virtual/jpeg:0 ) png? ( >=medi
 SLOT=0
 SRC_URI=mirror://gentoo/dillo.png
 _eclass_exported_funcs=pkg_postinst:- src_unpack:mercurial src_prepare:- src_configure:- src_compile:- src_install:-
-_eclasses_=autotools	07e71b3b5690738ef7e8bc097077e00c	eutils	b83a2420b796f7c6eff682679d08fe25	libtool	4890219c51da247200223277f993e054	mercurial	789038b352d112bcff9dff083aa40d8d	multilib	165fc17c38d1b11dac2008280dab6e80	toolchain-funcs	1b1da0c45c555989dc5d832b54880783
+_eclasses_=autotools	07e71b3b5690738ef7e8bc097077e00c	eutils	b83a2420b796f7c6eff682679d08fe25	libtool	4890219c51da247200223277f993e054	mercurial	66da6d1ccacd123e28d2c64821052a9a	multilib	165fc17c38d1b11dac2008280dab6e80	toolchain-funcs	1b1da0c45c555989dc5d832b54880783
 _md5_=84dec4e95b8c3f6649f0232d6d590055
