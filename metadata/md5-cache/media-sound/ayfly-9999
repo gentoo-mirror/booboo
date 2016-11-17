@@ -1,0 +1,13 @@
+DEFINED_PHASES=configure prepare unpack
+DEPEND=wxwidgets? ( x11-libs/wxGTK ) media-libs/libsdl sys-devel/automake >=dev-vcs/git-1.8.2.1 !<sys-devel/gettext-0.18.1.1-r3 || ( >=sys-devel/automake-1.15:1.15 ) >=sys-devel/autoconf-2.69 >=sys-devel/libtool-2.4
+DESCRIPTION=Ayfly is a AY-891x emulator and player.
+EAPI=5
+HOMEPAGE=https://github.com/l29ah/ayfly
+IUSE=wxwidgets
+KEYWORDS=~x86 ~amd64 ~arm
+LICENSE=GPL-2
+RDEPEND=wxwidgets? ( x11-libs/wxGTK )
+SLOT=0
+_eclass_exported_funcs=src_unpack:git-r3 src_prepare:- src_configure:-
+_eclasses_=autotools	07e71b3b5690738ef7e8bc097077e00c	eutils	b83a2420b796f7c6eff682679d08fe25	git-r3	e928b84a9f6f1d9076d1d27687876dc6	libtool	4890219c51da247200223277f993e054	multilib	165fc17c38d1b11dac2008280dab6e80	toolchain-funcs	1b1da0c45c555989dc5d832b54880783
+_md5_=f87e9441d60ab1b2468e25b0593d359a

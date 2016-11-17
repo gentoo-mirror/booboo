@@ -167,7 +167,7 @@ media-libs/rem 0.4.6 0.4.7: Librem is a portable and generic library for real-ti
 media-plugins/alsa-plugin-rsound 9999-r1: RSound plugin for ALSA
 media-radio/GtkMMorse 9999: GtkMMorse is a morse code learning tool released under GPL, which provides two type of training methods: Koch method Classic method
 media-sound/acousticbrainz-gui 9999: This client lets you submit your own audio features to the AcousticBrainz project.
-media-sound/ayfly 0.0.25: Ayfly is a AY-891x emulator and player.
+media-sound/ayfly 9999: Ayfly is a AY-891x emulator and player.
 media-sound/cmus 9999: A ncurses based music player with plugin support for many formats
 media-sound/cmusfm 0.1.2: Last.fm scrobbler for cmus music player
 media-sound/cursynth 1.4: Cursynth is a polyphonic music synthesizer that runs graphically inside your terminal.
