@@ -136,6 +136,7 @@ games-simulation/simutrans-exp 9999: A free Transport Tycoon clone Experimental 
 games-simulation/simutrans-exp-britain-ex 9999: Britain pakset for Simutrans Experimental
 games-strategy/0ad 0.0.20_alpha: A free, real-time strategy game
 games-strategy/0ad-data 0.0.20_alpha: Data files for 0ad
+games-strategy/7kaa 9999: Seven Kingdoms: Ancient Adversaries
 games-strategy/dyson 1.10: Dyson is an ambient real-time strategy game with abstract visuals.
 games-strategy/freeciv 2.5.0: multiplayer strategy game (Civilization Clone)
 games-strategy/freeorion 9999-r16: A free turn-based space empire and galactic conquest game
