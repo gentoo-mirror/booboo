@@ -8,5 +8,5 @@ LICENSE=LGPL-2
 RDEPEND=net-ftn/husky-huskylib net-ftn/husky-smapi net-ftn/husky-fidoconf
 SLOT=0
 _eclass_exported_funcs=src_unpack:cvs src_compile:- src_install:-
-_eclasses_=cvs	e94c89c58918dff87fa3db1e817c25be	eutils	b83a2420b796f7c6eff682679d08fe25	gnuconfig	3920de1188fc7bfee873515453ed1d10	multilib	165fc17c38d1b11dac2008280dab6e80	toolchain-funcs	1b1da0c45c555989dc5d832b54880783
+_eclasses_=cvs	e94c89c58918dff87fa3db1e817c25be	eutils	017377e73405d964cd0137088cddb9c3	gnuconfig	3920de1188fc7bfee873515453ed1d10	multilib	165fc17c38d1b11dac2008280dab6e80	toolchain-funcs	1b1da0c45c555989dc5d832b54880783
 _md5_=c376ef09be5daff175f4bac17f6d0fd9
