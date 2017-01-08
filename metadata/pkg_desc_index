@@ -276,6 +276,7 @@ net-misc/tigervnc 9999: Remote desktop viewer display system
 net-misc/tor-arm 9999: Terminal tor status monitor
 net-misc/trackma 9999: Open multi-site list manager for media tracking sites.
 net-misc/vuurmuur_conf 0.7: Iptables frontend. Ncurses GUI, for administration and monitoring.
+net-misc/yacy 1.92.20161226.9000: YaCy - p2p based distributed web-search engine
 net-misc/youtube-dl 9999: Download videos from YouTube.com (and more sites...)
 net-misc/zebedee 2.5.3-r1: A simple, free, secure TCP and UDP tunnel program
 net-p2p/chimera 1.20: Chimera, a light-weight & efficient implementation of a structured peer-to-peer overlay network
