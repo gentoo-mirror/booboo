@@ -153,6 +153,7 @@ dev-util/cmacro 9999: cmacro: Lisp macros for C
 dev-util/coan 9999: The C preprocessor chainsaw
 dev-util/gstlfilt 3.10: STLFilt simplifies and/or reformats long-winded C++ error and warning messages, with a focus on STL-related diagnostics
 dev-util/monodevelop-fsharp 9999: F# language binding for MonoDevelop
+dev-vcs/hub 2.3.0_pre8: Command-line wrapper for git that makes you better at GitHub
 dev-vcs/vcsh 9999: Manage config files in $HOME via fake bare git repositories
 games-arcade/jumpnbump 1.55: a funny multiplayer game about cute little fluffy bunnies
 games-arcade/taisei 1.0a 9999: Taisei (lit. Occident) is a fan-made, Open Source clone of the Touhou series, written in C using SDL/OpenGL/OpenAL.
