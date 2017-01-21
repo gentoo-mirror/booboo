@@ -101,7 +101,7 @@ dev-go/go9p 9999:
 dev-go/ingo 9999: persistent storage for flags in go
 dev-haskell/blaze-svg 0.3.4.1: SVG combinator library
 dev-haskell/boolean 0.2.3: Generalized booleans and numbers
-dev-haskell/bytestring-progress 1.0.5: A library for tracking the consumption of a lazy ByteString
+dev-haskell/bytestring-progress 1.0.7: A library for tracking the consumption of a lazy ByteString
 dev-haskell/equational-reasoning 0.2.0.7: Proof assistant for Haskell using DataKinds & PolyKinds
 dev-haskell/haxml 9999: Utilities for manipulating XML documents
 dev-haskell/memotrie 0.6.2: Trie-based memo functions
