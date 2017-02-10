@@ -158,7 +158,7 @@ games-arcade/jumpnbump 1.55: a funny multiplayer game about cute little fluffy b
 games-arcade/taisei 1.0a 9999: Taisei (lit. Occident) is a fan-made, Open Source clone of the Touhou series, written in C using SDL/OpenGL/OpenAL.
 games-board/glgo 1.4.1: PANDA-glGo is a board interface for Go games
 games-board/qgo2 9999: qGo is a full featured SGF editor and Go Client.
-games-board/rftg 0.9.4: "Race for the Galaxy" card game.
+games-board/rftg 0.9.4 9999: "Race for the Galaxy" card game.
 games-engines/onscripter-en 99999999: A fork of the ONScripter engine with added English support
 games-fps/anaglyph-stereo-quake 130100-r1: play Quake in 3D with red - blue glasses
 games-fps/darkplaces 9999: Enhanced engine for iD Software's Quake 1
