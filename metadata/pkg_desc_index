@@ -192,6 +192,7 @@ media-gfx/ginkgocadx 9999: an advanced DICOM viewer and dicomizer that can also 
 media-gfx/implicitcad 9999: Math-inspired programmatic 2&3D CAD: CSG, bevels, and shells; gcode export
 media-gfx/kradview 1.1.0: a viewer of images obtained for some different sources: X-ray, NMR and all DICOM-compatible imaging devices. Its aim is to be a complete platform for medical imaging and image processing.
 media-gfx/qiv 9999: Quick Image Viewer
+media-gfx/solvespace 9999: Parametric 2d/3d CAD
 media-gfx/sxiv 1.3.2: Simple (or small or suckless) X Image Viewer
 media-gfx/synfig 0.63.03 0.63.04 0.63.05: Film-Quality Vector Animation (core engine)
 media-gfx/synfigstudio 0.63.03 0.63.04 0.63.05: Main UI of synfig: Film-Quality Vector Animation
