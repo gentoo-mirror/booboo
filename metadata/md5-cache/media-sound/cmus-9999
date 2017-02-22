@@ -9,5 +9,5 @@ LICENSE=GPL-2
 RDEPEND=sys-libs/ncurses[unicode?] aac? ( media-libs/faad2 ) alsa? ( >=media-libs/alsa-lib-1.0.11 ) ao? ( media-libs/libao ) flac? ( media-libs/flac ) mad? ( >=media-libs/libmad-0.14 ) mikmod? ( media-libs/libmikmod ) modplug? ( >=media-libs/libmodplug-0.7 ) mp4? ( >=media-libs/libmp4v2-1.9 ) musepack? ( >=media-sound/musepack-tools-444 ) pulseaudio? ( media-sound/pulseaudio ) vorbis? ( >=media-libs/libvorbis-1.0 ) wavpack? ( media-sound/wavpack ) ffmpeg? ( media-video/ffmpeg ) zsh-completion? ( app-shells/zsh ) pidgin? ( net-im/pidgin dev-python/dbus-python )
 SLOT=0
 _eclass_exported_funcs=src_unpack:git-2 src_prepare:- src_configure:- src_compile:base src_install:-
-_eclasses_=base	3fe4f8980633fd7bc69e9887209ba2fe	eutils	ea170b525f6a38a006be05c9d9429f13	git-2	7af5d170bfc02983b4bcd3167dc5edd4	multilib	165fc17c38d1b11dac2008280dab6e80	toolchain-funcs	1b1da0c45c555989dc5d832b54880783
+_eclasses_=base	3fe4f8980633fd7bc69e9887209ba2fe	eutils	708f85bc1bf00876604e223fb56e062a	git-2	7af5d170bfc02983b4bcd3167dc5edd4	multilib	165fc17c38d1b11dac2008280dab6e80	toolchain-funcs	1b1da0c45c555989dc5d832b54880783
 _md5_=9098d2bd226d03f1655e7e6102696517
