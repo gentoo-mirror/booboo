@@ -1,0 +1,12 @@
+DEFINED_PHASES=compile configure install postinst prepare unpack
+DEPEND=dev-lang/erlang dev-vcs/git !<sys-devel/gettext-0.18.1.1-r3 || ( >=sys-devel/automake-1.15:1.15 ) >=sys-devel/autoconf-2.69 >=sys-devel/libtool-2.4
+DESCRIPTION=Yaws is a high performance HTTP 1.1 web server.
+EAPI=2
+HOMEPAGE=http://yaws.hyber.org/
+IUSE=pam
+LICENSE=BSD
+RDEPEND=dev-lang/erlang
+SLOT=0
+_eclass_exported_funcs=pkg_postinst:- src_unpack:- src_prepare:- src_configure:- src_compile:- src_install:-
+_eclasses_=autotools	07e71b3b5690738ef7e8bc097077e00c	eutils	708f85bc1bf00876604e223fb56e062a	git-2	7af5d170bfc02983b4bcd3167dc5edd4	libtool	84763589a795fb127b537cac01e5359f	multilib	165fc17c38d1b11dac2008280dab6e80	toolchain-funcs	1b1da0c45c555989dc5d832b54880783
+_md5_=dbbf285999f04ad8e141bcb558b72c65
