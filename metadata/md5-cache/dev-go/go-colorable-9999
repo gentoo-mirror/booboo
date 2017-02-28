@@ -6,5 +6,5 @@ HOMEPAGE=https://github.com/mattn/go-colorable/
 KEYWORDS=~x86 ~amd64
 SLOT=0
 _eclass_exported_funcs=src_unpack:git-2 src_prepare:- src_compile:go src_test:go src_install:go
-_eclasses_=git-2	7af5d170bfc02983b4bcd3167dc5edd4	go	d016927c10636e1ee814ec013a006228
+_eclasses_=git-2	195a672bfaf52d868442171c9469bbb6	go	d016927c10636e1ee814ec013a006228
 _md5_=5fb8f830b52122775e9d84587d7e7cce
