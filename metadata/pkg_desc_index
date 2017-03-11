@@ -130,7 +130,7 @@ dev-python/cjklib 0.3: Cjklib provides language routines related to Han characte
 dev-python/dnschain 0.1.0: A Python DNSChain library
 dev-python/editorconfig 0.12.1: EditorConfig File Locator and Interpreter for Python
 dev-python/foolscap 0.10.1: RPC protocol for Twisted
-dev-python/fs 9999: Filesystem abstraction
+dev-python/fs 9999: Python's Filesystem abstraction layer
 dev-python/html2text 2015.4.14: Turn HTML into equivalent Markdown-structured text
 dev-python/jsbeautifier 1.6.9: Beautify, unpack or deobfuscate JavaScript
 dev-python/lfmh 1.1.1: A Last.fm API interface.

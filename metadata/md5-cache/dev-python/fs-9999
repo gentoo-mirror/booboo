@@ -1,11 +1,13 @@
-DEFINED_PHASES=compile install postinst postrm preinst prepare setup unpack
-DEPEND=dev-python/setuptools || ( =dev-lang/python-2.7* =dev-lang/python-2.6* =dev-lang/python-2.5* ) || ( dev-vcs/subversion[http] dev-vcs/subversion[webdav-neon] dev-vcs/subversion[webdav-serf] ) net-misc/rsync
-DESCRIPTION=Filesystem abstraction
-EAPI=4
-HOMEPAGE=http://code.google.com/p/pyfilesystem/
+DEFINED_PHASES=compile configure install prepare test unpack
+DEPEND=dev-python/setuptools python_targets_python2_7? ( >=dev-lang/python-2.7.5-r2:2.7 ) >=dev-lang/python-exec-2:=[python_targets_python2_7(-)?,-python_single_target_python2_7(-)] >=dev-vcs/git-1.8.2.1
+DESCRIPTION=Python's Filesystem abstraction layer
+EAPI=5
+HOMEPAGE=https://github.com/PyFilesystem/pyfilesystem2
+IUSE=python_targets_python2_7
 LICENSE=BSD
-RDEPEND=dev-python/setuptools dev-python/six || ( =dev-lang/python-2.7* =dev-lang/python-2.6* =dev-lang/python-2.5* )
+RDEPEND=dev-python/setuptools dev-python/six python_targets_python2_7? ( >=dev-lang/python-2.7.5-r2:2.7 ) >=dev-lang/python-exec-2:=[python_targets_python2_7(-)?,-python_single_target_python2_7(-)]
+REQUIRED_USE=|| ( python_targets_python2_7 )
 SLOT=0
-_eclass_exported_funcs=pkg_preinst:subversion pkg_postrm:distutils pkg_postinst:distutils pkg_setup:python src_unpack:subversion src_prepare:- src_compile:distutils src_install:distutils
-_eclasses_=distutils	211b731505cd31ff9638734ae186b82d	eutils	3c847a0129fed780bd709b98e426f89c	multilib	0236be304ee52e7f179ed2f337075515	python	bc5dc5d43bf20a6e1f59f99b5f49df4f	subversion	a5d5826a85609611f098c0553eb24cc1	toolchain-funcs	6eb35f81556258a4bc9182ad3dfd58ee
-_md5_=5e330c3bf00e1065e1d787af3b4e7e17
+_eclass_exported_funcs=src_unpack:git-r3 src_prepare:- src_configure:distutils-r1 src_compile:distutils-r1 src_test:distutils-r1 src_install:distutils-r1
+_eclasses_=distutils-r1	039ba10839816478cfb070fdeb053906	eutils	3c847a0129fed780bd709b98e426f89c	git-r3	08c5be5f8bdc203ed54d5ff5fef3c34d	multibuild	72647e255187a1fadc81097b3657e5c3	multilib	0236be304ee52e7f179ed2f337075515	multiprocessing	284a473719153462f3e974d86c8cb81c	python-r1	0c067f080a047742ffac024b16895b45	python-utils-r1	4f8aa7196c2c9a5630e66c2113ae46c3	toolchain-funcs	6eb35f81556258a4bc9182ad3dfd58ee	xdg-utils	b9389dfad0ee8f8e0b2a41b79fcf7120
+_md5_=4d2a19457f99542c931343949bd08ca8
