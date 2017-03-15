@@ -183,7 +183,6 @@ net-voip/linphone:gsm-nonstandard - Support non-standard GSM frequencies
 net-voip/linphone:sqlite - Turn on compilation of message storage
 net-voip/linphone:tools - Compile tools
 net-voip/linphone:video - Enable video support (display/capture)
-sci-geosciences/googleearth:bundled-libs - Use bundled libraries.
 sci-libs/itk:itkv3compat - Enable compatibility with ITK version 3
 sci-libs/itk:review - Enable compilation of methods under review
 sci-libs/itk:vtkglue - PLEASE FIX MY DESCRIPTION
