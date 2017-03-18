@@ -1,5 +1,5 @@
 DEFINED_PHASES=compile configure install prepare pretend setup test
-DEPEND=dev-libs/double-conversion:0= sci-libs/dcmtk:0= sci-libs/hdf5:0=[cxx] sys-libs/zlib:0= virtual/jpeg fftw? ( sci-libs/fftw:3.0= ) vtkglue? ( sci-libs/vtk:0=[python?] ) python? ( python_targets_python2_7? ( >=dev-lang/python-2.7.5-r2:2.7 ) >=dev-lang/python-exec-2:=[python_targets_python2_7(-)?,-python_single_target_jython2_7(-),-python_single_target_pypy(-),-python_single_target_pypy3(-),-python_single_target_python3_4(-),-python_single_target_python3_5(-),-python_single_target_python3_6(-),python_single_target_python2_7(+)] >=dev-lang/swig-2.0 >=dev-cpp/gccxml-0.9.0_pre20120309 ) doc? ( app-doc/doxygen ) sys-devel/make >=dev-util/cmake-3.6.3
+DEPEND=dev-libs/double-conversion:0= sci-libs/dcmtk:0= sci-libs/hdf5:0=[cxx] sys-libs/zlib:0= virtual/jpeg fftw? ( sci-libs/fftw:3.0= ) vtkglue? ( sci-libs/vtk:0=[python?] ) python? ( python_targets_python2_7? ( >=dev-lang/python-2.7.5-r2:2.7 ) >=dev-lang/python-exec-2:=[python_targets_python2_7(-)?,-python_single_target_jython2_7(-),-python_single_target_pypy(-),-python_single_target_pypy3(-),-python_single_target_python3_4(-),-python_single_target_python3_5(-),-python_single_target_python3_6(-),python_single_target_python2_7(+)] >=dev-lang/swig-2.0 >=dev-cpp/gccxml-0.9.0_pre20120309 ) doc? ( app-doc/doxygen ) sys-devel/make >=dev-util/cmake-3.7.2
 DESCRIPTION=NLM Insight Segmentation and Registration Toolkit
 EAPI=5
 HOMEPAGE=http://www.itk.org
@@ -12,5 +12,5 @@ RESTRICT=primaryuri
 SLOT=0
 SRC_URI=mirror://sourceforge/itk/itk/3.20/InsightToolkit-3.20.1.tar.gz doc? ( mirror://sourceforge/itk/DoxygenInsightToolkit-3.20.tar.gz )
 _eclass_exported_funcs=pkg_pretend:- pkg_setup:python-single-r1 src_prepare:cmake-utils src_configure:- src_compile:cmake-utils src_test:cmake-utils src_install:-
-_eclasses_=cmake-utils	dd1d263f83f0791bd433b134f40db39b	eutils	3c847a0129fed780bd709b98e426f89c	flag-o-matic	61cad4fb5d800b29d484b27cb033f59b	multilib	0236be304ee52e7f179ed2f337075515	multiprocessing	284a473719153462f3e974d86c8cb81c	python-single-r1	c3e54dd0dc1e70c6252f2551a55bf053	python-utils-r1	4f8aa7196c2c9a5630e66c2113ae46c3	toolchain-funcs	6eb35f81556258a4bc9182ad3dfd58ee	versionator	c80ccf29e90adea7c5cae94b42eb76d0
+_eclasses_=cmake-utils	a69f3a404abc4ade0a99e523f51b989d	eutils	3c847a0129fed780bd709b98e426f89c	flag-o-matic	61cad4fb5d800b29d484b27cb033f59b	multilib	0236be304ee52e7f179ed2f337075515	multiprocessing	284a473719153462f3e974d86c8cb81c	python-single-r1	c3e54dd0dc1e70c6252f2551a55bf053	python-utils-r1	4f8aa7196c2c9a5630e66c2113ae46c3	toolchain-funcs	6eb35f81556258a4bc9182ad3dfd58ee	versionator	c80ccf29e90adea7c5cae94b42eb76d0
 _md5_=530c0dff8d0bcefb3abffffc0c4cb871
