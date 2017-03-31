@@ -107,6 +107,7 @@ app-admin/collectd:contrib - Install user-contributed files in the doc directory
 app-mobilephone/gammu:irda - Enables infrared support
 dev-tcltk/tclgpg:helper - Compile C helper to run gpg binary
 games-engines/onscripter-en:scale - Enables experimental scaling support
+games-simulation/corsix-th:midi - Adds support for background midis via media-sound/timidity++
 games-strategy/0ad:editor - Include Atlas scenario editor projects
 games-strategy/0ad:lobby - Enable the use of net-libs/gloox and the multiplayer lobby
 games-strategy/0ad:nvtt - Support for some uncompressed data formats via media-gfx/nvidia-texture-tools (might be needed for some mods)
