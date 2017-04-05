@@ -102,6 +102,7 @@ dev-go/ingo 9999: persistent storage for flags in go
 dev-haskell/blaze-svg 0.3.4.1: SVG combinator library
 dev-haskell/boolean 0.2.3: Generalized booleans and numbers
 dev-haskell/bytestring-progress 1.0.7: A library for tracking the consumption of a lazy ByteString
+dev-haskell/download 0.3.2.5: High-level file download based on URLs
 dev-haskell/equational-reasoning 0.2.0.7: Proof assistant for Haskell using DataKinds & PolyKinds
 dev-haskell/haxml 9999: Utilities for manipulating XML documents
 dev-haskell/memotrie 0.6.2: Trie-based memo functions
@@ -126,7 +127,7 @@ dev-libs/wiringPi 2.13 9999: A 'wiring' like library for the Raspberry Pi
 dev-perl/UI-Dialog 1.08: 
 dev-python/ansi2html 9999: Convert text with ANSI color codes to HTML
 dev-python/bitcoin 1.1.27 1.1.42: Python Bitcoin Tools
-dev-python/cjklib 0.3: Cjklib provides language routines related to Han characters (characters based on Chinese characters named Hanzi, Kanji, Hanja and chu Han respectively) used in writing of the Chinese, the Japanese, infrequently the Korean and formerly the Vietnamese language(s). Functionality is included for character pronunciations, radicals, glyph components, stroke decomposition and variant information.
+dev-python/cjklib 0.3 0.3.2: Cjklib provides language routines related to Han characters (characters based on Chinese characters named Hanzi, Kanji, Hanja and chu Han respectively) used in writing of the Chinese, the Japanese, infrequently the Korean and formerly the Vietnamese language(s). Functionality is included for character pronunciations, radicals, glyph components, stroke decomposition and variant information.
 dev-python/dnschain 0.1.0: A Python DNSChain library
 dev-python/editorconfig 0.12.1: EditorConfig File Locator and Interpreter for Python
 dev-python/foolscap 0.10.1: RPC protocol for Twisted
