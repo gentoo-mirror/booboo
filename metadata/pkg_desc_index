@@ -120,6 +120,7 @@ dev-lang/openapl 0.14: OpenAPL is an open-source APL (A Programming Language) im
 dev-lang/owl 0.7.6: owl means Obfuscated Weird Language, and it's my main project regarding obfuscated programming languages. It was born from the ashes of bogusforth (another older language of mine, not longer maintained), but it's a different thing. Its foundations are simplicity, strength and power.
 dev-lang/psyclpc 20090321: psycLPC is a multi-user network server programming language
 dev-lang/sedsed 9999: Sedsed can debug, indent, tokenize and HTMLize your SED scripts.
+dev-libs/libnfc 9999: Near Field Communications (NFC) library
 dev-libs/librs232 9999: multiplatform library for serial communications over RS-232 (serial port)
 dev-libs/libuecc 7: libuecc is a very small generic-purpose Elliptic Curve Cryptography library compatible with Ed25519
 dev-libs/msgpack 1.2.0: MessagePack is a binary-based efficient data interchange format
