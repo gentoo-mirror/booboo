@@ -210,7 +210,6 @@ media-libs/mediastreamer 2.12.1 2.14.0 9999: Mediastreaming library for telephon
 media-libs/netpbm 9999-r1: A set of utilities for converting to/from the netpbm (and related) formats
 media-libs/rem 0.4.6 0.4.7: Librem is a portable and generic library for real-time audio and video processing.
 media-plugins/alsa-plugin-rsound 9999-r1: RSound plugin for ALSA
-media-radio/GtkMMorse 9999: GtkMMorse is a morse code learning tool released under GPL, which provides two type of training methods: Koch method Classic method
 media-sound/acousticbrainz-gui 9999: This client lets you submit your own audio features to the AcousticBrainz project.
 media-sound/ayfly 9999: Ayfly is a AY-891x emulator and player.
 media-sound/cmus 9999: A ncurses based music player with plugin support for many formats
