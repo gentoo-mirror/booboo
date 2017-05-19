@@ -242,7 +242,7 @@ net-ftn/husky-fidoconf 9999: FTN husky fidoconf library
 net-ftn/husky-hpt 9999: FTN husky hpt library
 net-ftn/husky-huskylib 9999: FTN husky huskylib library
 net-ftn/husky-smapi 9999: FTN husky smapi library
-net-im/biboumi 2.0: XMPP gateway to IRC.
+net-im/biboumi 2.0 4.2: XMPP gateway to IRC.
 net-im/communi 2.2.9999: A cross-platform IRC framework written with Qt
 net-im/dyskinesia 9999: A PSYC client written in QT
 net-im/hatexmpp 9999: hatexmpp is a xmpp-client featuring ii-like interface
