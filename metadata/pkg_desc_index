@@ -160,14 +160,12 @@ dev-util/monodevelop-fsharp 9999: F# language binding for MonoDevelop
 dev-vcs/hub 2.3.0_pre8 2.3.0_pre9: Command-line wrapper for git that makes you better at GitHub
 dev-vcs/vcsh 9999: Manage config files in $HOME via fake bare git repositories
 games-arcade/jumpnbump 1.55: a funny multiplayer game about cute little fluffy bunnies
-games-arcade/taisei 1.0a 9999: Taisei (lit. Occident) is a fan-made, Open Source clone of the Touhou series, written in C using SDL/OpenGL/OpenAL.
 games-board/glgo 1.4.1: PANDA-glGo is a board interface for Go games
 games-board/qgo2 9999: qGo is a full featured SGF editor and Go Client.
 games-board/rftg 0.9.4 9999: "Race for the Galaxy" card game.
 games-engines/onscripter-en 99999999: A fork of the ONScripter engine with added English support
 games-fps/anaglyph-stereo-quake 130100-r1: play Quake in 3D with red - blue glasses
 games-fps/darkplaces 9999: Enhanced engine for iD Software's Quake 1
-games-fps/doomsday 1.9.0_beta69: A modern gaming engine for Doom, Heretic, and Hexen
 games-fps/ezquake 9999: Quakeworld client with mqwcl functionality and many more features.
 games-fps/tremulous-bin 1.1.0: Team-based aliens vs humans FPS with buildable structures
 games-fps/tremulous-gpp 1: Team-based aliens vs humans FPS with buildable structures
@@ -185,7 +183,6 @@ games-strategy/0ad-data 0.0.20_alpha: Data files for 0ad
 games-strategy/7kaa 9999: Seven Kingdoms: Ancient Adversaries
 games-strategy/dyson 1.10: Dyson is an ambient real-time strategy game with abstract visuals.
 games-strategy/freeorion 9999-r16: A free turn-based space empire and galactic conquest game
-games-strategy/hedgewars 9999: Free Worms-like turn based strategy game
 games-strategy/ufo-ai 2.5 9999: UFO: Alien Invasion - X-COM inspired strategy game
 games-util/catcodec 1.0.5: Decodes and encodes sample catalogues for OpenTTD
 games-util/grfcodec 999_p988: A suite of programs to modify openttd/Transport Tycoon Deluxe's GRF files
@@ -249,7 +246,6 @@ net-im/hatexmpp 9999: hatexmpp is a xmpp-client featuring ii-like interface
 net-im/psyced 20090617: Server for Decentralized Messaging and Chat over PSYC, IRC, Jabber/XMPP and more
 net-im/pyimapsmtpt 9999: An xmpp transport (or bot, possibly to-be-done) that allows using IMAP+SSMTP (e.g. gmail's) from an XMPP client.
 net-im/ricochet 9999: Anonymous metadata-resistant instant messaging that just works
-net-im/spectrum 9999-r1: Spectrum is a XMPP transport/gateway
 net-im/swiften 2.9999-r1 3.0_beta2: Just a perfect C++ XMPP library
 net-im/telegram-cli 9999-r1: Command line interface client for Telegram
 net-im/tkabber 9999-r6: GUI client for XMPP (Jabber) instant messaging protocol, written in Tcl/Tk.
