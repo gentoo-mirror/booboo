@@ -160,6 +160,7 @@ dev-util/monodevelop-fsharp 9999: F# language binding for MonoDevelop
 dev-vcs/hub 2.3.0_pre8 2.3.0_pre9: Command-line wrapper for git that makes you better at GitHub
 dev-vcs/vcsh 9999: Manage config files in $HOME via fake bare git repositories
 games-arcade/jumpnbump 1.55: a funny multiplayer game about cute little fluffy bunnies
+games-arcade/taisei 1.0a 9999: Taisei (lit. Occident) is a fan-made, Open Source clone of the Touhou series, written in C using SDL/OpenGL/OpenAL.
 games-board/glgo 1.4.1: PANDA-glGo is a board interface for Go games
 games-board/qgo2 9999: qGo is a full featured SGF editor and Go Client.
 games-board/rftg 0.9.4 9999: "Race for the Galaxy" card game.
