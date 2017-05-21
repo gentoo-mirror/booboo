@@ -184,6 +184,7 @@ games-strategy/0ad-data 0.0.20_alpha: Data files for 0ad
 games-strategy/7kaa 9999: Seven Kingdoms: Ancient Adversaries
 games-strategy/dyson 1.10: Dyson is an ambient real-time strategy game with abstract visuals.
 games-strategy/freeorion 9999-r16: A free turn-based space empire and galactic conquest game
+games-strategy/hedgewars 9999: Free Worms-like turn based strategy game
 games-strategy/ufo-ai 2.5 9999: UFO: Alien Invasion - X-COM inspired strategy game
 games-util/catcodec 1.0.5: Decodes and encodes sample catalogues for OpenTTD
 games-util/grfcodec 999_p988: A suite of programs to modify openttd/Transport Tycoon Deluxe's GRF files
@@ -240,7 +241,7 @@ net-ftn/husky-fidoconf 9999: FTN husky fidoconf library
 net-ftn/husky-hpt 9999: FTN husky hpt library
 net-ftn/husky-huskylib 9999: FTN husky huskylib library
 net-ftn/husky-smapi 9999: FTN husky smapi library
-net-im/biboumi 2.0 4.2: XMPP gateway to IRC.
+net-im/biboumi 2.0 4.2 9999: XMPP gateway to IRC.
 net-im/communi 2.2.9999: A cross-platform IRC framework written with Qt
 net-im/dyskinesia 9999: A PSYC client written in QT
 net-im/hatexmpp 9999: hatexmpp is a xmpp-client featuring ii-like interface
