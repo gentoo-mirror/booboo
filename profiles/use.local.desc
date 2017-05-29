@@ -189,6 +189,10 @@ sci-libs/itk:itkv3compat - Enable compatibility with ITK version 3
 sci-libs/itk:review - Enable compilation of methods under review
 sci-libs/itk:vtkglue - PLEASE FIX MY DESCRIPTION
 sci-libs/mpir:cpudetection - Enables runtime cpudetection (useful for bindist, compatability on other CPUs)
+sci-libs/oce:freeimage - Enable support for image i/o via media-libs/freeimage
+sci-libs/oce:gl2ps - Use gl2ps PostScript printing library
+sci-libs/oce:tbb - Enable multithreading with the Intel Threads Building Block dev-cpp/tbb
+sci-libs/oce:vtk - Enable Virtualisation Toolkit
 sys-apps/nix:etc_profile - Install /etc/profile.d/ entry to inject nix support for all users.
 sys-apps/nix:gc - Enable garbage collection in the Nix expression evaluator (use dev-libs/boehm-gc).
 sys-apps/usb_modeswitch:jimtcl - Use dev-lang/jimtcl instead of dev-lang/tcl for smaller memory footprint
