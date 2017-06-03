@@ -160,6 +160,7 @@ net-im/tkabber:examples - Enables installation examples of configs, tools, xrdb,
 net-im/tkabber:fix-site-plugins-path - Patches sources with path to installed external plugins. Likely will be useful when 'plugins' or '3rd-party-plugins' USE flags are enabled.
 net-im/tkabber:gpg - Enables GnuPG support with dev-tcltk/tclgpg
 net-im/tkabber:plugins - Enables installation the extra plugins
+net-im/tkabber:remote-controlling - Enables potentially insecure XEP-0146 support
 net-im/tkabber:sound - Enables sound event support with dev-tcltk/snack
 net-im/tkabber:ssl - Enables SSL/TLS support with dev-tcltk/tls
 net-im/tkabber:tkimg - Enables image support with dev-tcltk/tkimg
