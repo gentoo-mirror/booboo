@@ -179,8 +179,6 @@ net-misc/electrum:qrcode - Enable QR code scanning with media-gfx/zbar
 net-misc/electrum:sync - Enable plugin to sync wallet metadata across multiple Electrum clients
 net-misc/electrum:trustedcoin_com - Enable plugin to use two-factor service by TrustedCoin.com
 net-misc/electrum:vkb - Enable plugin for virtual keyboard
-net-misc/tigervnc:server - Build TigerVNC server
-net-misc/tigervnc:xorgmodule - Build the Xorg module
 net-voip/linphone:assistant - Turn on assistant compiling (needs gtk enabled)
 net-voip/linphone:gsm-nonstandard - Support non-standard GSM frequencies
 net-voip/linphone:sqlite - Turn on compilation of message storage

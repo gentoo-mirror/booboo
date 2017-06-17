@@ -282,7 +282,6 @@ net-misc/limf 9999: Pomf.se clone uploading tool
 net-misc/mobos-gui 9999: A simple QML GUI to use with oFono
 net-misc/n2n 9999-r1: A Layer Two Peer-to-Peer VPN
 net-misc/radvd 9999: Linux IPv6 Router Advertisement Daemon
-net-misc/tigervnc 9999: Remote desktop viewer display system
 net-misc/tor-arm 9999: Terminal tor status monitor
 net-misc/trackma 9999: Open multi-site list manager for media tracking sites.
 net-misc/vuurmuur_conf 0.7: Iptables frontend. Ncurses GUI, for administration and monitoring.
