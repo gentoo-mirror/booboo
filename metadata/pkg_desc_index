@@ -350,6 +350,7 @@ x11-misc/tabbed 9999: Simple generic tabbed fronted to xembed aware applications
 x11-misc/twmn 9999: A notification system for tiling window managers.
 x11-misc/virtualgl 2.5: Run OpenGL applications remotely with full 3D hardware acceleration
 x11-misc/xautoclick 0.31: xAutoClick is an autoclicker application to reduce or avoid repetitive stress injury (RSI) by simulating multiple mouse clicks.
+x11-misc/xss-lock 9999: Use external locker as X screen saver.
 x11-terms/alacritty 9999: 
 x11-wm/matchbox-desktop 0.9.1-r1: The Matchbox Desktop
 x11-wm/xmonad-contrib 9999: Third party extensions for xmonad
