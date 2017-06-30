@@ -290,6 +290,7 @@ net-misc/youtube-dl 9999: Download videos from YouTube.com (and more sites...)
 net-misc/zebedee 2.5.3-r1: A simple, free, secure TCP and UDP tunnel program
 net-p2p/chimera 1.20: Chimera, a light-weight & efficient implementation of a structured peer-to-peer overlay network
 net-p2p/dogecoind 9999: Very scrypt! Such random! Much profit! Wow! Many coin!
+net-p2p/gnunet 0.10.1 9999-r1: GNUnet is a framework for secure peer-to-peer networking.
 net-p2p/gnunet-gtk 0.10.1: GNUnet is a framework for secure peer-to-peer networking.
 net-p2p/litecoind 9999: Litecoin manages to maintain the unique traits and attributes of Bitcoin, while adding to the mixture CPU-specific mining and a 2.5 minute block rate.
 net-p2p/microdc2 0.15.6-r1: A small command-line based Direct Connect client
