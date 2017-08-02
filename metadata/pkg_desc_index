@@ -156,6 +156,7 @@ dev-tcltk/bwidget 1.9.10: High-level widget set for Tcl/Tk
 dev-tcltk/tclgpg 9999-r1: Tcl interface to GNU Privacy Guard with interface similar to TclGPGME.
 dev-tcltk/tcludp 1.0.11: The Tcl UDP extension provides a simple library to support UDP socket in Tcl.
 dev-tcltk/tkimg 1.4.6 9999: Adds a lot of image formats to Tcl/Tk
+dev-util/0xFFFF 9999-r1: Open Free Fiasco Firmware Flasher
 dev-util/abootimg 9999-r1: Manipulate boot images for the Android bootloader
 dev-util/bcunit 9999: a fork of the defunct project CUnit, with several fixes and patches applied
 dev-util/cmacro 9999: cmacro: Lisp macros for C
