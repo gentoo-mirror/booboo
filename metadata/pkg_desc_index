@@ -127,6 +127,7 @@ dev-lang/sedsed 9999: Sedsed can debug, indent, tokenize and HTMLize your SED sc
 dev-libs/libnfc 9999: Near Field Communications (NFC) library
 dev-libs/librs232 9999: multiplatform library for serial communications over RS-232 (serial port)
 dev-libs/libuecc 7: libuecc is a very small generic-purpose Elliptic Curve Cryptography library compatible with Ed25519
+dev-libs/libusb 0.1.12-r7: Userspace access to USB devices
 dev-libs/msgpack 1.2.0: MessagePack is a binary-based efficient data interchange format
 dev-libs/wiringPi 2.13 9999: A 'wiring' like library for the Raspberry Pi
 dev-perl/UI-Dialog 1.08: 
