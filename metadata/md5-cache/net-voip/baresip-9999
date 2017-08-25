@@ -7,5 +7,5 @@ LICENSE=BSD
 RDEPEND=net-voip/re >=media-libs/rem-0.4.7
 SLOT=0
 _eclass_exported_funcs=src_unpack:git-r3 src_prepare:-
-_eclasses_=git-r3	cbafa3261c37c7e3af44bb16a34ea390
+_eclasses_=git-r3	78651c07ca1c1373bf81545d39eb9769
 _md5_=ac92db27c66b73cd71f2e025df81fd6c

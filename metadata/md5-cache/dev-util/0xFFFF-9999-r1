@@ -7,5 +7,5 @@ LICENSE=GPL-2
 RDEPEND=dev-libs/libusb:0
 SLOT=0
 _eclass_exported_funcs=src_unpack:git-r3 src_prepare:-
-_eclasses_=git-r3	cbafa3261c37c7e3af44bb16a34ea390
+_eclasses_=git-r3	78651c07ca1c1373bf81545d39eb9769
 _md5_=f0cb16c9be717c6b1fd04f3d5b86a8d4
