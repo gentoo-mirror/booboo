@@ -7,5 +7,5 @@ LICENSE=MIT
 RDEPEND=>=dev-python/ipy-0.82a >=dev-python/pillow-2.8.1 >=dev-python/miniupnpc-1.8 >=dev-python/psutil-2.2.1 >=dev-python/bitcoin-1.1.27 >=dev-python/pycountry-1.10 >=dev-python/pyelliptic-1.5.5 >=dev-python/pystun-0.1.0 >=dev-python/python-gnupg-0.3.7 >=dev-python/python-obelisk-0.1.3 >=dev-python/qrcode-5.1 >=dev-python/requests-2.5.1 >=www-servers/tornado-4.0.2 >=dev-python/twisted-core-14.0.2 >=dev-python/rfc3986-0.2.0 >=dev-python/dnschain-0.1.0 >=dev-python/pyee-0.1.0
 SLOT=0
 _eclass_exported_funcs=pkg_setup:- src_unpack:git-r3 src_prepare:- src_compile:- src_install:-
-_eclasses_=git-r3	78651c07ca1c1373bf81545d39eb9769
+_eclasses_=git-r3	4f7ddb4119309845d6687213171ab445
 _md5_=70606b01224be51ca15f567d87401653
