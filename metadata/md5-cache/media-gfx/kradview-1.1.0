@@ -9,6 +9,5 @@ LICENSE=GPL-2
 RDEPEND=>=kde-base/kdelibs-3.5.10-r10 dev-qt/qt-meta:3
 SLOT=0
 SRC_URI=ftp://ftp.uk.freesbie.org/sites/distfiles.finkmirrors.net/sha1/ee4053c1e1b233cfe50ed4675713d6e146359cae/kradview-1.1.0.tgz
-_eclass_exported_funcs=src_configure:-
 _eclasses_=epatch	8233751dc5105a6ae8fcd86ce2bb0247	estack	43ddf5aaffa7a8d0482df54d25a66a1f	eutils	9c113d6a64826c40154cad7be15d95ea	kde-functions	093f6c04910d053eb15f494047f2ecb9	ltprune	2770eed66a9b8ef944714cd0e968182e	multilib	97f470f374f2e94ccab04a2fb21d811e	qt3	8d54fdfbf8a902c47308813f897e1f79	toolchain-funcs	185a06792159ca143528e7010368e8af	versionator	c80ccf29e90adea7c5cae94b42eb76d0
 _md5_=1f83f0deed4d4de9434064a15189d414

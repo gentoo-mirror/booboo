@@ -6,5 +6,4 @@ KEYWORDS=~x86 ~amd64
 LICENSE=GPL-2
 RDEPEND=app-shells/bash
 SLOT=0
-_eclass_exported_funcs=src_compile:- src_install:-
 _md5_=572a9b15dd72943abbd1ae2368899d54

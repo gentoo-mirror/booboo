@@ -4,5 +4,4 @@ EAPI=3
 KEYWORDS=~x86 ~amd64
 LICENSE=WTFPL-2
 SLOT=0
-_eclass_exported_funcs=src_compile:- src_install:-
 _md5_=ca0255747794dccb600d7d2cc0c56b16

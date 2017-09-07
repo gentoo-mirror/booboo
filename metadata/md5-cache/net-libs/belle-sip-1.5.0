@@ -8,5 +8,4 @@ LICENSE=GPL-2
 RDEPEND=>=dev-libs/antlr-c-3.4 net-libs/polarssl:=
 SLOT=0
 SRC_URI=https://www.linphone.org/releases/sources/belle-sip/belle-sip-1.5.0.tar.gz
-_eclass_exported_funcs=-
 _md5_=6171dcd5e4269ae22e8039cff6f67a24

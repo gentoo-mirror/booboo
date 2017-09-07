@@ -7,5 +7,4 @@ LICENSE=BSD
 RDEPEND=|| ( net-analyzer/nmap[nse] net-analyzer/nmap[lua] )
 SLOT=0
 SRC_URI=http://www.computec.ch/projekte/vulscan/download/nmap_nse_vulscan-2.0.tar.gz
-_eclass_exported_funcs=src_install:-
 _md5_=3a7bd1f9e648aa04e54ae3cb3c75278a

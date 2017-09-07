@@ -8,5 +8,4 @@ LICENSE=GPL-2
 RDEPEND=sys-libs/ncurses
 SLOT=0
 SRC_URI=https://github.com/chaos/diod/releases/download/1.0.24/diod-1.0.24.tar.gz
-_eclass_exported_funcs=-
 _md5_=e0f47aba881b748bbe9bc9c68b61f21c

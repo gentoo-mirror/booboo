@@ -6,6 +6,5 @@ IUSE=debug
 LICENSE=Apache-2.0
 RDEPEND=media-libs/fontconfig
 SLOT=0
-_eclass_exported_funcs=src_unpack:git-r3 src_compile:cargo src_install:cargo
 _eclasses_=cargo	4a14060dec0a7e707d952d502c09ca2e	git-r3	4f7ddb4119309845d6687213171ab445
 _md5_=fe3a829e86ba1b38f98626e705eda215

@@ -5,5 +5,4 @@ HOMEPAGE=http://current.cs.ucsb.edu/projects/chimera/index.html
 KEYWORDS=~x86 ~amd64
 SLOT=0
 SRC_URI=http://www.cs.ucsb.edu/%7Eravenben/chimera/download/chimera-1.20.tar.gz
-_eclass_exported_funcs=src_compile:- src_install:-
 _md5_=2f5f08f38605e35977c38534c1660136
