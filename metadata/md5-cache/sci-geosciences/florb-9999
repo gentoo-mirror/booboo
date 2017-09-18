@@ -6,5 +6,5 @@ HOMEPAGE=http://florb.shugaa.de/
 LICENSE=MIT
 RDEPEND=dev-libs/tinyxml2 x11-libs/fltk sci-geosciences/gpsd[cxx] >=dev-cpp/yaml-cpp-0.5.0 dev-libs/boost net-misc/curl x11-libs/libXpm
 SLOT=0
-_eclasses_=git-r3	4f7ddb4119309845d6687213171ab445
+_eclasses_=git-r3	52a888802d25387c2c74cb845d1219bc
 _md5_=7a15d59c007890d941ca3a8d1867d515
