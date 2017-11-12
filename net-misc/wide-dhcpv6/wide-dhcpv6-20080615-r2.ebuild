@@ -19,11 +19,14 @@ DEPEND=""
 RDEPEND="${DEPEND}"
 
 src_configure() {
+	rm cfparse.c cftoken.c	# generated file
 	epatch "${FILESDIR}/fix-libc-depend.patch"
 	epatch "${FILESDIR}/fix-dprintf-conflict.patch"
 	epatch "${FILESDIR}/address-suffix-1.patch"
+	epatch "$FILESDIR/0002-Don-t-strip-binaries.patch"
 	use vanilla || {
 		epatch "$FILESDIR/0006-Add-new-feature-dhcp6c-profiles.patch"
+		epatch "$FILESDIR/wide-dhcpv6-disable-extra-cflags.patch"
 	}
 	default
 }
