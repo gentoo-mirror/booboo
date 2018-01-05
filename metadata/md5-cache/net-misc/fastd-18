@@ -1,14 +1,14 @@
 DEFINED_PHASES=compile configure install postinst prepare test
-DEPEND=>=dev-libs/libuecc-7 dev-libs/json-c caps? ( sys-libs/libcap ) sodium? ( dev-libs/libsodium ) nacl? ( dev-libs/libnacl ) ssl? ( dev-libs/openssl ) sys-devel/make >=dev-util/cmake-3.7.2
+DEPEND=>=dev-libs/libuecc-7 dev-libs/json-c caps? ( sys-libs/libcap ) sodium? ( dev-libs/libsodium ) nacl? ( net-libs/nacl ) ssl? ( dev-libs/openssl ) sys-devel/make >=dev-util/cmake-3.7.2
 DESCRIPTION=Fast and Secure Tunneling Daemon (fastd)
 EAPI=5
 HOMEPAGE=https://projects.universe-factory.net/projects/fastd
-IUSE=ssl +sodium nacl lto +caps +cipher-aes128 cipher-aes128-openssl +cipher-aes128-nacl +cipher-null-memcpy +cipher-null +cipher-salsa20 +cipher-salsa2012 +cipher-salsa2012-nacl +cipher-salsa2012-xmm +cipher-salsa20-nacl +cipher-salca20-xmm +dynamic-peers +mac-ghash +mac-ghash-builtin +mac-ghash-pclmultqdq +mac-uhash +mac-uhash-builtin +method-cipher-test +method-composed-gmac +method-composed-umac +method-generic-gmac +method-generic-poly1305 +method-generic-umac +method-null +method-xsalsa20-poly1305 +status-socket
+IUSE=ssl +sodium nacl lto +caps cipher-aes128-ctr +cipher-null-memcpy +cipher-null +cipher-salsa20 +cipher-salsa2012 +cipher-salsa2012-nacl +cipher-salsa2012-xmm +cipher-salsa20-nacl +cipher-salca20-xmm +dynamic-peers +mac-ghash +mac-ghash-builtin +mac-ghash-pclmultqdq +mac-uhash +mac-uhash-builtin +method-cipher-test +method-composed-gmac +method-composed-umac +method-generic-gmac +method-generic-poly1305 +method-generic-umac +method-null +method-xsalsa20-poly1305 +status-socket
 KEYWORDS=~amd64 ~x86 ~arm
 LICENSE=MIT
-RDEPEND=>=dev-libs/libuecc-7 dev-libs/json-c caps? ( sys-libs/libcap ) sodium? ( dev-libs/libsodium ) nacl? ( dev-libs/libnacl ) ssl? ( dev-libs/openssl )
+RDEPEND=>=dev-libs/libuecc-7 dev-libs/json-c caps? ( sys-libs/libcap ) sodium? ( dev-libs/libsodium ) nacl? ( net-libs/nacl ) ssl? ( dev-libs/openssl )
 REQUIRED_USE=cipher-aes128-openssl? ( ssl )
 SLOT=0
 SRC_URI=https://projects.universe-factory.net/attachments/download/86/fastd-18.tar.xz
 _eclasses_=cmake-utils	202a2becc86cb78ba14baad148d06759	desktop	2ccd1dd1dd7bfb8795eea024a4f91bb6	epatch	8233751dc5105a6ae8fcd86ce2bb0247	estack	43ddf5aaffa7a8d0482df54d25a66a1f	eutils	97ce9decef1ff4b6c5be700283f67343	flag-o-matic	02908f00f002f0f07c5b74783d778325	ltprune	2770eed66a9b8ef944714cd0e968182e	multilib	97f470f374f2e94ccab04a2fb21d811e	multiprocessing	cac3169468f893670dac3e7cb940e045	ninja-utils	ebb2eaddc6331c4fa000b8eb8f6fe074	toolchain-funcs	885c7d8dd70a58825f3d17e35a3cd1e9	user	8bc2845510e2109af75e3eeac607ec81	versionator	c80ccf29e90adea7c5cae94b42eb76d0	xdg-utils	f2c8335407f0b935b0a96d4adf23ef25
-_md5_=0cffe79dba6a5044576756ebc6c4c9c0
+_md5_=3e307009870d777581025a9cab833d3a
