@@ -31,7 +31,6 @@ net-ftn/husky-fidoconf 9999: FTN husky fidoconf library
 net-ftn/husky-hpt 9999: FTN husky hpt library
 net-ftn/husky-huskylib 9999: FTN husky huskylib library
 net-ftn/husky-smapi 9999: FTN husky smapi library
-net-libs/webkit-gtk 1.2.6-r1: Open source web browser engine
 net-misc/drawterm 9999: drawterm – connect to Plan 9 CPU servers from other operating systems
 net-misc/zebedee 2.5.3-r1: A simple, free, secure TCP and UDP tunnel program
 net-wireless/crda 1.0.1-r1: Central Regulatory Domain Agent for wireless networks.
