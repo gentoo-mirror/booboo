@@ -13,7 +13,7 @@ app-dicts/stardict-quick-ru-en 2.4.2: Quick but still useful Russian to English 
 app-misc/kdrill 6.5: Kanji quiz and a lookup tool for X, helps in memorizing Japanese characters
 app-vim/rc-syntax 20091204 20091226: vim plugin: rc shell script syntax highlighting
 app-vim/vim-xkbswitch 0.14.1 0.14.3: easily switch current keyboard layout when entering and leaving Insert mode
-dev-libs/libusb 0.1.12-r7: Userspace access to USB devices
+dev-libs/libusb 0.1.12-r8: Userspace access to USB devices
 dev-util/monodevelop-fsharp 9999: F# language binding for MonoDevelop
 games-arcade/jumpnbump 1.55: a funny multiplayer game about cute little fluffy bunnies
 games-fps/anaglyph-stereo-quake 130100-r1: play Quake in 3D with red - blue glasses
