@@ -9,5 +9,5 @@ LICENSE=GPL-2
 RESTRICT=strip
 SLOT=0
 SRC_URI=http://www.libredict.org/dictionaries/ru-cs/wiktionary_ru-cs_stardict_2018-03-21.tgz
-_eclasses_=stardict	8d4771fbbd2a9aee09ef8040f10f28b3
+_eclasses_=stardict	d55eeb8d7051f3339421c8cba9ba5d7e
 _md5_=f0c6548dbdae001ecc4be6c26f4dd575
