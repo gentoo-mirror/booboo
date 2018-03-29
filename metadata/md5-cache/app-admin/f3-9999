@@ -5,5 +5,5 @@ EAPI=5
 HOMEPAGE=http://oss.digirati.com.br/f3/
 LICENSE=GPL-3
 SLOT=0
-_eclasses_=git-r3	fec09a83ae965b041b47f5ff7c8ba29a
+_eclasses_=git-r3	25b08efef07cea6bcd45b8c6dcce2782
 _md5_=2f99752a062deb27c9c3d9f84ff10da4

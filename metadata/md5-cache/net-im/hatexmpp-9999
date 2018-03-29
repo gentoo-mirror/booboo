@@ -7,5 +7,5 @@ IUSE=screen
 LICENSE=WTFPL-2
 RDEPEND=>=dev-libs/glib-2.18.4 >=sys-fs/fuse-2.7.4 >=net-libs/loudmouth-1.4.3
 SLOT=0
-_eclasses_=git-2	195a672bfaf52d868442171c9469bbb6
+_eclasses_=git-2	45ff482316b52b3f96ff6b7309b77f03
 _md5_=dd32db6c4efce0135560eef086d583c1

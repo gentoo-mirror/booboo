@@ -6,5 +6,5 @@ HOMEPAGE=https://github.com/schachmat/ingo/
 KEYWORDS=~x86 ~amd64
 LICENSE=ISC
 SLOT=0
-_eclasses_=git-r3	fec09a83ae965b041b47f5ff7c8ba29a	go	d016927c10636e1ee814ec013a006228
+_eclasses_=git-r3	25b08efef07cea6bcd45b8c6dcce2782	go	d016927c10636e1ee814ec013a006228
 _md5_=4aca2ad395d6dd87f3d54e13f940e67a

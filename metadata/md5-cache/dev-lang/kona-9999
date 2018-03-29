@@ -5,5 +5,5 @@ EAPI=3
 HOMEPAGE=https://github.com/kevinlawler/kona
 LICENSE=as-is
 SLOT=0
-_eclasses_=git-2	195a672bfaf52d868442171c9469bbb6
+_eclasses_=git-2	45ff482316b52b3f96ff6b7309b77f03
 _md5_=96a962b378b8bd064ea9464127f2b1d0
