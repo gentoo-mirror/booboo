@@ -30,7 +30,7 @@ DEPEND="
 DOCS=( README.md )
 
 src_prepare() {
-	sed -i -e 's,-Werror,,g' CMakeLists.txt || die
+	find . -name "CMakeLists.txt" -exec sed -i -e 's,-Werror,,g' {} \; || die
 }
 
 src_configure() {
