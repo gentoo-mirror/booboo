@@ -1,4 +1,4 @@
-DEFINED_PHASES=install postinst unpack
+DEFINED_PHASES=install nofetch postinst unpack
 DEPEND=app-arch/unzip
 DESCRIPTION=K is a proprietary array processing language.
 EAPI=4
