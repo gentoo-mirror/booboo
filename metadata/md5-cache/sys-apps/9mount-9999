@@ -5,5 +5,5 @@ EAPI=5
 HOMEPAGE=http://github.com/minad/9mount
 LICENSE=ISC
 SLOT=0
-_eclasses_=git-r3	25b08efef07cea6bcd45b8c6dcce2782
+_eclasses_=git-r3	af51ccfceeb403ab80f1bf9209d372c8
 _md5_=366668d50659db75dcfb2cb3b2ddaee2
