@@ -1,10 +1,10 @@
 DEFINED_PHASES=compile install unpack
-DEPEND=media-libs/fontconfig >=dev-lang/rust-1.15.0 >=dev-util/cargo-0.13.0 >=dev-vcs/git-1.8.2.1
+DEPEND=media-libs/fontconfig >=dev-lang/rust-1.15.0 >=dev-util/cargo-0.13.0 >=dev-vcs/git-1.8.2.1[curl]
 EAPI=6
 HOMEPAGE=https://github.com/jwilm/alacritty
 IUSE=debug
 LICENSE=Apache-2.0
 RDEPEND=media-libs/fontconfig
 SLOT=0
-_eclasses_=cargo	959846e2836f8244430c9582dd6493af	git-r3	af51ccfceeb403ab80f1bf9209d372c8	multiprocessing	cac3169468f893670dac3e7cb940e045
+_eclasses_=cargo	959846e2836f8244430c9582dd6493af	git-r3	8f6de46b0aa318aea0e8cac62ece098b	multiprocessing	cac3169468f893670dac3e7cb940e045
 _md5_=fe3a829e86ba1b38f98626e705eda215

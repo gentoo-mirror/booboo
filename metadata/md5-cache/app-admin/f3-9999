@@ -1,9 +1,9 @@
 DEFINED_PHASES=compile install unpack
-DEPEND=>=dev-vcs/git-1.8.2.1
+DEPEND=>=dev-vcs/git-1.8.2.1[curl]
 DESCRIPTION=Fight Flash Fraud, or Fight Fake Flash
 EAPI=5
 HOMEPAGE=http://oss.digirati.com.br/f3/
 LICENSE=GPL-3
 SLOT=0
-_eclasses_=git-r3	af51ccfceeb403ab80f1bf9209d372c8
+_eclasses_=git-r3	8f6de46b0aa318aea0e8cac62ece098b
 _md5_=2f99752a062deb27c9c3d9f84ff10da4

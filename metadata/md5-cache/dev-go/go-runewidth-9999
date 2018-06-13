@@ -1,10 +1,10 @@
 DEFINED_PHASES=compile install test unpack
-DEPEND=>=dev-vcs/git-1.8.2.1 dev-lang/go
+DEPEND=>=dev-vcs/git-1.8.2.1[curl] dev-lang/go
 DESCRIPTION=Provides functions to get fixed width of the character or string.
 EAPI=5
 HOMEPAGE=https://github.com/mattn/go-runewidth/
 KEYWORDS=~x86 ~amd64
 LICENSE=MIT
 SLOT=0
-_eclasses_=git-r3	af51ccfceeb403ab80f1bf9209d372c8	go	d016927c10636e1ee814ec013a006228
+_eclasses_=git-r3	8f6de46b0aa318aea0e8cac62ece098b	go	d016927c10636e1ee814ec013a006228
 _md5_=b305bfea819bf163ab60c2d87371a82d

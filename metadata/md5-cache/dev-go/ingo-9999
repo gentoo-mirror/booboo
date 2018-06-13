@@ -1,10 +1,10 @@
 DEFINED_PHASES=compile install test unpack
-DEPEND=>=dev-vcs/git-1.8.2.1 dev-lang/go
+DEPEND=>=dev-vcs/git-1.8.2.1[curl] dev-lang/go
 DESCRIPTION=persistent storage for flags in go
 EAPI=5
 HOMEPAGE=https://github.com/schachmat/ingo/
 KEYWORDS=~x86 ~amd64
 LICENSE=ISC
 SLOT=0
-_eclasses_=git-r3	af51ccfceeb403ab80f1bf9209d372c8	go	d016927c10636e1ee814ec013a006228
+_eclasses_=git-r3	8f6de46b0aa318aea0e8cac62ece098b	go	d016927c10636e1ee814ec013a006228
 _md5_=4aca2ad395d6dd87f3d54e13f940e67a
