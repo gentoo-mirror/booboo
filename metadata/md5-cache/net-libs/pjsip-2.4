@@ -1,0 +1,13 @@
+DEFINED_PHASES=compile configure install prepare unpack
+DEPEND=alsa? ( media-libs/alsa-lib ) gsm? ( media-sound/gsm ) ilbc? ( dev-libs/ilbc-rfc3951 ) speex? ( media-libs/speex ) ring? ( ssl? ( net-libs/gnutls ) ) !ring? ( ssl? ( dev-libs/openssl ) ) >=dev-vcs/git-1.8.2.1[curl]
+DESCRIPTION=Multimedia communication libraries written in C language for building VoIP applications.
+EAPI=6
+HOMEPAGE=http://www.pjsip.org/
+IUSE=alsa doc epoll examples ext-sound g711 g722 g7221 gsm ilbc l16 oss python ring speex ssl
+KEYWORDS=~amd64 ~x86
+LICENSE=GPL-2
+RDEPEND=alsa? ( media-libs/alsa-lib ) gsm? ( media-sound/gsm ) ilbc? ( dev-libs/ilbc-rfc3951 ) speex? ( media-libs/speex ) ring? ( ssl? ( net-libs/gnutls ) ) !ring? ( ssl? ( dev-libs/openssl ) )
+SLOT=0
+SRC_URI=http://www.pjsip.org/release/2.4/pjproject-2.4.tar.bz2
+_eclasses_=git-r3	8f6de46b0aa318aea0e8cac62ece098b
+_md5_=3247d28f7f7224a09bb780174b2925d1
