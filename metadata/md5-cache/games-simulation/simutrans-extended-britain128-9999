@@ -6,5 +6,5 @@ EAPI=7
 HOMEPAGE=http://www.simutrans.com/
 LICENSE=Artistic
 SLOT=0
-_eclasses_=eutils	5b8ce72259e08104b337fe28c6de5dbc	git-r3	8f6de46b0aa318aea0e8cac62ece098b
+_eclasses_=eutils	b43d08fe0771faf2f5e7be19c2789d33	git-r3	8f6de46b0aa318aea0e8cac62ece098b
 _md5_=9e47015749d80893c492972c8405f4c8
