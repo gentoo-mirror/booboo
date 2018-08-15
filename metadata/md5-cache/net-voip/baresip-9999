@@ -6,5 +6,5 @@ HOMEPAGE=http://creytiv.com/baresip.html
 LICENSE=BSD
 RDEPEND=net-voip/re >=media-libs/rem-0.4.7
 SLOT=0
-_eclasses_=git-r3	8f6de46b0aa318aea0e8cac62ece098b
+_eclasses_=git-r3	918d6a744039c29af2cadc7317459765
 _md5_=ac92db27c66b73cd71f2e025df81fd6c

@@ -6,5 +6,5 @@ HOMEPAGE=https://github.com/qtquickvcp/QtQuickVcp
 LICENSE=GPL-3
 RDEPEND=dev-qt/qtquickcontrols:5 dev-qt/qtwidgets:5 dev-qt/qtgraphicaleffects:5 dev-qt/qtdeclarative:5[xml]
 SLOT=0
-_eclasses_=estack	43ddf5aaffa7a8d0482df54d25a66a1f	git-r3	8f6de46b0aa318aea0e8cac62ece098b	multilib	97f470f374f2e94ccab04a2fb21d811e	qmake-utils	bdf97e69a34b864d6d545f4ec3143ff7	toolchain-funcs	1e35303c63cd707f6c3422b4493d5607
+_eclasses_=estack	43ddf5aaffa7a8d0482df54d25a66a1f	git-r3	918d6a744039c29af2cadc7317459765	multilib	97f470f374f2e94ccab04a2fb21d811e	qmake-utils	bdf97e69a34b864d6d545f4ec3143ff7	toolchain-funcs	1e35303c63cd707f6c3422b4493d5607
 _md5_=1f2d9231f055e3635580f878f6d9e04e

@@ -5,5 +5,5 @@ EAPI=5
 HOMEPAGE=https://github.com/schachmat/wego/
 IUSE=apparmor
 SLOT=0
-_eclasses_=git-2	45ff482316b52b3f96ff6b7309b77f03	go	d016927c10636e1ee814ec013a006228
+_eclasses_=git-2	249c1a0962573f4ce2c28f0d5b6b35d4	go	d016927c10636e1ee814ec013a006228
 _md5_=4fd6f167f9dfce33a7b47a82ac6bac4a
