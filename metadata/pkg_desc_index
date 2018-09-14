@@ -13,6 +13,22 @@ app-misc/kdrill 6.5: Kanji quiz and a lookup tool for X, helps in memorizing Jap
 app-vim/rc-syntax 20091204 20091226: vim plugin: rc shell script syntax highlighting
 app-vim/vim-xkbswitch 0.14.1 0.14.3: easily switch current keyboard layout when entering and leaving Insert mode
 dev-libs/libusb 0.1.12-r8: Userspace access to USB devices
+dev-qt/qt3support 4.8.7: The Qt3Support module for the Qt toolkit
+dev-qt/qtbearer 4.8.7: The network bearer plugins for the Qt toolkit
+dev-qt/qtcore 4.8.7-r4: Cross-platform application development framework
+dev-qt/qtdbus 4.8.7: The DBus module for the Qt toolkit
+dev-qt/qtdeclarative 4.8.7: The Declarative module for the Qt toolkit
+dev-qt/qtdemo 4.8.7: Demonstration module and examples for the Qt toolkit
+dev-qt/qtgui 4.8.7: The GUI module for the Qt toolkit
+dev-qt/qthelp 4.8.7: The Help module for the Qt toolkit
+dev-qt/qtmultimedia 4.8.7: The Multimedia module for the Qt toolkit
+dev-qt/qtopengl 4.8.7: The OpenGL module for the Qt toolkit
+dev-qt/qtscript 4.8.7: The QtScript module for the Qt toolkit
+dev-qt/qtsql 4.8.7-r1: The SQL module for the Qt toolkit
+dev-qt/qtsvg 4.8.7: The SVG module for the Qt toolkit
+dev-qt/qttest 4.8.7: The QtTest module for unit testing Qt applications and libraries
+dev-qt/qttranslations 4.8.7: Translation files for the Qt toolkit
+dev-qt/qtxmlpatterns 4.8.7: The XmlPatterns module for the Qt toolkit
 dev-util/monodevelop-fsharp 9999: F# language binding for MonoDevelop
 games-arcade/jumpnbump 1.55: a funny multiplayer game about cute little fluffy bunnies
 games-fps/anaglyph-stereo-quake 130100-r1: play Quake in 3D with red - blue glasses
