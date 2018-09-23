@@ -1,0 +1,11 @@
+BDEPEND=>=dev-vcs/git-1.8.2.1[curl]
+DEFINED_PHASES=compile prepare unpack
+DEPEND=virtual/opengl virtual/glu media-libs/openal media-libs/libpng:0 sys-libs/zlib media-libs/glew:= media-libs/freetype >=media-libs/libvorbis-1.1.2 >=media-libs/libogg-1.1.3 app-arch/bzip2 x11-libs/libXrandr net-misc/curl
+DESCRIPTION=4X Space Strategy game
+EAPI=7
+HOMEPAGE=https://github.com/BlindMindStudios/StarRuler2-Source
+LICENSE=MIT
+RDEPEND=virtual/opengl virtual/glu media-libs/openal media-libs/libpng:0 sys-libs/zlib media-libs/glew:= media-libs/freetype >=media-libs/libvorbis-1.1.2 >=media-libs/libogg-1.1.3 app-arch/bzip2 x11-libs/libXrandr net-misc/curl
+SLOT=0
+_eclasses_=git-r3	0d4635eeb5a96cd5315597a47eba25c9
+_md5_=3e37876e90bbb64b14cf1c5591ce6a51
