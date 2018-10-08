@@ -1,4 +1,4 @@
-DEFINED_PHASES=configure install setup unpack
+DEFINED_PHASES=configure install prepare setup unpack
 DEPEND=media-libs/libsamplerate alsa? ( media-libs/alsa-lib ) ao? ( media-libs/libao ) openal? ( media-libs/openal ) portaudio? ( media-libs/portaudio ) pulseaudio? ( media-sound/pulseaudio ) >=dev-vcs/git-1.8.2.1[curl]
 DESCRIPTION=RSound is a networked audio system. It allows applications to transfer their audio data to a different computer.
 EAPI=5
@@ -8,5 +8,5 @@ KEYWORDS=~x86 ~amd64
 LICENSE=GPL-3
 RDEPEND=media-libs/libsamplerate alsa? ( media-libs/alsa-lib ) ao? ( media-libs/libao ) openal? ( media-libs/openal ) portaudio? ( media-libs/portaudio ) pulseaudio? ( media-sound/pulseaudio )
 SLOT=0
-_eclasses_=git-r3	0d4635eeb5a96cd5315597a47eba25c9
-_md5_=cc4f092a5307b327e2ec8bb91b1bd25f
+_eclasses_=git-r3	0d4635eeb5a96cd5315597a47eba25c9	multilib	b2f01ad412baf81650c23fcf0975fa33	toolchain-funcs	f164325a2cdb5b3ea39311d483988861
+_md5_=70fb5db7001d76e49df39e315bc074c9
