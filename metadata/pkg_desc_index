@@ -39,7 +39,6 @@ games-util/grfcodec 999_p988: A suite of programs to modify openttd/Transport Ty
 games-util/nml 999_p5655_p412: Compiler of NML files into grf/nfo files
 gnome-base/gconf 2.18.0.1: Gnome Configuration System and Daemon
 media-libs/libdts 0.0.2-r3: library for decoding DTS Coherent Acoustics streams used in DVD
-media-video/mplayer-mt 20090510: Media Player for Linux (with multithread decoding support)
 net-analyzer/nmap_vulscan 2.0: A NSE vulnerability scanner which uses an offline version of different vulnerability databases
 net-ftn/husky-areafix 9999: FTN husky areafix library
 net-ftn/husky-fidoconf 9999: FTN husky fidoconf library
