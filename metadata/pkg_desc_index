@@ -13,6 +13,7 @@ app-misc/kdrill 6.5: Kanji quiz and a lookup tool for X, helps in memorizing Jap
 app-vim/rc-syntax 20091204 20091226: vim plugin: rc shell script syntax highlighting
 app-vim/vim-xkbswitch 0.14.1 0.14.3: easily switch current keyboard layout when entering and leaving Insert mode
 dev-libs/libusb 0.1.12-r8: Userspace access to USB devices
+dev-python/peewee 3.8.1: Small python ORM
 dev-qt/qt3support 4.8.7: The Qt3Support module for the Qt toolkit
 dev-qt/qtbearer 4.8.7: The network bearer plugins for the Qt toolkit
 dev-qt/qtcore 4.8.7-r4: Cross-platform application development framework
