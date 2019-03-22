@@ -33,11 +33,6 @@ dev-qt/qtxmlpatterns 4.8.7: The XmlPatterns module for the Qt toolkit
 dev-util/monodevelop-fsharp 9999: F# language binding for MonoDevelop
 games-arcade/jumpnbump 1.55: a funny multiplayer game about cute little fluffy bunnies
 games-fps/anaglyph-stereo-quake 130100-r1: play Quake in 3D with red - blue glasses
-games-misc/openmsx 999_p5401_p20: An ambiguously named music replacement set for OpenTTD
-games-misc/opensfx 999_p5401_p15: OpenSFX data files for OpenTTD
-games-util/catcodec 1.0.5: Decodes and encodes sample catalogues for OpenTTD
-games-util/grfcodec 999_p988: A suite of programs to modify openttd/Transport Tycoon Deluxe's GRF files
-games-util/nml 999_p5655_p412: Compiler of NML files into grf/nfo files
 gnome-base/gconf 2.18.0.1: Gnome Configuration System and Daemon
 media-libs/libdts 0.0.2-r3: library for decoding DTS Coherent Acoustics streams used in DVD
 net-analyzer/nmap_vulscan 2.0: A NSE vulnerability scanner which uses an offline version of different vulnerability databases
