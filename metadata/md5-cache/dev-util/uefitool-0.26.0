@@ -1,0 +1,11 @@
+DEFINED_PHASES=configure install
+DEPEND=dev-qt/qtcore:5
+DESCRIPTION=UEFI firmware image viewer and editor
+EAPI=6
+HOMEPAGE=https://github.com/LongSoft/UEFITool
+KEYWORDS=~amd64 ~x86
+LICENSE=BSD
+SLOT=0
+SRC_URI=https://github.com/LongSoft/UEFITool/archive/0.26.0.tar.gz -> uefitool-0.26.0.tar.gz
+_eclasses_=estack	43ddf5aaffa7a8d0482df54d25a66a1f	multilib	b2f01ad412baf81650c23fcf0975fa33	qmake-utils	bdf97e69a34b864d6d545f4ec3143ff7	toolchain-funcs	b45201c4e6c096b98e250336954e64b9
+_md5_=0106bdb71d198d5e3fa5e00106ab67df
