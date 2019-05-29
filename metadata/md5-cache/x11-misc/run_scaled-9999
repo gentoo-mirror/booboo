@@ -1,0 +1,10 @@
+BDEPEND=>=dev-vcs/git-1.8.2.1[curl]
+DEFINED_PHASES=install unpack
+DESCRIPTION=Run an X application scaled via xpra. Useful on hidpi screens.
+EAPI=7
+HOMEPAGE=https://github.com/kaueraal/run_scaled
+LICENSE=BSD
+RDEPEND=x11-wm/xpra
+SLOT=0
+_eclasses_=git-r3	0d4635eeb5a96cd5315597a47eba25c9
+_md5_=598d05fd9d775a75621f1bc0e9b5d7fd
