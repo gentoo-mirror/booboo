@@ -1,11 +1,12 @@
-DEFINED_PHASES=compile install postinst unpack
-DEPEND=>=dev-libs/glib-2.18.4 >=sys-fs/fuse-2.7.4 >=net-libs/loudmouth-1.4.3 screen? ( app-misc/rlwrap ) screen? ( dev-perl/TimeDate ) screen? ( app-misc/screen ) dev-vcs/git
+BDEPEND=>=dev-vcs/git-1.8.2.1[curl]
+DEFINED_PHASES=install unpack
+DEPEND=>=dev-libs/glib-2.18.4 >=sys-fs/fuse-2.7.4 >=net-libs/loudmouth-1.4.3 screen? ( app-misc/rlwrap ) screen? ( dev-perl/TimeDate ) screen? ( app-misc/screen )
 DESCRIPTION=hatexmpp is a xmpp-client featuring ii-like interface
-EAPI=3
+EAPI=7
 HOMEPAGE=http://github.com/l29ah/hatexmpp
 IUSE=screen
 LICENSE=WTFPL-2
 RDEPEND=>=dev-libs/glib-2.18.4 >=sys-fs/fuse-2.7.4 >=net-libs/loudmouth-1.4.3
 SLOT=0
-_eclasses_=git-2	249c1a0962573f4ce2c28f0d5b6b35d4
-_md5_=dd32db6c4efce0135560eef086d583c1
+_eclasses_=git-r3	0d4635eeb5a96cd5315597a47eba25c9
+_md5_=479abe7bc3e3c8bcfdb84dfe09f8a4ba
