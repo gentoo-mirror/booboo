@@ -48,4 +48,3 @@ sci-libs/libecwj2 3.3-r1: Library for both the ECW and the ISO JPEG 2000 image f
 sci-libs/mpir 2.7.2: Library for arbitrary precision integer arithmetic (fork of gmp)
 virtual/libusb 0-r3: Virtual for libusb
 x11-libs/xosd 2.2.14-r2: Library for overlaying text in X-Windows X-On-Screen-Display plus binary for sending text from CLI
-x11-misc/dmenu 4.0-r1: a generic, highly customizable, and efficient menu for the X Window System
