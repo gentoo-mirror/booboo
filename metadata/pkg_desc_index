@@ -9,8 +9,6 @@ app-dicts/stardict-freedict-eng-tur 2.4.2: Stardict Dictionary English to Turkis
 app-dicts/stardict-freedict-tur-deu 2.4.2: Stardict Dictionary Turkish to German
 app-dicts/stardict-freedict-tur-eng 2.4.2: Stardict Dictionary Turkish to English
 app-dicts/stardict-quick-ru-en 2.4.2: Quick but still useful Russian to English dictionary
-app-misc/kdrill 6.5: Kanji quiz and a lookup tool for X, helps in memorizing Japanese characters
-app-vim/rc-syntax 20091204 20091226: vim plugin: rc shell script syntax highlighting
 app-vim/vim-xkbswitch 0.14.1 0.14.3: easily switch current keyboard layout when entering and leaving Insert mode
 dev-libs/libusb 0.1.12-r8: Userspace access to USB devices
 dev-python/peewee 3.8.1: Small python ORM
@@ -30,7 +28,6 @@ dev-qt/qtsvg 4.8.7: The SVG module for the Qt toolkit
 dev-qt/qttest 4.8.7: The QtTest module for unit testing Qt applications and libraries
 dev-qt/qttranslations 4.8.7: Translation files for the Qt toolkit
 dev-qt/qtxmlpatterns 4.8.7: The XmlPatterns module for the Qt toolkit
-dev-util/monodevelop-fsharp 9999: F# language binding for MonoDevelop
 games-arcade/jumpnbump 1.55: a funny multiplayer game about cute little fluffy bunnies
 games-fps/anaglyph-stereo-quake 130100-r1: play Quake in 3D with red - blue glasses
 gnome-base/gconf 2.18.0.1: Gnome Configuration System and Daemon
@@ -43,8 +40,6 @@ net-ftn/husky-huskylib 9999: FTN husky huskylib library
 net-ftn/husky-smapi 9999: FTN husky smapi library
 net-misc/drawterm 9999: drawterm – connect to Plan 9 CPU servers from other operating systems
 net-misc/zebedee 2.5.3-r1: A simple, free, secure TCP and UDP tunnel program
-net-wireless/crda 1.0.1-r1: Central Regulatory Domain Agent for wireless networks.
-sci-libs/libecwj2 3.3-r1: Library for both the ECW and the ISO JPEG 2000 image file formats
 sci-libs/mpir 2.7.2: Library for arbitrary precision integer arithmetic (fork of gmp)
 virtual/libusb 0-r3: Virtual for libusb
 x11-libs/xosd 2.2.14-r2: Library for overlaying text in X-Windows X-On-Screen-Display plus binary for sending text from CLI
