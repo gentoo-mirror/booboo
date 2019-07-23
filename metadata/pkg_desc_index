@@ -33,11 +33,6 @@ games-fps/anaglyph-stereo-quake 130100-r1: play Quake in 3D with red - blue glas
 gnome-base/gconf 2.18.0.1: Gnome Configuration System and Daemon
 media-libs/libdts 0.0.2-r3: library for decoding DTS Coherent Acoustics streams used in DVD
 net-analyzer/nmap_vulscan 2.0: A NSE vulnerability scanner which uses an offline version of different vulnerability databases
-net-ftn/husky-areafix 9999: FTN husky areafix library
-net-ftn/husky-fidoconf 9999: FTN husky fidoconf library
-net-ftn/husky-hpt 9999: FTN husky hpt library
-net-ftn/husky-huskylib 9999: FTN husky huskylib library
-net-ftn/husky-smapi 9999: FTN husky smapi library
 net-misc/drawterm 9999: drawterm – connect to Plan 9 CPU servers from other operating systems
 net-misc/zebedee 2.5.3-r1: A simple, free, secure TCP and UDP tunnel program
 sci-libs/mpir 2.7.2: Library for arbitrary precision integer arithmetic (fork of gmp)
