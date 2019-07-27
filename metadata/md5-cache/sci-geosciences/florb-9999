@@ -4,7 +4,8 @@ DESCRIPTION=florb is a really simple map viewer and GPX editor written in C++ us
 EAPI=5
 HOMEPAGE=http://florb.shugaa.de/
 LICENSE=MIT
+PROPERTIES=live
 RDEPEND=dev-libs/tinyxml2 x11-libs/fltk sci-geosciences/gpsd[cxx] >=dev-cpp/yaml-cpp-0.5.0 dev-libs/boost net-misc/curl x11-libs/libXpm
 SLOT=0
-_eclasses_=git-r3	0d4635eeb5a96cd5315597a47eba25c9
+_eclasses_=git-r3	562b380fc59ae6a8622171d0acb777d1
 _md5_=7a15d59c007890d941ca3a8d1867d515

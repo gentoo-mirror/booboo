@@ -6,7 +6,8 @@ EAPI=7
 HOMEPAGE=https://github.com/BlindMindStudios/StarRuler2-Source
 IUSE=debug
 LICENSE=MIT
+PROPERTIES=live
 RDEPEND=virtual/opengl virtual/glu media-libs/openal media-libs/libpng:0 sys-libs/zlib media-libs/glew:= media-libs/freetype >=media-libs/libvorbis-1.1.2 >=media-libs/libogg-1.1.3 app-arch/bzip2 x11-libs/libXrandr net-misc/curl
 SLOT=0
-_eclasses_=eutils	6e6c2737b59a4b982de6fb3ecefd87f8	git-r3	0d4635eeb5a96cd5315597a47eba25c9
+_eclasses_=eutils	6e6c2737b59a4b982de6fb3ecefd87f8	git-r3	562b380fc59ae6a8622171d0acb777d1
 _md5_=8c526cb254ceb8d5013021e3b646e19b
