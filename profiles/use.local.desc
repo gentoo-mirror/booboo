@@ -2,6 +2,7 @@
 # Please add your descriptions to your package's metadata.xml ONLY.
 # * generated automatically using pmaint *
 
+dev-libs/libnfc:pcsc-lite - Enable NFC drivers that require pcsc-lite
 dev-qt/qt3support:exceptions - Add support for exceptions - like catching them inside the event loop (recommended by upstream)
 dev-qt/qtbearer:exceptions - Add support for exceptions - like catching them inside the event loop (recommended by upstream)
 dev-qt/qtcore:exceptions - Add support for exceptions - like catching them inside the event loop (recommended by upstream)
@@ -36,4 +37,116 @@ dev-qt/qtsql:exceptions - Add support for exceptions - like catching them inside
 dev-qt/qtsql:qt3support - Enable the Qt3Support libraries for Qt4
 dev-qt/qtsvg:exceptions - Add support for exceptions - like catching them inside the event loop (recommended by upstream)
 dev-qt/qttest:exceptions - Add support for exceptions - like catching them inside the event loop (recommended by upstream)
+dev-tcltk/tclgpg:helper - Compile C helper to run gpg binary
+games-simulation/corsix-th:midi - Adds support for background midis via media-sound/timidity++
+games-strategy/0ad:editor - Include Atlas scenario editor projects
+games-strategy/0ad:lobby - Enable the use of net-libs/gloox and the multiplayer lobby
+games-strategy/0ad:nvtt - Support for some uncompressed data formats via media-gfx/nvidia-texture-tools (might be needed for some mods)
+mail-client/mutt:gpg - Enable support for app-crypt/gpgme
+mail-client/mutt:pop - Enable support for pop
+mail-client/mutt:sidebar - Use the vanilla tree + sidebar patch
+mail-client/mutt:smime - Enable support for smime
+mail-client/mutt:smtp - Enable support for smtp
+mail-client/mutt:tokyocabinet - Enable tokyocabinet database backend for header caching
+media-libs/esdl:image - Enable image support
+media-libs/mediastreamer:amr - Use of AMR Narrow Band codec plugin
+media-libs/mediastreamer:dtls - Turn on or off compilation of dtls
+media-libs/mediastreamer:filters - Enable compilation of filters
+media-libs/mediastreamer:g726 - Support g726 codec
+media-libs/mediastreamer:g729 - Use g726 codec plugin
+media-libs/mediastreamer:ilbc - Use of iLBC (RFC3951) codec plugin
+media-libs/mediastreamer:non-free-codecs - Include non-free codecs in build
+media-libs/mediastreamer:ntp-timestamp - Turn on NTP timestamping on received packet
+media-libs/mediastreamer:opus - Enable opus codec support
+media-libs/mediastreamer:ortp - Enable usage of net-libs/ortp
+media-libs/mediastreamer:pcap - Enable usage of net-libs/libpcap
+media-libs/mediastreamer:qsa - Turn on QSA (QNX Sound Architecture) support
+media-libs/mediastreamer:silk - Use silk (skype protocol) codec plugin
+media-libs/mediastreamer:video - Enable video support
+media-libs/mediastreamer:vp8 - Enable vp8 support via media-libs/libvpx
+media-libs/mediastreamer:zrtp - Add support for ZRTP key negotiation
+media-sound/cmus:pidgin - install support script for net-im/pidgin
+media-sound/cmus:wma - add support for Windows Media Audio
+media-sound/cmus:zsh-completion - enable zsh completion support
+net-dns/avahi:autoipd - Build and install the IPv4LL (RFC3927) network address configuration daemon
+net-dns/avahi:bookmarks - Install the avahi-bookmarks application (requires dev-python/twisted)
+net-dns/avahi:gtk3 - Build the avahi-ui-gtk3 library, and use gtk3 for the avahi utilities under USE=utils
+net-dns/avahi:howl-compat - Enable compat libraries for howl
+net-dns/avahi:mdnsresponder-compat - Enable compat libraries for mDNSResponder
+net-dns/avahi:utils - Install the avahi gtk+ utils avahi-discover, bssh, and bvnc
+net-im/spectrum:frotz - Allows playing interactive-fiction games
+net-im/spectrum:jabber - IRC
+net-im/spectrum:purple - AIM, Jabber, Facebook, GTalk, ICQ, MSN
+net-im/spectrum:skype - Skype using the official client
+net-im/spectrum:sms - SMS using connected mobile phone
+net-im/spectrum:twitter - Twitter
+net-im/spectrum:yahoo - Yahoo
+net-im/tkabber:3rd-party-plugins - Enables installation the extra third party plugins
+net-im/tkabber:contrib - Enables installation additional contrib components ('contrib' dir), don't confuse with tkabber-contrib repo name for third party plugins
+net-im/tkabber:examples - Enables installation examples of configs, tools, xrdb, etc ('examples' dir)
+net-im/tkabber:fix-site-plugins-path - Patches sources with path to installed external plugins. Likely will be useful when 'plugins' or '3rd-party-plugins' USE flags are enabled.
+net-im/tkabber:gpg - Enables GnuPG support with dev-tcltk/tclgpg
+net-im/tkabber:plugins - Enables installation the extra plugins
+net-im/tkabber:remote-controlling - Enables potentially insecure XEP-0146 support
+net-im/tkabber:sound - Enables sound event support with dev-tcltk/snack
+net-im/tkabber:ssl - Enables SSL/TLS support with dev-tcltk/tls
+net-im/tkabber:tkimg - Enables image support with dev-tcltk/tkimg
+net-im/tkabber:trayicon - Enables support for tray icon with dev-tcltk/tktray
+net-im/tkabber:udp - Enables support for DNS resolving over UDP.
+net-im/tkabber:vanilla - Skips any kind of source patching (and epatch_user too).
+net-libs/loudmouth:asyncns - Use libasyncns for asynchronous name resolution.
+net-libs/ortp:ntp-timestamp - Turn on NTP timestamping on received packet
+net-misc/electron-cash:audio_modem - Enable plugin to support Audio Modem
+net-misc/electron-cash:cli - Enables the CLI interface
+net-misc/electron-cash:cosign - Enable plugin to support multisig wallets between multiple Electrum clients
+net-misc/electron-cash:digitalbitbox - Enable plugin to support Digital Bitbox hardware wallet
+net-misc/electron-cash:email - Enable plugin to support emailing invoices
+net-misc/electron-cash:greenaddress_it - Enable plugin to verify GreenAddress.it instant transactions
+net-misc/electron-cash:qrcode - Enable QR code scanning with media-gfx/zbar
+net-misc/electron-cash:sync - Enable plugin to sync wallet metadata across multiple Electrum clients
+net-misc/electron-cash:trustedcoin_com - Enable plugin to use two-factor service by TrustedCoin.com
+net-misc/electron-cash:vkb - Enable plugin for virtual keyboard
+net-p2p/gnunet:experimental - enable experimental options
+net-p2p/gnunet:http - enable embedded http server support
+net-voip/linphone:assistant - Turn on assistant compiling (needs gtk enabled)
+net-voip/linphone:gsm-nonstandard - Support non-standard GSM frequencies
+net-voip/linphone:sqlite - Turn on compilation of message storage
+net-voip/linphone:tools - Compile tools
+net-voip/linphone:video - Enable video support (display/capture)
+sci-libs/itk:itkv3compat - Enable compatibility with ITK version 3
+sci-libs/itk:review - Enable compilation of methods under review
+sci-libs/itk:vtkglue - PLEASE FIX MY DESCRIPTION
 sci-libs/mpir:cpudetection - Enables runtime cpudetection (useful for bindist, compatability on other CPUs)
+sci-libs/oce:freeimage - Enable support for image i/o via media-libs/freeimage
+sci-libs/oce:gl2ps - Use gl2ps PostScript printing library
+sci-libs/oce:tbb - Enable multithreading with the Intel Threads Building Block dev-cpp/tbb
+sci-libs/oce:vtk - Enable Virtualisation Toolkit
+sys-apps/nix:etc_profile - Install /etc/profile.d/ entry to inject nix support for all users.
+sys-apps/nix:gc - Enable garbage collection in the Nix expression evaluator (use dev-libs/boehm-gc).
+sys-apps/usb_modeswitch:jimtcl - Use dev-lang/jimtcl instead of dev-lang/tcl for smaller memory footprint
+sys-fs/owfs:ftpd - Enable building the OWFS FTP server (owftpd)
+sys-fs/owfs:fuse - Enable building the FUSE-based OWFS client (owfs)
+sys-fs/owfs:httpd - Enable building the OWFS web server (owhttpd)
+sys-fs/owfs:parport - Enable support for the DS1410E parallel port adapter
+sys-fs/owfs:server - Enable building the OWFS server (owserver)
+www-client/uzbl:browser - Install the uzbl-browser script
+www-client/uzbl:experimental - Enable experimental branch
+www-client/uzbl:gtk3 - Use x11-libs/gtk+:3 instead of x11-libs/gtk+:2
+www-client/uzbl:helpers - Optional tools used by uzbl scripts
+www-client/uzbl:tabbed - Install the uzbl-tabbed script
+www-client/vimb:gtk3 - Link against x11-libs/gtk+:3 instead of x11-libs/gtk+:2
+www-servers/lighttpd:memcache - Enable memcache support for mod_cml and mod_trigger_b4_dl
+www-servers/lighttpd:rrdtool - Enable rrdtool support via mod_rrdtool
+www-servers/lighttpd:webdav - Enable webdav properties
+x11-wm/matchbox-desktop:dnotify - Use the linux kernel directory notification feature.
+x11-wm/xpra:client - Build client-side code
+x11-wm/xpra:clipboard - Enable clipboard support
+x11-wm/xpra:csc - Enable csc softscaler support
+x11-wm/xpra:dec_av - Enable dec_avcodec support
+x11-wm/xpra:dec_av2 - Enable dec_avcodec2 support
+x11-wm/xpra:lz4 - Enable support for lz4 compression
+x11-wm/xpra:rencode - Enable rencode support
+x11-wm/xpra:server - Build server-side code
+x11-wm/xpra:vpx - Enable vpx image format support
+x11-wm/xpra:webp - Enable webp image format support
+x11-wm/xpra:x265 - Enable x265 support
