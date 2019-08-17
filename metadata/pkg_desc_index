@@ -192,6 +192,7 @@ dev-util/gstlfilt 3.10: STLFilt simplifies and/or reformats long-winded C++ erro
 dev-util/iaito 9999: A Qt and C++ GUI for radare2 reverse engineering framework
 dev-util/monodevelop-fsharp 9999: F# language binding for MonoDevelop
 dev-util/uefitool 0.26.0: UEFI firmware image viewer and editor
+dev-util/waitgdb 9999: Stop the program on crash to allow attaching a debugger (like gdb)
 dev-vcs/vcsh 9999: Manage config files in $HOME via fake bare git repositories
 games-arcade/jumpnbump 1.55: a funny multiplayer game about cute little fluffy bunnies
 games-arcade/taisei 1.0a 9999: Taisei (lit. Occident) is a fan-made, Open Source clone of the Touhou series, written in C using SDL/OpenGL/OpenAL.
