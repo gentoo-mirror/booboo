@@ -230,6 +230,7 @@ media-gfx/heekscad 9999: Computer-Aided Design application based on OCE
 media-gfx/heekscnc 9999: HeeksCAD-based CAM
 media-gfx/implicitcad 9999: Math-inspired programmatic 2&3D CAD: CSG, bevels, and shells; gcode export
 media-gfx/kradview 1.1.0: a viewer of images obtained for some different sources: X-ray, NMR and all DICOM-compatible imaging devices. Its aim is to be a complete platform for medical imaging and image processing.
+media-gfx/prusa-slicer 9999: G-code generator for 3D printers (RepRap, Makerbot, Ultimaker etc.)
 media-gfx/pycam 0.6.1 9999: Open Source CAM - Toolpath Generation for 3-Axis CNC machining
 media-gfx/qiv 9999: Quick Image Viewer
 media-gfx/solvespace 9999: Parametric 2d/3d CAD
