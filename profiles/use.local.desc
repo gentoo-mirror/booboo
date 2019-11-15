@@ -129,6 +129,7 @@ sys-fs/owfs:fuse - Enable building the FUSE-based OWFS client (owfs)
 sys-fs/owfs:httpd - Enable building the OWFS web server (owhttpd)
 sys-fs/owfs:parport - Enable support for the DS1410E parallel port adapter
 sys-fs/owfs:server - Enable building the OWFS server (owserver)
+sys-process/audit:gssapi - Enable GSSAPI support
 www-client/uzbl:browser - Install the uzbl-browser script
 www-client/uzbl:experimental - Enable experimental branch
 www-client/uzbl:gtk3 - Use x11-libs/gtk+:3 instead of x11-libs/gtk+:2
