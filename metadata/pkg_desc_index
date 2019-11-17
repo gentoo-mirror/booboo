@@ -1,6 +1,5 @@
 app-accessibility/espeak-ng 9999: eSpeak NG - reborn of eSpeak TTS (Text-to-Speach engine)
 app-admin/conky 1.10.5-r1: An advanced, highly configurable system monitor for X
-app-admin/f3 9999: Fight Flash Fraud, or Fight Fake Flash
 app-admin/sigar 9999: System Information Gatherer And Reporter
 app-backup/obnam 1.19: A backup program that supports encryption and deduplication
 app-cdr/lacie-lightscribe-labeler 1.0.6: LaCie LightScribe Labeler 4L
@@ -357,6 +356,7 @@ sys-apps/nix 1.11.1: A purely functional package manager
 sys-apps/usb_modeswitch 2.2.5_p20150627: USB_ModeSwitch is a tool for controlling 'flip flop' (multiple devices) USB gear like UMTS sticks
 sys-apps/vbtracetool 9999: Video bios execution tracing widget
 sys-auth/linux-sgx-driver 9999: Intel(R) Software Guard Extensions for Linux* OS
+sys-block/f3 9999: Fight Flash Fraud, or Fight Fake Flash
 sys-boot/dracut-tuxonice 9999: TuxOnIce module for dracut.
 sys-boot/sedutil 9999: The Drive Trust Alliance Self Encrypting Drive Utility
 sys-devel/ct-ng 9999: crosstool-ng is a tool to build cross-compiling toolchains
