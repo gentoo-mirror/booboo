@@ -1,0 +1,12 @@
+BDEPEND=virtual/fortran >=dev-vcs/git-1.8.2.1[curl]
+DEFINED_PHASES=compile install prepare setup unpack
+DEPEND=virtual/fortran
+DESCRIPTION=a benchmark that measures sustainable memory bandwidth and computation rate
+EAPI=7
+HOMEPAGE=https://www.cs.virginia.edu/stream/ref.html
+LICENSE=STREAM
+PROPERTIES=live
+RDEPEND=virtual/fortran
+SLOT=0
+_eclasses_=fortran-2	f75a2d9321053acf424991e805f32ede	git-r3	562b380fc59ae6a8622171d0acb777d1	multilib	1d91b03d42ab6308b5f4f6b598ed110e	toolchain-funcs	512eb3367f507ebaa1d1d43ab7d66e6c
+_md5_=a4b29893317aac7c08aa5fcc33ec6691
