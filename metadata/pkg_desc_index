@@ -272,11 +272,9 @@ net-fs/tahoestaticfs 9999: Tahoestaticfs is a Fuse filesystem that enables read 
 net-fs/u9fs 9999: 9P2000 Server
 net-fs/ufs 0.2: libspfs-based daemon that shares the local filesystem over 9P
 net-im/biboumi 2.0 4.2 9999: XMPP gateway to IRC.
-net-im/communi 2.2.9999: A cross-platform IRC framework written with Qt
 net-im/hatexmpp 9999: hatexmpp is a xmpp-client featuring ii-like interface
 net-im/psyced 20090617: Server for Decentralized Messaging and Chat over PSYC, IRC, Jabber/XMPP and more
 net-im/pyimapsmtpt 9999: An xmpp transport (or bot, possibly to-be-done) that allows using IMAP+SSMTP (e.g. gmail's) from an XMPP client.
-net-im/ricochet 9999: Anonymous metadata-resistant instant messaging that just works
 net-im/spectrum 9999-r1: Spectrum is a XMPP transport/gateway
 net-im/swiften 2.9999-r1 3.0_beta2: Just a perfect C++ XMPP library
 net-im/synapse 0.34.0: Reference implementation of Matrix homeserver
@@ -308,7 +306,6 @@ net-misc/gopher 3.0.13: Distributed Hypertext Client, Gopher protocol
 net-misc/killcx 1.0.3: Close a TCP connection
 net-misc/mbpoll 9999: command line utility to communicate with ModBus slave (RTU or TCP)
 net-misc/mbusd 9999: 
-net-misc/mobos-gui 9999: A simple QML GUI to use with oFono
 net-misc/n2n 9999-r1: A Layer Two Peer-to-Peer VPN
 net-misc/radvd 9999: Linux IPv6 Router Advertisement Daemon
 net-misc/tor-arm 9999: Terminal tor status monitor
