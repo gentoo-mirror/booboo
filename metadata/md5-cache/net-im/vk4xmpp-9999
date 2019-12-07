@@ -3,10 +3,10 @@ DEPEND=>=dev-vcs/git-1.8.2.1[curl]
 DESCRIPTION=A jabber transport for VK
 EAPI=6
 HOMEPAGE=https://github.com/mrDoctorWho/vk4xmpp
-IUSE=python_single_target_pypy python_single_target_python2_7
+IUSE=python_targets_pypy python_targets_python2_7 python_single_target_pypy python_single_target_python2_7
 LICENSE=MIT
 PROPERTIES=live
-RDEPEND=dev-python/xmpppy[] dev-python/gevent[] >=dev-python/html2text-2014.12.29[]
+RDEPEND=dev-python/xmpppy[python_targets_pypy(-)?,python_targets_python2_7(-)?,-python_single_target_jython2_7(-),-python_single_target_pypy3(-),-python_single_target_python3_5(-),-python_single_target_python3_6(-),-python_single_target_python3_7(-),-python_single_target_python3_8(-),python_single_target_pypy(+)?,python_single_target_python2_7(+)?] dev-python/gevent[python_targets_pypy(-)?,python_targets_python2_7(-)?,-python_single_target_jython2_7(-),-python_single_target_pypy3(-),-python_single_target_python3_5(-),-python_single_target_python3_6(-),-python_single_target_python3_7(-),-python_single_target_python3_8(-),python_single_target_pypy(+)?,python_single_target_python2_7(+)?] >=dev-python/html2text-2014.12.29[python_targets_pypy(-)?,python_targets_python2_7(-)?,-python_single_target_jython2_7(-),-python_single_target_pypy3(-),-python_single_target_python3_5(-),-python_single_target_python3_6(-),-python_single_target_python3_7(-),-python_single_target_python3_8(-),python_single_target_pypy(+)?,python_single_target_python2_7(+)?]
 SLOT=0
-_eclasses_=git-r3	6d22636df236df4cc8475f7b7668bdcd	multilib	1d91b03d42ab6308b5f4f6b598ed110e	python-single-r1	4de31a18344a72217ca7cc04ec6d1f8e	python-utils-r1	f7aef159261e9835066ddf8d3a0e3487	toolchain-funcs	512eb3367f507ebaa1d1d43ab7d66e6c	user	00484e1be1aac73e24fca1c99557a7d6
+_eclasses_=git-r3	6d22636df236df4cc8475f7b7668bdcd	multilib	1d91b03d42ab6308b5f4f6b598ed110e	python-single-r1	721d0faeb54c0c332aa593d384993b4c	python-utils-r1	f7aef159261e9835066ddf8d3a0e3487	toolchain-funcs	512eb3367f507ebaa1d1d43ab7d66e6c	user	00484e1be1aac73e24fca1c99557a7d6
 _md5_=9fdc1f92774ac4b109bb7ce7bb04d5df
