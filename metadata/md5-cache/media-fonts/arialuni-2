@@ -1,0 +1,12 @@
+DEFINED_PHASES=install postinst postrm setup
+DEPEND=X? ( >=x11-apps/mkfontscale-1.2.0 media-fonts/encodings )
+DESCRIPTION=Arial Unicode MS Font is an extended version of font Arial
+EAPI=7
+HOMEPAGE=http://support.microsoft.com/?scid=kb%3Bru%3B287247
+IUSE=X
+KEYWORDS=~alpha ~amd64 ~ia64 ~ppc ~ppc64 ~sparc ~x86 ~x86-fbsd
+LICENSE=MSttfEULA
+SLOT=0
+SRC_URI=http://dump.bitcheese.net/files/ysemuga/arialuni.ttf.lzma
+_eclasses_=font	af70de9a23b2f34d4fe4dcb222be0346
+_md5_=25d6507d54a62aebcc76894249c23eb3
