@@ -74,13 +74,6 @@ net-dns/avahi:gtk3 - Build the avahi-ui-gtk3 library, and use gtk3 for the avahi
 net-dns/avahi:howl-compat - Enable compat libraries for howl
 net-dns/avahi:mdnsresponder-compat - Enable compat libraries for mDNSResponder
 net-dns/avahi:utils - Install the avahi gtk+ utils avahi-discover, bssh, and bvnc
-net-im/spectrum:frotz - Allows playing interactive-fiction games
-net-im/spectrum:jabber - IRC
-net-im/spectrum:purple - AIM, Jabber, Facebook, GTalk, ICQ, MSN
-net-im/spectrum:skype - Skype using the official client
-net-im/spectrum:sms - SMS using connected mobile phone
-net-im/spectrum:twitter - Twitter
-net-im/spectrum:yahoo - Yahoo
 net-im/tkabber:3rd-party-plugins - Enables installation the extra third party plugins
 net-im/tkabber:contrib - Enables installation additional contrib components ('contrib' dir), don't confuse with tkabber-contrib repo name for third party plugins
 net-im/tkabber:examples - Enables installation examples of configs, tools, xrdb, etc ('examples' dir)
