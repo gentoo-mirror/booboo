@@ -7,5 +7,5 @@ LICENSE=BSD
 PROPERTIES=live
 RDEPEND=net-voip/re >=media-libs/rem-0.4.7
 SLOT=0
-_eclasses_=git-r3	6d22636df236df4cc8475f7b7668bdcd
+_eclasses_=git-r3	7d6c351ee8b1feb12ed8c8b0adae088b
 _md5_=ac92db27c66b73cd71f2e025df81fd6c

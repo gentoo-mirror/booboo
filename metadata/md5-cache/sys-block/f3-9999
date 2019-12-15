@@ -6,5 +6,5 @@ HOMEPAGE=http://oss.digirati.com.br/f3/
 LICENSE=GPL-3
 PROPERTIES=live
 SLOT=0
-_eclasses_=git-r3	6d22636df236df4cc8475f7b7668bdcd
+_eclasses_=git-r3	7d6c351ee8b1feb12ed8c8b0adae088b
 _md5_=351e29b1e4e8150bd8123e693be14726
