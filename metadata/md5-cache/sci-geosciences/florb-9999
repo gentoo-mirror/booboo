@@ -7,5 +7,5 @@ LICENSE=MIT
 PROPERTIES=live
 RDEPEND=dev-libs/tinyxml2 x11-libs/fltk sci-geosciences/gpsd[cxx] >=dev-cpp/yaml-cpp-0.5.0 dev-libs/boost net-misc/curl x11-libs/libXpm
 SLOT=0
-_eclasses_=git-r3	7d6c351ee8b1feb12ed8c8b0adae088b
+_eclasses_=git-r3	809e27702c573cbba31c08ed00bbad33
 _md5_=7a15d59c007890d941ca3a8d1867d515
