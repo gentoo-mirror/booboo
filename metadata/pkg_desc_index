@@ -291,6 +291,7 @@ net-libs/ortp 0.25.0 0.27.0 9999: Open Real-time Transport Protocol (RTP, RFC355
 net-libs/pjsip 2.4 2.7.2: Multimedia communication libraries written in C language for building VoIP applications.
 net-libs/ustream-ssl 9999: A general purpose library for the OpenWRT project.
 net-libs/zoidcom 0.6.5 0.6.7 0.6.10: High-level, UDP-based networking library
+net-mail/fetchmail 6.4.9999: the legendary remote-mail retrieval and forwarding utility
 net-mail/notifmail 9999: notifmail is an email daemon checker which notifies system about new emails on configured IMAP servers.
 net-misc/6tunnel 9999: TCP proxy for applications that don't speak IPv6
 net-misc/Cetus 9999: Full-featured user interface for Machinekit

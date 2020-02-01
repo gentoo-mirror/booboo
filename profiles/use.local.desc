@@ -89,6 +89,8 @@ net-im/tkabber:udp - Enables support for DNS resolving over UDP.
 net-im/tkabber:vanilla - Skips any kind of source patching (and epatch_user too).
 net-libs/loudmouth:asyncns - Use libasyncns for asynchronous name resolution.
 net-libs/ortp:ntp-timestamp - Turn on NTP timestamping on received packet
+net-mail/fetchmail:socks - Enable support for socks proxy
+net-mail/fetchmail:tk - Enable support for Tk GUI toolkit, in particular it installs fetchmailconf
 net-misc/electron-cash:audio_modem - Enable plugin to support Audio Modem
 net-misc/electron-cash:cli - Enables the CLI interface
 net-misc/electron-cash:cosign - Enable plugin to support multisig wallets between multiple Electrum clients
