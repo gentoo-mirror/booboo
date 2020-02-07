@@ -1,12 +1,12 @@
 BDEPEND=dev-util/ninja >=dev-util/cmake-3.9.6 >=dev-vcs/git-1.8.2.1[curl]
 DEFINED_PHASES=compile configure install prepare test unpack
-DEPEND=>=dev-libs/boost-1.55[threads] dev-cpp/eigen dev-cpp/gtest dev-libs/cereal dev-cpp/tbb dev-libs/expat dev-libs/openssl media-libs/glew net-misc/curl sci-libs/nlopt x11-libs/wxGTK:3.0-gtk3 media-gfx/openvdb sci-mathematics/cgal
+DEPEND=>=dev-libs/boost-1.55[threads] dev-cpp/eigen dev-cpp/gtest dev-libs/cereal dev-cpp/tbb dev-libs/expat dev-libs/openssl media-libs/glew net-misc/curl sci-libs/nlopt x11-libs/wxGTK:3.0-gtk3 media-gfx/openvdb >=sci-mathematics/cgal-5.0
 DESCRIPTION=G-code generator for 3D printers (RepRap, Makerbot, Ultimaker etc.)
 EAPI=7
 HOMEPAGE=https://github.com/prusa3d/PrusaSlicer
 LICENSE=AGPL-3 CC-BY-3.0
 PROPERTIES=live
-RDEPEND=>=dev-libs/boost-1.55[threads] dev-cpp/eigen dev-cpp/gtest dev-libs/cereal dev-cpp/tbb dev-libs/expat dev-libs/openssl media-libs/glew net-misc/curl sci-libs/nlopt x11-libs/wxGTK:3.0-gtk3 media-gfx/openvdb sci-mathematics/cgal
+RDEPEND=>=dev-libs/boost-1.55[threads] dev-cpp/eigen dev-cpp/gtest dev-libs/cereal dev-cpp/tbb dev-libs/expat dev-libs/openssl media-libs/glew net-misc/curl sci-libs/nlopt x11-libs/wxGTK:3.0-gtk3 media-gfx/openvdb >=sci-mathematics/cgal-5.0
 SLOT=0
 _eclasses_=cmake-utils	be72eac95bd029ad1d81d5d656c3c83b	desktop	b1d22ac8bdd4679ab79c71aca235009d	eutils	fcb2aa98e1948b835b5ae66ca52868c5	flag-o-matic	dc34234e8c43343da45853da22dcf14b	git-r3	809e27702c573cbba31c08ed00bbad33	multilib	1d91b03d42ab6308b5f4f6b598ed110e	multiprocessing	cac3169468f893670dac3e7cb940e045	ninja-utils	132cbb376048d079b5a012f5467c4e7f	toolchain-funcs	512eb3367f507ebaa1d1d43ab7d66e6c	xdg-utils	ff2ff954e6b17929574eee4efc5152ba
-_md5_=b822e6d1d7fb28da4cb1c8940543e6da
+_md5_=a98c70c2e446e9edbed438f6aa4e6da3
