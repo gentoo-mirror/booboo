@@ -3,10 +3,10 @@ DEPEND=>=dev-vcs/git-1.8.2.1[curl]
 DESCRIPTION=A jabber transport for VK
 EAPI=6
 HOMEPAGE=https://github.com/mrDoctorWho/vk4xmpp
-IUSE=+python_targets_python2_7 +python_single_target_python2_7
+IUSE=+python_single_target_python2_7
 LICENSE=MIT
 PROPERTIES=live
-RDEPEND=dev-python/xmpppy[python_targets_python2_7(-)?,-python_single_target_pypy3(-),-python_single_target_python3_6(-),-python_single_target_python3_7(-),-python_single_target_python3_8(-),python_single_target_python2_7(+)?] dev-python/gevent[python_targets_python2_7(-)?,-python_single_target_pypy3(-),-python_single_target_python3_6(-),-python_single_target_python3_7(-),-python_single_target_python3_8(-),python_single_target_python2_7(+)?] >=dev-python/html2text-2014.12.29[python_targets_python2_7(-)?,-python_single_target_pypy3(-),-python_single_target_python3_6(-),-python_single_target_python3_7(-),-python_single_target_python3_8(-),python_single_target_python2_7(+)?]
+RDEPEND=dev-python/xmpppy[%PYTHON_USEDEP-HAS-BEEN-REMOVED%] dev-python/gevent[%PYTHON_USEDEP-HAS-BEEN-REMOVED%] >=dev-python/html2text-2014.12.29[%PYTHON_USEDEP-HAS-BEEN-REMOVED%]
 SLOT=0
-_eclasses_=git-r3	809e27702c573cbba31c08ed00bbad33	multilib	1d91b03d42ab6308b5f4f6b598ed110e	python-single-r1	36ac48e647d2627de28c87aaffb94753	python-utils-r1	611c493a4cfef5254350fabc04b606f5	toolchain-funcs	512eb3367f507ebaa1d1d43ab7d66e6c	user	95500565ced27667aca7cf7da2d46068	user-info	a2abd4e2f4c3b9b06d64bf1329359a02
+_eclasses_=git-r3	809e27702c573cbba31c08ed00bbad33	multilib	1d91b03d42ab6308b5f4f6b598ed110e	python-single-r1	fdfdbe462f245e931069310e892a8538	python-utils-r1	611c493a4cfef5254350fabc04b606f5	toolchain-funcs	512eb3367f507ebaa1d1d43ab7d66e6c	user	95500565ced27667aca7cf7da2d46068	user-info	a2abd4e2f4c3b9b06d64bf1329359a02
 _md5_=9fdc1f92774ac4b109bb7ce7bb04d5df
