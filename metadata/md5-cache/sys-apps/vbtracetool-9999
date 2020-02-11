@@ -1,0 +1,12 @@
+BDEPEND=>=dev-vcs/git-1.8.2.1[curl]
+DEFINED_PHASES=install prepare unpack
+DEPEND=sys-apps/pciutils
+DESCRIPTION=Video bios execution tracing widget
+EAPI=7
+HOMEPAGE=http://cgit.freedesktop.org/~stuart/vbtracetool/
+LICENSE=GPL-2
+PROPERTIES=live
+RDEPEND=sys-apps/pciutils
+SLOT=0
+_eclasses_=git-r3	809e27702c573cbba31c08ed00bbad33
+_md5_=df5efb69b266853544e3a466125c5ffa

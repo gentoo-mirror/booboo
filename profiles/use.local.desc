@@ -65,9 +65,6 @@ media-libs/mediastreamer:silk - Use silk (skype protocol) codec plugin
 media-libs/mediastreamer:video - Enable video support
 media-libs/mediastreamer:vp8 - Enable vp8 support via media-libs/libvpx
 media-libs/mediastreamer:zrtp - Add support for ZRTP key negotiation
-media-sound/cmus:pidgin - install support script for net-im/pidgin
-media-sound/cmus:wma - add support for Windows Media Audio
-media-sound/cmus:zsh-completion - enable zsh completion support
 net-dns/avahi:autoipd - Build and install the IPv4LL (RFC3927) network address configuration daemon
 net-dns/avahi:bookmarks - Install the avahi-bookmarks application (requires dev-python/twisted)
 net-dns/avahi:gtk3 - Build the avahi-ui-gtk3 library, and use gtk3 for the avahi utilities under USE=utils
