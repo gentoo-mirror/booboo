@@ -74,6 +74,7 @@ app-text/paps 0.7.1: Unicode-aware text to PostScript converter
 app-text/uniutils 2.27: This package consists of a set of programs for manipulating and analyzing Unicode text. The analysis utilities are useful when working with Unicode files when one doesn't know the writing system, doesn't have the necessary font, needs to inspect invisible characters, needs to find out whether characters have been combined or in what order they occur, or needs statistics on which characters occur.
 app-text/xml2rfc 2.9.2 2.9.9 2.10.0: Xml2rfc generates RFCs and IETF drafts from document source in XML according to the dtd in RFC2629.
 app-vim/LanguageClient-neovim 0.1.129: Language Server Protocol (LSP) support for vim and neovim
+app-vim/ledger-syntax 9999: vim plugin: app-office/ledger file format syntax
 app-vim/pyclewn 2.3: Pyclewn allows using vim as a front end to a debugger (pdb or gdb)
 app-vim/rc-syntax 20091204 20091226: vim plugin: rc shell script syntax highlighting
 app-vim/vim-xkbswitch 0.14.1 0.14.3: easily switch current keyboard layout when entering and leaving Insert mode
@@ -93,7 +94,6 @@ dev-embedded/stlink 9999-r1: On board debugger driver for stm32-discovery boards
 dev-embedded/stm32flash 0.4 0.5: Open source flash program for STM32 using the ST serial bootloader
 dev-embedded/stm32sprog 9999: Serial programmer for STM32 that uses the built in bootloader's USART protocol.
 dev-embedded/yosys 9999: Yosys - Yosys Open SYnthesis Suite
-dev-go/go-runewidth 9999: Provides functions to get fixed width of the character or string.
 dev-go/ingo 9999: persistent storage for flags in go
 dev-haskell/blaze-svg 0.3.4.1: SVG combinator library
 dev-haskell/boolean 0.2.3: Generalized booleans and numbers
