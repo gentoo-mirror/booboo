@@ -182,6 +182,7 @@ dev-util/abootimg 9999-r1: Manipulate boot images for the Android bootloader
 dev-util/bcunit 9999: a fork of the defunct project CUnit, with several fixes and patches applied
 dev-util/cmacro 9999: cmacro: Lisp macros for C
 dev-util/coan 9999: The C preprocessor chainsaw
+dev-util/cutter 9999-r1: A Qt and C++ GUI for radare2 reverse engineering framework
 dev-util/gstlfilt 3.10: STLFilt simplifies and/or reformats long-winded C++ error and warning messages, with a focus on STL-related diagnostics
 dev-util/iaito 9999: A Qt and C++ GUI for radare2 reverse engineering framework
 dev-util/uefitool 0.26.0: UEFI firmware image viewer and editor
