@@ -151,6 +151,7 @@ dev-python/pystun 0.1.0: A Python STUN client for getting NAT type and external 
 dev-python/python-obelisk 0.1.3 9999: (A OpenBazaar's clone of) Python native client for the obelisk blockchain server.
 dev-python/python-olm 3.1.4: Python bindings for the Olm C library
 dev-python/pythonocc 0.18.1 9999: Python Interface to OpenCASCADE CAD library
+dev-python/pythonocc-cadquery 9999: Python Interface to OpenCASCADE CAD library, CadQuery fork
 dev-python/signedjson 1.0.0: Signs JSON objects with ED25519 signatures.
 dev-python/txrestapi 0.2: Easing the creation of REST API services in Python
 dev-python/txrudp 9999: Implementation of a Reliable UDP Protocol Layer over Twisted.
