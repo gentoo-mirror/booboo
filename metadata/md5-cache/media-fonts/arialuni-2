@@ -8,5 +8,5 @@ KEYWORDS=~alpha ~amd64 ~ia64 ~ppc ~ppc64 ~sparc ~x86 ~x86-fbsd
 LICENSE=MSttfEULA
 SLOT=0
 SRC_URI=http://dump.bitcheese.net/files/ysemuga/arialuni.ttf.lzma
-_eclasses_=font	4021fe3baa559f77681b3f3f58db27ce
+_eclasses_=font	dd073b36fe3fd8b868c23bc23209db45
 _md5_=25d6507d54a62aebcc76894249c23eb3
