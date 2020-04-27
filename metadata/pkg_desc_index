@@ -188,6 +188,7 @@ dev-util/gstlfilt 3.10: STLFilt simplifies and/or reformats long-winded C++ erro
 dev-util/iaito 9999: A Qt and C++ GUI for radare2 reverse engineering framework
 dev-util/uefitool 0.26.0: UEFI firmware image viewer and editor
 dev-util/waitgdb 9999: Stop the program on crash to allow attaching a debugger (like gdb)
+games-action/teeworlds 0.7.5: Online multi-player platform 2D shooter
 games-arcade/jumpnbump 1.55: a funny multiplayer game about cute little fluffy bunnies
 games-arcade/taisei 1.0a 9999: Taisei (lit. Occident) is a fan-made, Open Source clone of the Touhou series, written in C using SDL/OpenGL/OpenAL.
 games-board/glgo 1.4.1: PANDA-glGo is a board interface for Go games
