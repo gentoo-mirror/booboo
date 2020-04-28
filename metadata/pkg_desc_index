@@ -330,6 +330,7 @@ sci-libs/libarea 9999: Library and python module for pocketing and profiling ope
 sci-libs/libecwj2 3.3-r1: Library for both the ECW and the ISO JPEG 2000 image file formats
 sci-libs/mpir 2.7.2: Library for arbitrary precision integer arithmetic (fork of gmp)
 sci-libs/oce 0.18.1: Development platform for CAD/CAE, 3D surface/solid modeling and data exchange
+sci-mathematics/cgal 5.0.2: C++ library for geometric algorithms and data structures
 sci-misc/elmer-fem 9999-r1: Finite element programs, libraries, and visualization tools - main fem
 sci-misc/gcam 9999: GCAM Special Edition - 2.5D CAD/CAM with G-code output
 sci-visualization/gnuplot 5.2_rc2: Command-line driven interactive plotting program
