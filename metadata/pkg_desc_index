@@ -187,6 +187,7 @@ dev-util/coan 9999: The C preprocessor chainsaw
 dev-util/cutter 9999-r1: A Qt and C++ GUI for radare2 reverse engineering framework
 dev-util/gstlfilt 3.10: STLFilt simplifies and/or reformats long-winded C++ error and warning messages, with a focus on STL-related diagnostics
 dev-util/iaito 9999: A Qt and C++ GUI for radare2 reverse engineering framework
+dev-util/lemon 3.16.2 3.31.1: A LALR(1) parser generator
 dev-util/uefitool 0.26.0: UEFI firmware image viewer and editor
 dev-util/waitgdb 9999: Stop the program on crash to allow attaching a debugger (like gdb)
 games-action/teeworlds 0.7.5: Online multi-player platform 2D shooter
@@ -216,6 +217,7 @@ mail-client/mutt 9999: A small but very powerful text-based mail client
 media-fonts/arialuni 2: Arial Unicode MS Font is an extended version of font Arial
 media-fonts/terminus-ttf 4.40.1: Terminus TTF is a TrueType version of Terminus Font, a fixed-width bitmap font optimized for long work with computers.
 media-gfx/admesh 9999: CLI and C library for processing triangulated solid meshes
+media-gfx/antimony 9999: CAD from a parallel universe
 media-gfx/cadquery 9999: A parametric CAD scripting framework based on PythonOCC
 media-gfx/cq-editor 9999: CadQuery GUI editor based on PyQT
 media-gfx/genericcam 9999: Generic CAM is an open source tool path generator for CNC machines.
