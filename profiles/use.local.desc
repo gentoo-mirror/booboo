@@ -39,9 +39,6 @@ dev-qt/qtsvg:exceptions - Add support for exceptions - like catching them inside
 dev-qt/qttest:exceptions - Add support for exceptions - like catching them inside the event loop (recommended by upstream)
 dev-tcltk/tclgpg:helper - Compile C helper to run gpg binary
 games-simulation/corsix-th:midi - Adds support for background midis via media-sound/timidity++
-games-strategy/0ad:editor - Include Atlas scenario editor projects
-games-strategy/0ad:lobby - Enable the use of net-libs/gloox and the multiplayer lobby
-games-strategy/0ad:nvtt - Support for some uncompressed data formats via media-gfx/nvidia-texture-tools (might be needed for some mods)
 mail-client/mutt:gpg - Enable support for app-crypt/gpgme
 mail-client/mutt:pop - Enable support for pop
 mail-client/mutt:sidebar - Use the vanilla tree + sidebar patch

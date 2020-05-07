@@ -204,8 +204,6 @@ games-simulation/corsix-th 9999: Open source clone of Theme Hospital
 games-simulation/simutrans-extended 9999: A free Transport Tycoon clone Extended version.
 games-simulation/simutrans-extended-britain128 9999: Britain pakset for Simutrans Extended
 games-simulation/simutrans-extended-sweden128 9999: Sweden pakset for Simutrans Extended
-games-strategy/0ad 0.0.20_alpha: A free, real-time strategy game
-games-strategy/0ad-data 0.0.20_alpha: Data files for 0ad
 games-strategy/7kaa 9999: Seven Kingdoms: Ancient Adversaries
 games-strategy/StarRuler2 9999: 4X Space Strategy game
 games-strategy/dyson 1.10: Dyson is an ambient real-time strategy game with abstract visuals.
