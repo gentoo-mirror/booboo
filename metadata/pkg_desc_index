@@ -285,7 +285,6 @@ net-mail/fetchmail 6.4.9999: the legendary remote-mail retrieval and forwarding 
 net-misc/6tunnel 9999: TCP proxy for applications that don't speak IPv6
 net-misc/Cetus 9999: Full-featured user interface for Machinekit
 net-misc/QtQuickVcp 9999: A Virtual Control Panel for Machinekit written in Qt/C++/QML
-net-misc/dialer-app 9999: Dialer app for Ubuntu Touch
 net-misc/drawterm 9999: drawterm – connect to Plan 9 CPU servers from other operating systems
 net-misc/electron-cash 9999: Lightweight Bitcoin Cash client
 net-misc/fastd 18: Fast and Secure Tunneling Daemon (fastd)
