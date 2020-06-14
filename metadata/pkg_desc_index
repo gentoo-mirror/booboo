@@ -335,7 +335,7 @@ sci-visualization/gnuplot 5.2_rc2: Command-line driven interactive plotting prog
 sys-apps/915resolution 0.5.3: Utility to patch VBIOS of Intel 855 / 865 / 915 chipsets
 sys-apps/9mount 1.3 9999: A set of SUID mounting tools for use with v9fs.
 sys-apps/con2fbmap 2.1.28: Shows and sets mapping between consoles and framebuffer devices
-sys-apps/earlyoom 0.11 1.0 1.1 1.2 1.3: Early OOM Daemon for Linux
+sys-apps/earlyoom 0.11 1.0 1.1 1.2 1.3 1.6: Early OOM Daemon for Linux
 sys-apps/ksm_preload 9999: Enables legacy applications to leverage Linux's memory deduplication.
 sys-apps/lfsb 0.4.4: A Linux utility to change the FSB frequency without having to reboot
 sys-apps/me_cleaner 9999: Tool for partial deblobbing of Intel ME/TXE firmware images
