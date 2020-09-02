@@ -7,5 +7,5 @@ LICENSE=BSD
 PROPERTIES=live
 RDEPEND=x11-wm/xpra
 SLOT=0
-_eclasses_=git-r3	8ec5b53812bce105ae7943930e4660f8
+_eclasses_=git-r3	3e7ec3d6619213460c85e2aa48398441
 _md5_=598d05fd9d775a75621f1bc0e9b5d7fd
