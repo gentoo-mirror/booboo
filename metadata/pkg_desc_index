@@ -220,7 +220,7 @@ media-gfx/genericcam 9999: Generic CAM is an open source tool path generator for
 media-gfx/ginkgocadx 9999: an advanced DICOM viewer and dicomizer that can also be used to convert png, jpeg, bmp, pdf, tiff to DICOM files
 media-gfx/heekscad 9999: Computer-Aided Design application based on OCE
 media-gfx/heekscnc 9999: HeeksCAD-based CAM
-media-gfx/implicitcad 9999: Math-inspired programmatic 2&3D CAD: CSG, bevels, and shells; gcode export
+media-gfx/implicitcad 0.3.0.1 9999: Math-inspired programmatic 2&3D CAD: CSG, bevels, and shells; gcode export
 media-gfx/kradview 1.1.0: a viewer of images obtained for some different sources: X-ray, NMR and all DICOM-compatible imaging devices. Its aim is to be a complete platform for medical imaging and image processing.
 media-gfx/prusa-slicer 2.3.0_alpha0 9999: G-code generator for 3D printers (RepRap, Makerbot, Ultimaker etc.)
 media-gfx/qiv 9999: Quick Image Viewer
