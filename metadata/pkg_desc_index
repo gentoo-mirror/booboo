@@ -198,6 +198,7 @@ games-board/rftg 0.9.4 9999: "Race for the Galaxy" card game.
 games-fps/anaglyph-stereo-quake 130100-r1: play Quake in 3D with red - blue glasses
 games-fps/tremulous-bin 1.1.0: Team-based aliens vs humans FPS with buildable structures
 games-fps/tremulous-gpp 1: Team-based aliens vs humans FPS with buildable structures
+games-fps/unvanquished-data 0.51.1: Datafiles and maps for unvanquished
 games-rpg/freedroidrpg 9999: A modification of the classical Freedroid engine into an RPG
 games-simulation/corsix-th 9999: Open source clone of Theme Hospital
 games-simulation/simutrans-extended 9999: A free Transport Tycoon clone Extended version.
