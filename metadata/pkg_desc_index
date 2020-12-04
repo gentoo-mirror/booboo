@@ -127,7 +127,6 @@ dev-python/ansi2html 9999: Convert text with ANSI color codes to HTML
 dev-python/bitcoin 1.1.27 1.1.42: Python Bitcoin Tools
 dev-python/canonicaljson 1.1.4: Canonical JSON
 dev-python/cflib 0.1.3 0.1.6 0.1.7: A simple wrapper around optparse for powerful command line utilities.
-dev-python/cjklib 0.3 0.3.2: Cjklib provides language routines related to Han characters (characters based on Chinese characters named Hanzi, Kanji, Hanja and chu Han respectively) used in writing of the Chinese, the Japanese, infrequently the Korean and formerly the Vietnamese language(s). Functionality is included for character pronunciations, radicals, glyph components, stroke decomposition and variant information.
 dev-python/dnschain 0.1.0: A Python DNSChain library
 dev-python/editorconfig 0.12.1: EditorConfig File Locator and Interpreter for Python
 dev-python/foolscap 0.10.1: RPC protocol for Twisted
