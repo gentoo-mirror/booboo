@@ -184,13 +184,11 @@ dev-util/cutter 9999-r1: A Qt and C++ GUI for radare2 reverse engineering framew
 dev-util/gstlfilt 3.10: STLFilt simplifies and/or reformats long-winded C++ error and warning messages, with a focus on STL-related diagnostics
 dev-util/iaito 9999: A Qt and C++ GUI for radare2 reverse engineering framework
 dev-util/lemon 3.16.2 3.31.1: A LALR(1) parser generator
-dev-util/uefitool 0.26.0: UEFI firmware image viewer and editor
 dev-util/waitgdb 9999: Stop the program on crash to allow attaching a debugger (like gdb)
 games-action/teeworlds 0.7.5: Online multi-player platform 2D shooter
 games-arcade/jumpnbump 1.55: a funny multiplayer game about cute little fluffy bunnies
 games-arcade/taisei 1.0a 9999: Taisei (lit. Occident) is a fan-made, Open Source clone of the Touhou series, written in C using SDL/OpenGL/OpenAL.
 games-board/glgo 1.4.1: PANDA-glGo is a board interface for Go games
-games-board/qgo2 9999: qGo is a full featured SGF editor and Go Client.
 games-board/rftg 0.9.4 9999: "Race for the Galaxy" card game.
 games-fps/anaglyph-stereo-quake 130100-r1: play Quake in 3D with red - blue glasses
 games-fps/tremulous-bin 1.1.0: Team-based aliens vs humans FPS with buildable structures
@@ -278,8 +276,6 @@ net-libs/ustream-ssl 9999: A general purpose library for the OpenWRT project.
 net-libs/zoidcom 0.6.5 0.6.7 0.6.10: High-level, UDP-based networking library
 net-mail/fetchmail 6.4.9999: the legendary remote-mail retrieval and forwarding utility
 net-misc/6tunnel 9999: TCP proxy for applications that don't speak IPv6
-net-misc/Cetus 9999: Full-featured user interface for Machinekit
-net-misc/QtQuickVcp 9999: A Virtual Control Panel for Machinekit written in Qt/C++/QML
 net-misc/drawterm 9999: drawterm – connect to Plan 9 CPU servers from other operating systems
 net-misc/electron-cash 9999: Lightweight Bitcoin Cash client
 net-misc/fastd 18: Fast and Secure Tunneling Daemon (fastd)
