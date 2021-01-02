@@ -184,6 +184,7 @@ dev-util/cutter 9999-r1: A Qt and C++ GUI for radare2 reverse engineering framew
 dev-util/gstlfilt 3.10: STLFilt simplifies and/or reformats long-winded C++ error and warning messages, with a focus on STL-related diagnostics
 dev-util/iaito 9999: A Qt and C++ GUI for radare2 reverse engineering framework
 dev-util/lemon 3.16.2 3.31.1: A LALR(1) parser generator
+dev-util/uefitool 0.28.0: UEFI firmware image viewer and editor
 dev-util/waitgdb 9999: Stop the program on crash to allow attaching a debugger (like gdb)
 games-action/teeworlds 0.7.5: Online multi-player platform 2D shooter
 games-arcade/jumpnbump 1.55: a funny multiplayer game about cute little fluffy bunnies
