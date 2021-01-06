@@ -260,7 +260,7 @@ net-im/hatexmpp 9999: hatexmpp is a xmpp-client featuring ii-like interface
 net-im/psyced 20090617: Server for Decentralized Messaging and Chat over PSYC, IRC, Jabber/XMPP and more
 net-im/pyimapsmtpt 9999: An xmpp transport (or bot, possibly to-be-done) that allows using IMAP+SSMTP (e.g. gmail's) from an XMPP client.
 net-im/swiften 3.0_beta2: Just a perfect C++ XMPP library
-net-im/synapse 0.34.0: Reference implementation of Matrix homeserver
+net-im/synapse 1.23.1: Reference implementation of Matrix homeserver
 net-im/telegram-cli 9999-r1: Command line interface client for Telegram
 net-im/tkabber 9999-r6: GUI client for XMPP (Jabber) instant messaging protocol, written in Tcl/Tk.
 net-im/vk4xmpp 9999: A jabber transport for VK
