@@ -1,3 +1,5 @@
+acct-group/miredo 0: System group: miredo
+acct-user/miredo 0: System user: miredo
 app-accessibility/espeak-ng 9999: eSpeak NG - reborn of eSpeak TTS (Text-to-Speach engine)
 app-admin/conky 1.10.5-r1: An advanced, highly configurable system monitor for X
 app-admin/sigar 9999: System Information Gatherer And Reporter
