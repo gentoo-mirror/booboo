@@ -85,16 +85,6 @@ net-libs/loudmouth:asyncns - Use libasyncns for asynchronous name resolution.
 net-libs/ortp:ntp-timestamp - Turn on NTP timestamping on received packet
 net-mail/fetchmail:socks - Enable support for socks proxy
 net-mail/fetchmail:tk - Enable support for Tk GUI toolkit, in particular it installs fetchmailconf
-net-misc/electron-cash:audio_modem - Enable plugin to support Audio Modem
-net-misc/electron-cash:cli - Enables the CLI interface
-net-misc/electron-cash:cosign - Enable plugin to support multisig wallets between multiple Electrum clients
-net-misc/electron-cash:digitalbitbox - Enable plugin to support Digital Bitbox hardware wallet
-net-misc/electron-cash:email - Enable plugin to support emailing invoices
-net-misc/electron-cash:greenaddress_it - Enable plugin to verify GreenAddress.it instant transactions
-net-misc/electron-cash:qrcode - Enable QR code scanning with media-gfx/zbar
-net-misc/electron-cash:sync - Enable plugin to sync wallet metadata across multiple Electrum clients
-net-misc/electron-cash:trustedcoin_com - Enable plugin to use two-factor service by TrustedCoin.com
-net-misc/electron-cash:vkb - Enable plugin for virtual keyboard
 net-p2p/gnunet:experimental - enable experimental options
 net-p2p/gnunet:http - enable embedded http server support
 sci-libs/itk:itkv3compat - Enable compatibility with ITK version 3
