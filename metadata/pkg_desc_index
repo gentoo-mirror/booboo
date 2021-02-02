@@ -125,6 +125,10 @@ dev-python/cflib 0.1.3 0.1.6 0.1.7: A simple wrapper around optparse for powerfu
 dev-python/dnschain 0.1.0: A Python DNSChain library
 dev-python/frozendict 1.2-r1: An immutable dictionary
 dev-python/lfmh 1.1.1: A Last.fm API interface.
+dev-python/matrix-nio 9999: A Python Matrix client library, designed according to sans I/O principles
+dev-python/matrix-python-sdk 9999: Matrix Client-Server SDK for Python 2 and 3
+dev-python/notify2 0.3: Python interface to DBus notifications
+dev-python/peewee 3.8.1: Small python ORM
 dev-python/prometheus_client 0.7.1-r1: Python client for the Prometheus monitoring system
 dev-python/pycparser 9999: C parser and AST generator written in Python
 dev-python/pyee 0.1.0: A port of node.js's EventEmitter to python.
@@ -133,7 +137,7 @@ dev-python/pymacaroons 0.13.0: PyMacaroons is a Python implementation of Macaroo
 dev-python/pynacl 9999: PyNaCl is a Python binding to the Networking and Cryptography library, a crypto library with the stated goal of improving usability, security and speed.
 dev-python/pystun 0.1.0: A Python STUN client for getting NAT type and external IP (RFC 3489)
 dev-python/python-obelisk 0.1.3 9999: (A OpenBazaar's clone of) Python native client for the obelisk blockchain server.
-dev-python/python-olm 3.1.4: Python bindings for the Olm C library
+dev-python/python-olm 3.1.5: Python bindings for the Olm C library
 dev-python/pythonocc 0.18.1 9999: Python Interface to OpenCASCADE CAD library
 dev-python/pythonocc-cadquery 9999: Python Interface to OpenCASCADE CAD library, CadQuery fork
 dev-python/signedjson 1.1.0: Signs JSON objects with ED25519 signatures.
