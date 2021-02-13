@@ -306,7 +306,6 @@ sci-libs/oce 0.18.1: Development platform for CAD/CAE, 3D surface/solid modeling
 sci-mathematics/cgal 5.0.2: C++ library for geometric algorithms and data structures
 sci-misc/elmer-fem 9999-r1: Finite element programs, libraries, and visualization tools - main fem
 sci-misc/gcam 9999: GCAM Special Edition - 2.5D CAD/CAM with G-code output
-sci-visualization/gnuplot 5.2_rc2: Command-line driven interactive plotting program
 sys-apps/915resolution 0.5.3: Utility to patch VBIOS of Intel 855 / 865 / 915 chipsets
 sys-apps/9mount 1.3 9999: A set of SUID mounting tools for use with v9fs.
 sys-apps/con2fbmap 2.1.28: Shows and sets mapping between consoles and framebuffer devices
