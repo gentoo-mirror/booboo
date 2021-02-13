@@ -62,12 +62,6 @@ media-libs/mediastreamer:silk - Use silk (skype protocol) codec plugin
 media-libs/mediastreamer:video - Enable video support
 media-libs/mediastreamer:vp8 - Enable vp8 support via media-libs/libvpx
 media-libs/mediastreamer:zrtp - Add support for ZRTP key negotiation
-net-dns/avahi:autoipd - Build and install the IPv4LL (RFC3927) network address configuration daemon
-net-dns/avahi:bookmarks - Install the avahi-bookmarks application (requires dev-python/twisted)
-net-dns/avahi:gtk3 - Build the avahi-ui-gtk3 library, and use gtk3 for the avahi utilities under USE=utils
-net-dns/avahi:howl-compat - Enable compat libraries for howl
-net-dns/avahi:mdnsresponder-compat - Enable compat libraries for mDNSResponder
-net-dns/avahi:utils - Install the avahi gtk+ utils avahi-discover, bssh, and bvnc
 net-im/tkabber:3rd-party-plugins - Enables installation the extra third party plugins
 net-im/tkabber:contrib - Enables installation additional contrib components ('contrib' dir), don't confuse with tkabber-contrib repo name for third party plugins
 net-im/tkabber:examples - Enables installation examples of configs, tools, xrdb, etc ('examples' dir)
@@ -110,7 +104,6 @@ www-client/uzbl:experimental - Enable experimental branch
 www-client/uzbl:gtk3 - Use x11-libs/gtk+:3 instead of x11-libs/gtk+:2
 www-client/uzbl:helpers - Optional tools used by uzbl scripts
 www-client/uzbl:tabbed - Install the uzbl-tabbed script
-www-client/vimb:gtk3 - Link against x11-libs/gtk+:3 instead of x11-libs/gtk+:2
 www-servers/lighttpd:memcache - Enable memcache support for mod_cml and mod_trigger_b4_dl
 www-servers/lighttpd:rrdtool - Enable rrdtool support via mod_rrdtool
 www-servers/lighttpd:webdav - Enable webdav properties
