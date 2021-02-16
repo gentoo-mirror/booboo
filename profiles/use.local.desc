@@ -79,9 +79,6 @@ net-libs/loudmouth:asyncns - Use libasyncns for asynchronous name resolution.
 net-libs/ortp:ntp-timestamp - Turn on NTP timestamping on received packet
 net-p2p/gnunet:experimental - enable experimental options
 net-p2p/gnunet:http - enable embedded http server support
-sci-libs/itk:itkv3compat - Enable compatibility with ITK version 3
-sci-libs/itk:review - Enable compilation of methods under review
-sci-libs/itk:vtkglue - PLEASE FIX MY DESCRIPTION
 sci-libs/mpir:cpudetection - Enables runtime cpudetection (useful for bindist, compatability on other CPUs)
 sci-libs/oce:freeimage - Enable support for image i/o via media-libs/freeimage
 sci-libs/oce:gl2ps - Use gl2ps PostScript printing library
