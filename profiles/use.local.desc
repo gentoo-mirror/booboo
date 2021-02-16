@@ -103,14 +103,3 @@ www-servers/lighttpd:memcache - Enable memcache support for mod_cml and mod_trig
 www-servers/lighttpd:rrdtool - Enable rrdtool support via mod_rrdtool
 www-servers/lighttpd:webdav - Enable webdav properties
 x11-wm/matchbox-desktop:dnotify - Use the linux kernel directory notification feature.
-x11-wm/xpra:client - Build client-side code
-x11-wm/xpra:clipboard - Enable clipboard support
-x11-wm/xpra:csc - Enable csc softscaler support
-x11-wm/xpra:dec_av - Enable dec_avcodec support
-x11-wm/xpra:dec_av2 - Enable dec_avcodec2 support
-x11-wm/xpra:lz4 - Enable support for lz4 compression
-x11-wm/xpra:rencode - Enable rencode support
-x11-wm/xpra:server - Build server-side code
-x11-wm/xpra:vpx - Enable vpx image format support
-x11-wm/xpra:webp - Enable webp image format support
-x11-wm/xpra:x265 - Enable x265 support
