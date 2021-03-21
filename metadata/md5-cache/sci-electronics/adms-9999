@@ -3,9 +3,10 @@ DEPEND=dev-perl/XML-LibXML sys-devel/flex sys-devel/bison >=dev-vcs/git-1.8.2.1[
 DESCRIPTION=ADMS is a code generator for the Verilog-AMS language
 EAPI=6
 HOMEPAGE=https://github.com/Qucs/ADMS
+INHERIT=git-r3 autotools
 LICENSE=GPL-3
 PROPERTIES=live
 RDEPEND=sys-devel/flex sys-devel/bison
 SLOT=0
-_eclasses_=autotools	9988ecbe04129214297a7bbf3d253710	git-r3	3e7ec3d6619213460c85e2aa48398441	libtool	f143db5a74ccd9ca28c1234deffede96	multilib	d410501a125f99ffb560b0c523cd3d1e	toolchain-funcs	24921b57d6561d87cbef4916a296ada4
+_eclasses_=git-r3	3e7ec3d6619213460c85e2aa48398441	toolchain-funcs	24921b57d6561d87cbef4916a296ada4	multilib	d410501a125f99ffb560b0c523cd3d1e	libtool	f143db5a74ccd9ca28c1234deffede96	autotools	4ba6c345bf49883c84d5fa5c9bf40c0b
 _md5_=ddbd7ecc1440ef90fcbb7452de07d991
