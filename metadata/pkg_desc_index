@@ -113,6 +113,7 @@ dev-libs/libnfc 9999: Near Field Communications (NFC) library
 dev-libs/librs232 9999: multiplatform library for serial communications over RS-232 (serial port)
 dev-libs/libsigc++ 2.10.9999: Typesafe callback system for standard C++
 dev-libs/libusb 0.1.12-r8: Userspace access to USB devices
+dev-libs/msgpack 1.2.0: MessagePack is a binary-based efficient data interchange format
 dev-libs/olm 3.1.4: An implementation of the Double Ratchet cryptographic ratchet in C++
 dev-libs/wiringPi 2.13 9999: A 'wiring' like library for the Raspberry Pi
 dev-perl/UI-Dialog 1.08: 
