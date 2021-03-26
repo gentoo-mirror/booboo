@@ -199,7 +199,6 @@ games-strategy/ufoai 9999: UFO: Alien Invasion - X-COM inspired strategy game
 gnome-base/gconf 2.18.0.1: Gnome Configuration System and Daemon
 mail-client/mutt 9999: A small but very powerful text-based mail client
 media-fonts/arialuni 2: Arial Unicode MS Font is an extended version of font Arial
-media-fonts/terminus-ttf 4.40.1 4.47.0: Terminus TTF is a TrueType version of Terminus Font, a fixed-width bitmap font optimized for long work with computers.
 media-gfx/admesh 9999: CLI and C library for processing triangulated solid meshes
 media-gfx/antimony 9999: CAD from a parallel universe
 media-gfx/cadquery 9999: A parametric CAD scripting framework based on PythonOCC
