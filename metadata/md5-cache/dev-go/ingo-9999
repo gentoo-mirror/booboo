@@ -3,9 +3,10 @@ DEPEND=>=dev-vcs/git-1.8.2.1[curl] dev-lang/go
 DESCRIPTION=persistent storage for flags in go
 EAPI=5
 HOMEPAGE=https://github.com/schachmat/ingo/
+INHERIT=git-r3 go
 KEYWORDS=~x86 ~amd64
 LICENSE=ISC
 PROPERTIES=live
 SLOT=0
-_eclasses_=git-r3	3e7ec3d6619213460c85e2aa48398441	go	d016927c10636e1ee814ec013a006228
+_eclasses_=git-r3	b8e8c92aa5fe8df7187e466138eb4e52	go	d016927c10636e1ee814ec013a006228
 _md5_=4aca2ad395d6dd87f3d54e13f940e67a

@@ -3,9 +3,10 @@ DEPEND=net-voip/re >=media-libs/rem-0.4.7 >=dev-vcs/git-1.8.2.1[curl]
 DESCRIPTION=Baresip is a portable and modular SIP User-Agent with audio and video support.
 EAPI=5
 HOMEPAGE=http://creytiv.com/baresip.html
+INHERIT=git-r3
 LICENSE=BSD
 PROPERTIES=live
 RDEPEND=net-voip/re >=media-libs/rem-0.4.7
 SLOT=0
-_eclasses_=git-r3	3e7ec3d6619213460c85e2aa48398441
+_eclasses_=git-r3	b8e8c92aa5fe8df7187e466138eb4e52
 _md5_=ac92db27c66b73cd71f2e025df81fd6c
