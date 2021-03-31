@@ -4,10 +4,11 @@ DEPEND=>=dev-libs/glib-2.18.4 >=sys-fs/fuse-2.7.4 >=net-libs/loudmouth-1.4.3 scr
 DESCRIPTION=hatexmpp is a xmpp-client featuring ii-like interface
 EAPI=7
 HOMEPAGE=http://github.com/l29ah/hatexmpp
+INHERIT=git-r3
 IUSE=screen
 LICENSE=WTFPL-2
 PROPERTIES=live
 RDEPEND=>=dev-libs/glib-2.18.4 >=sys-fs/fuse-2.7.4 >=net-libs/loudmouth-1.4.3
 SLOT=0
-_eclasses_=git-r3	3e7ec3d6619213460c85e2aa48398441
+_eclasses_=git-r3	b8e8c92aa5fe8df7187e466138eb4e52
 _md5_=479abe7bc3e3c8bcfdb84dfe09f8a4ba

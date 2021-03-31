@@ -3,6 +3,7 @@ DEPEND=doc? ( <dev-lang/perl-5.22 )
 DESCRIPTION=a script to send USSD (Unstructured Supplementary Services Data) queries to your broadband provider.
 EAPI=5
 HOMEPAGE=http://linux.zum-quadrat.de/downloads/
+INHERIT=versionator
 IUSE=doc
 KEYWORDS=~x86 ~amd64
 RDEPEND=dev-perl/Expect

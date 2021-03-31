@@ -3,6 +3,7 @@ DEPEND=>=net-misc/curl-7.21.0 >=media-libs/libextractor-0.6.1 dev-libs/libgcrypt
 DESCRIPTION=GNUnet is a framework for secure peer-to-peer networking.
 EAPI=5
 HOMEPAGE=http://gnunet.org/
+INHERIT=user
 IUSE=experimental http mysql nls postgres +sqlite X
 KEYWORDS=~amd64
 LICENSE=GPL-3
@@ -10,5 +11,5 @@ REQUIRED_USE=!mysql? ( !postgres? ( sqlite ) ) !mysql? ( !sqlite? ( postgres ) )
 RESTRICT=test
 SLOT=0
 SRC_URI=mirror://gnu/gnunet/gnunet-0.10.1.tar.gz
-_eclasses_=user	b0a0d4ca9e3f79c38f8f4143b8d5a2d8	user-info	a2abd4e2f4c3b9b06d64bf1329359a02
+_eclasses_=user-info	a2abd4e2f4c3b9b06d64bf1329359a02	user	26d8ce6329c43cbac965617f1c0627e2
 _md5_=4f2ee6a1953f655854158f43b1a50e58

@@ -3,8 +3,9 @@ DEPEND=>=dev-vcs/git-1.8.2.1[curl]
 DESCRIPTION=A set of SUID mounting tools for use with v9fs.
 EAPI=5
 HOMEPAGE=http://github.com/minad/9mount
+INHERIT=git-r3
 LICENSE=ISC
 PROPERTIES=live
 SLOT=0
-_eclasses_=git-r3	3e7ec3d6619213460c85e2aa48398441
+_eclasses_=git-r3	b8e8c92aa5fe8df7187e466138eb4e52
 _md5_=366668d50659db75dcfb2cb3b2ddaee2
