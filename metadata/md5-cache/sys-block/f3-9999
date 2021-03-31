@@ -3,8 +3,9 @@ DEPEND=>=dev-vcs/git-1.8.2.1[curl]
 DESCRIPTION=Fight Flash Fraud, or Fight Fake Flash
 EAPI=5
 HOMEPAGE=http://oss.digirati.com.br/f3/
+INHERIT=git-r3
 LICENSE=GPL-3
 PROPERTIES=live
 SLOT=0
-_eclasses_=git-r3	3e7ec3d6619213460c85e2aa48398441
+_eclasses_=git-r3	b8e8c92aa5fe8df7187e466138eb4e52
 _md5_=351e29b1e4e8150bd8123e693be14726
