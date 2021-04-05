@@ -261,7 +261,6 @@ net-libs/ustream-ssl 9999: A general purpose library for the OpenWRT project.
 net-libs/zoidcom 0.6.5 0.6.7 0.6.10: High-level, UDP-based networking library
 net-misc/6tunnel 9999: TCP proxy for applications that don't speak IPv6
 net-misc/drawterm 9999: drawterm – connect to Plan 9 CPU servers from other operating systems
-net-misc/fastd 18: Fast and Secure Tunneling Daemon (fastd)
 net-misc/gnurl 7.54.1: libgnurl is a fork of libcurl, which is mostly for GNUnet but it might be usable for others, hence we're releasing the code on this website to the general public
 net-misc/gopher 3.0.13: Distributed Hypertext Client, Gopher protocol
 net-misc/killcx 1.0.3: Close a TCP connection
