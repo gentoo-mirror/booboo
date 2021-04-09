@@ -72,7 +72,6 @@ app-text/epub2pdf 0.5: epub2pdf is a command-line tool that quickly generates PD
 app-text/htmltidy 99999999: The granddaddy of HTML tools, with support for modern standards
 app-text/paps 0.7.1: Unicode-aware text to PostScript converter
 app-text/uniutils 2.27: This package consists of a set of programs for manipulating and analyzing Unicode text. The analysis utilities are useful when working with Unicode files when one doesn't know the writing system, doesn't have the necessary font, needs to inspect invisible characters, needs to find out whether characters have been combined or in what order they occur, or needs statistics on which characters occur.
-app-text/xml2rfc 2.9.2 2.9.9 2.10.0: Xml2rfc generates RFCs and IETF drafts from document source in XML according to the dtd in RFC2629.
 app-vim/ledger-syntax 9999: vim plugin: app-office/ledger file format syntax
 app-vim/rc-syntax 20091204 20091226: vim plugin: rc shell script syntax highlighting
 app-vim/vim-xkbswitch 0.14.1 0.14.3: easily switch current keyboard layout when entering and leaving Insert mode
@@ -117,31 +116,19 @@ dev-libs/msgpack 1.2.0: MessagePack is a binary-based efficient data interchange
 dev-libs/olm 3.1.4: An implementation of the Double Ratchet cryptographic ratchet in C++
 dev-libs/wiringPi 2.13 9999: A 'wiring' like library for the Raspberry Pi
 dev-perl/UI-Dialog 1.08: 
-dev-python/ansi2html 9999: Convert text with ANSI color codes to HTML
-dev-python/bitcoin 1.1.27 1.1.42: Python Bitcoin Tools
 dev-python/canonicaljson 1.4.0: Canonical JSON
 dev-python/cflib 0.1.3 0.1.6 0.1.7: A simple wrapper around optparse for powerful command line utilities.
-dev-python/dnschain 0.1.0: A Python DNSChain library
 dev-python/frozendict 1.2-r1: An immutable dictionary
-dev-python/lfmh 1.1.1: A Last.fm API interface.
 dev-python/matrix-nio 9999: A Python Matrix client library, designed according to sans I/O principles
 dev-python/matrix-python-sdk 9999: Matrix Client-Server SDK for Python 2 and 3
-dev-python/notify2 0.3: Python interface to DBus notifications
 dev-python/peewee 3.8.1: Small python ORM
 dev-python/prometheus_client 0.7.1-r1: Python client for the Prometheus monitoring system
 dev-python/pycparser 9999: C parser and AST generator written in Python
-dev-python/pyee 0.1.0: A port of node.js's EventEmitter to python.
-dev-python/pyelliptic 1.5.6: Python OpenSSL wrapper for modern cryptography with ECC, AES, HMAC, Blowfish, ...
 dev-python/pymacaroons 0.13.0: PyMacaroons is a Python implementation of Macaroons. They’re better than cookies!
-dev-python/pynacl 9999: PyNaCl is a Python binding to the Networking and Cryptography library, a crypto library with the stated goal of improving usability, security and speed.
-dev-python/pystun 0.1.0: A Python STUN client for getting NAT type and external IP (RFC 3489)
-dev-python/python-obelisk 0.1.3 9999: (A OpenBazaar's clone of) Python native client for the obelisk blockchain server.
 dev-python/python-olm 3.1.5: Python bindings for the Olm C library
 dev-python/pythonocc 0.18.1 9999: Python Interface to OpenCASCADE CAD library
 dev-python/pythonocc-cadquery 9999: Python Interface to OpenCASCADE CAD library, CadQuery fork
 dev-python/signedjson 1.1.0: Signs JSON objects with ED25519 signatures.
-dev-python/txrestapi 0.2: Easing the creation of REST API services in Python
-dev-python/txrudp 9999: Implementation of a Reliable UDP Protocol Layer over Twisted.
 dev-python/unpaddedbase64 1.1.0-r1: Unpadded Base64
 dev-qt/libgq 0.2: This is libgq, a set of small libraries with Q wrappers for G things.
 dev-qt/qt3support 4.8.7: The Qt3Support module for the Qt toolkit
@@ -193,7 +180,6 @@ games-simulation/simutrans-extended-britain128 9999: Britain pakset for Simutran
 games-simulation/simutrans-extended-sweden128 9999: Sweden pakset for Simutrans Extended
 games-strategy/7kaa 9999: Seven Kingdoms: Ancient Adversaries
 games-strategy/StarRuler2 9999: 4X Space Strategy game
-games-strategy/freeorion 9999-r16: A free turn-based space empire and galactic conquest game
 games-strategy/hedgewars 9999: Free Worms-like turn based strategy game
 games-strategy/ufoai 9999: UFO: Alien Invasion - X-COM inspired strategy game
 gnome-base/gconf 2.18.0.1: Gnome Configuration System and Daemon
@@ -243,7 +229,6 @@ net-fs/ufs 0.2: libspfs-based daemon that shares the local filesystem over 9P
 net-im/biboumi 2.0 4.2 9999: XMPP gateway to IRC.
 net-im/hatexmpp 9999: hatexmpp is a xmpp-client featuring ii-like interface
 net-im/psyced 20090617: Server for Decentralized Messaging and Chat over PSYC, IRC, Jabber/XMPP and more
-net-im/pyimapsmtpt 9999: An xmpp transport (or bot, possibly to-be-done) that allows using IMAP+SSMTP (e.g. gmail's) from an XMPP client.
 net-im/swiften 3.0_beta2: Just a perfect C++ XMPP library
 net-im/synapse 1.23.1: Reference implementation of Matrix homeserver
 net-im/telegram-cli 9999-r1: Command line interface client for Telegram
@@ -324,7 +309,6 @@ sys-libs/libcal 9999: Configuration Access Library
 sys-libs/libspfs 0.2: Library for writing 9P2000 compliant user-space file servers that can be mounted using v9fs file system.
 virtual/libusb 0-r3: Virtual for libusb
 www-client/serpent 2020.11.25 2021.01.05: A XUL-based web-browser demonstrating the Unified XUL Platform (UXP).
-www-client/uzbl 9999-r1: Web interface tools which adhere to the unix philosophy.
 www-servers/lighttpd 2.9999: Lightweight high-performance web server
 www-servers/uhttpd 9999: OpenWRT HTTP server
 x11-apps/arbtt 9999: Automatic Rule-Based Time Tracker
