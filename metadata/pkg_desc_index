@@ -105,7 +105,6 @@ dev-lang/kdb+ 9999: K is a proprietary array processing language.
 dev-lang/kona 9999: Kona is an open-source implementation of the K programming language.
 dev-lang/openapl 0.14: OpenAPL is an open-source APL (A Programming Language) implementation. APL's strength is in the ease with which a programmer can manipulate arrays of numbers or characters.
 dev-lang/owl 0.7.6: owl means Obfuscated Weird Language, and it's my main project regarding obfuscated programming languages. It was born from the ashes of bogusforth (another older language of mine, not longer maintained), but it's a different thing. Its foundations are simplicity, strength and power.
-dev-lang/psyclpc 20090321: psycLPC is a multi-user network server programming language
 dev-lang/sedsed 9999: Sedsed can debug, indent, tokenize and HTMLize your SED scripts.
 dev-libs/cbang 9999: C! (cbang) is a library of cross-platform C++ utilities
 dev-libs/libnfc 9999: Near Field Communications (NFC) library
@@ -166,7 +165,6 @@ dev-util/lemon 3.16.2 3.31.1: A LALR(1) parser generator
 dev-util/uefitool 0.28.0: UEFI firmware image viewer and editor
 dev-util/waitgdb 9999: Stop the program on crash to allow attaching a debugger (like gdb)
 games-action/teeworlds 0.7.5: Online multi-player platform 2D shooter
-games-arcade/jumpnbump 1.55: a funny multiplayer game about cute little fluffy bunnies
 games-arcade/taisei 1.0a 9999: Taisei (lit. Occident) is a fan-made, Open Source clone of the Touhou series, written in C using SDL/OpenGL/OpenAL.
 games-board/glgo 1.4.1: PANDA-glGo is a board interface for Go games
 games-board/qgo2 9999: qGo is a full featured SGF editor and Go Client.
@@ -183,7 +181,6 @@ games-simulation/simutrans-extended-sweden128 9999: Sweden pakset for Simutrans 
 games-strategy/7kaa 9999: Seven Kingdoms: Ancient Adversaries
 games-strategy/StarRuler2 9999: 4X Space Strategy game
 games-strategy/hedgewars 9999: Free Worms-like turn based strategy game
-games-strategy/ufoai 9999: UFO: Alien Invasion - X-COM inspired strategy game
 gnome-base/gconf 2.18.0.1: Gnome Configuration System and Daemon
 mail-client/mutt 9999: A small but very powerful text-based mail client
 media-fonts/arialuni 2: Arial Unicode MS Font is an extended version of font Arial
@@ -202,7 +199,6 @@ media-gfx/solvespace 9999: Parametric 2d/3d CAD
 media-gfx/sxiv 1.3.2: Simple (or small or suckless) X Image Viewer
 media-gfx/vuescan 8.6.38 9999: A high-quality scanning and digital camera raw image processing software.
 media-libs/esdl 1.3.1: Erlang bindings for the SDL library
-media-libs/libdts 0.0.2-r3: library for decoding DTS Coherent Acoustics streams used in DVD
 media-libs/libmafw 0.2.2010.06: The Multimedia Applications FrameWork (MAFW) complements GStreamer to enhance the multimedia experience in the Maemo platform, providing developers with a flexible, easy to use, and extensible high-level layer on top of other included multimedia-related technologies.
 media-libs/libmafw-shared 0.3.2010.36: The Multimedia Applications FrameWork (MAFW) complements GStreamer to enhance the multimedia experience in the Maemo platform, providing developers with a flexible, easy to use, and extensible high-level layer on top of other included multimedia-related technologies.
 media-libs/mediastreamer 2.12.1 2.14.0 9999: Mediastreaming library for telephony application
@@ -221,10 +217,8 @@ media-sound/rsound 1.1: RSound is a networked audio system. It allows applicatio
 media-sound/scrobbler 1.1.4: A command-line Last.fm scrobbler and a now-playing status updater.
 media-sound/sonic 9999: Simple library to speed up or slow down speech
 media-video/eviacam 9999: webcam based mouse emulator
-media-video/motion 9999-r1: A fork of the software motion detector
 net-analyzer/nmap_vulscan 2.0: A NSE vulnerability scanner which uses an offline version of different vulnerability databases
 net-dialup/picocom 2.1 9999: minimal dumb-terminal emulation program
-net-fs/davfs2 1.5.2: Linux FUSE (or coda) driver that allows you to mount a WebDAV resource
 net-fs/diod 1.0.24: Distributed I/O Daemon - a 9P file server
 net-fs/u9fs 9999: 9P2000 Server
 net-fs/ufs 0.2: libspfs-based daemon that shares the local filesystem over 9P
@@ -255,7 +249,6 @@ net-misc/mbpoll 9999: command line utility to communicate with ModBus slave (RTU
 net-misc/mbusd 9999: 
 net-misc/mobos-gui 9999: A simple QML GUI to use with oFono
 net-misc/n2n 9999-r1: A Layer Two Peer-to-Peer VPN
-net-misc/radvd 9999: Linux IPv6 Router Advertisement Daemon
 net-misc/trackma 9999: Open multi-site list manager for media tracking sites
 net-misc/vuurmuur_conf 0.7: Iptables frontend. Ncurses GUI, for administration and monitoring.
 net-misc/wide-dhcpv6 20080615-r2: DHCP Client and Server originally developed by KAME Project
@@ -273,7 +266,6 @@ net-voip/gnome-ring 9999: Ring is a Voice-over-IP software phone.
 net-voip/re 0.4.14 0.4.15: Libre is a portable and generic library for real-time communications with async IO support and a complete SIP stack with support for SDP, RTP/RTCP, STUN/TURN/ICE, BFCP and DNS Client
 net-voip/ring-daemon 9999: Ring is a Voice-over-IP software phone.
 net-vpn/iodine 9999: IP over DNS tunnel
-net-vpn/miredo 1.2.6: Miredo is an open-source Teredo IPv6 tunneling software
 net-wireless/crda 1.0.1-r1: Central Regulatory Domain Agent for wireless networks.
 net-wireless/kalibrate-rtl 9999: fork of http://thre.at/kalibrate/ for use with rtl-sdr devices
 net-wireless/rtl-sdr 9999: turns your Realtek RTL2832 based DVB dongle into a SDR receiver, tejeez fork
@@ -284,13 +276,11 @@ sci-geosciences/florb 9999: florb is a really simple map viewer and GPX editor w
 sci-geosciences/navit 9999-r1: An open-source car navigation system with a routing engine
 sci-libs/gdcm 2.4.4: Cross-platform DICOM implementation
 sci-libs/libarea 9999: Library and python module for pocketing and profiling operations
-sci-libs/libecwj2 3.3-r1: Library for both the ECW and the ISO JPEG 2000 image file formats
 sci-libs/mpir 2.7.2: Library for arbitrary precision integer arithmetic (fork of gmp)
 sci-libs/oce 0.18.1: Development platform for CAD/CAE, 3D surface/solid modeling and data exchange
 sci-mathematics/cgal 5.0.2: C++ library for geometric algorithms and data structures
 sci-misc/elmer-fem 9999-r1: Finite element programs, libraries, and visualization tools - main fem
 sci-misc/gcam 9999: GCAM Special Edition - 2.5D CAD/CAM with G-code output
-sys-apps/915resolution 0.5.3: Utility to patch VBIOS of Intel 855 / 865 / 915 chipsets
 sys-apps/9mount 1.3 9999: A set of SUID mounting tools for use with v9fs.
 sys-apps/con2fbmap 2.1.28: Shows and sets mapping between consoles and framebuffer devices
 sys-apps/ksm_preload 9999: Enables legacy applications to leverage Linux's memory deduplication.
@@ -316,7 +306,6 @@ www-servers/uhttpd 9999: OpenWRT HTTP server
 x11-apps/arbtt 9999: Automatic Rule-Based Time Tracker
 x11-apps/xkb-switch 9999: Switch your X keyboard layouts from the command line
 x11-drivers/synaptics 0.14.6-r2: Driver for Synaptics touchpads
-x11-libs/xosd 2.2.14-r2: Library for overlaying text in X-Windows X-On-Screen-Display plus binary for sending text from CLI
 x11-misc/i3lock-color 9999: An improved i3lock
 x11-misc/pakej 9999: Status bar daemon
 x11-misc/run_scaled 9999: Run an X application scaled via xpra. Useful on hidpi screens.
