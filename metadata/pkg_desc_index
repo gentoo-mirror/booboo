@@ -116,6 +116,7 @@ dev-libs/msgpack 1.2.0: MessagePack is a binary-based efficient data interchange
 dev-libs/olm 3.1.4: An implementation of the Double Ratchet cryptographic ratchet in C++
 dev-libs/wiringPi 2.13 9999: A 'wiring' like library for the Raspberry Pi
 dev-perl/UI-Dialog 1.08: 
+dev-python/ansi2html 9999: Convert text with ANSI color codes to HTML
 dev-python/canonicaljson 1.4.0: Canonical JSON
 dev-python/cflib 0.1.3 0.1.6 0.1.7: A simple wrapper around optparse for powerful command line utilities.
 dev-python/frozendict 1.2-r1: An immutable dictionary

@@ -89,11 +89,6 @@ sci-mathematics/cgal:ntl - Enable support for dev-libs/ntl
 sys-apps/nix:etc_profile - Install /etc/profile.d/ entry to inject nix support for all users.
 sys-apps/nix:gc - Enable garbage collection in the Nix expression evaluator (use dev-libs/boehm-gc).
 sys-apps/usb_modeswitch:jimtcl - Use dev-lang/jimtcl instead of dev-lang/tcl for smaller memory footprint
-www-client/uzbl:browser - Install the uzbl-browser script
-www-client/uzbl:experimental - Enable experimental branch
-www-client/uzbl:gtk3 - Use x11-libs/gtk+:3 instead of x11-libs/gtk+:2
-www-client/uzbl:helpers - Optional tools used by uzbl scripts
-www-client/uzbl:tabbed - Install the uzbl-tabbed script
 www-servers/lighttpd:memcache - Enable memcache support for mod_cml and mod_trigger_b4_dl
 www-servers/lighttpd:rrdtool - Enable rrdtool support via mod_rrdtool
 www-servers/lighttpd:webdav - Enable webdav properties
