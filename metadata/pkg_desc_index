@@ -120,6 +120,7 @@ dev-python/ansi2html 9999: Convert text with ANSI color codes to HTML
 dev-python/canonicaljson 1.4.0: Canonical JSON
 dev-python/cflib 0.1.3 0.1.6 0.1.7: A simple wrapper around optparse for powerful command line utilities.
 dev-python/frozendict 1.2-r1: An immutable dictionary
+dev-python/lfmh 1.1.1: A Last.fm API interface.
 dev-python/matrix-nio 9999: A Python Matrix client library, designed according to sans I/O principles
 dev-python/matrix-python-sdk 9999: Matrix Client-Server SDK for Python 2 and 3
 dev-python/peewee 3.8.1: Small python ORM
