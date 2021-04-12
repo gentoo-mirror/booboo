@@ -224,7 +224,6 @@ net-fs/u9fs 9999: 9P2000 Server
 net-fs/ufs 0.2: libspfs-based daemon that shares the local filesystem over 9P
 net-im/biboumi 2.0 4.2 9999: XMPP gateway to IRC.
 net-im/hatexmpp 9999: hatexmpp is a xmpp-client featuring ii-like interface
-net-im/psyced 20090617: Server for Decentralized Messaging and Chat over PSYC, IRC, Jabber/XMPP and more
 net-im/swiften 3.0_beta2: Just a perfect C++ XMPP library
 net-im/synapse 1.23.1: Reference implementation of Matrix homeserver
 net-im/telegram-cli 9999-r1: Command line interface client for Telegram
