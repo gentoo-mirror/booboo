@@ -263,6 +263,7 @@ net-voip/gnome-ring 9999: Ring is a Voice-over-IP software phone.
 net-voip/re 0.4.14 0.4.15: Libre is a portable and generic library for real-time communications with async IO support and a complete SIP stack with support for SDP, RTP/RTCP, STUN/TURN/ICE, BFCP and DNS Client
 net-voip/ring-daemon 9999: Ring is a Voice-over-IP software phone.
 net-vpn/iodine 9999: IP over DNS tunnel
+net-vpn/miredo 1.2.6: Miredo is an open-source Teredo IPv6 tunneling software
 net-wireless/crda 1.0.1-r1: Central Regulatory Domain Agent for wireless networks.
 net-wireless/kalibrate-rtl 9999: fork of http://thre.at/kalibrate/ for use with rtl-sdr devices
 net-wireless/rtl-sdr 9999: turns your Realtek RTL2832 based DVB dongle into a SDR receiver, tejeez fork
