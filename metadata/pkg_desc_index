@@ -270,6 +270,7 @@ net-wireless/kalibrate-rtl 9999: fork of http://thre.at/kalibrate/ for use with 
 net-wireless/rtl-sdr 9999: turns your Realtek RTL2832 based DVB dongle into a SDR receiver, tejeez fork
 sci-electronics/OpenBoardView 7.4_pre1: Linux SDL/ImGui edition software for viewing .brd files, intended as a drop-in replacement for the "Test_Link" software and "Landrex"
 sci-electronics/adms 9999: ADMS is a code generator for the Verilog-AMS language
+sci-electronics/qucs 0.0.19: Quite Universal Circuit Simulator in Qt4
 sci-geosciences/florb 9999: florb is a really simple map viewer and GPX editor written in C++ using the FLTK UI toolkit.
 sci-geosciences/navit 9999-r1: An open-source car navigation system with a routing engine
 sci-libs/gdcm 2.4.4: Cross-platform DICOM implementation
