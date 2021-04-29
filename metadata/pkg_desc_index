@@ -148,7 +148,6 @@ dev-qt/qtsvg 4.8.7: The SVG module for the Qt toolkit
 dev-qt/qttest 4.8.7: The QtTest module for unit testing Qt applications and libraries
 dev-qt/qttranslations 4.8.7: Translation files for the Qt toolkit
 dev-qt/qtxmlpatterns 4.8.7: The XmlPatterns module for the Qt toolkit
-dev-tcltk/bwidget 1.9.10: High-level widget set for Tcl/Tk
 dev-tcltk/tclgpg 9999-r1: Tcl interface to GNU Privacy Guard with interface similar to TclGPGME.
 dev-tcltk/tcludp 1.0.11: The Tcl UDP extension provides a simple library to support UDP socket in Tcl.
 dev-tcltk/tkcon 2.5-r1: Tk GUI console
