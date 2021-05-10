@@ -219,6 +219,7 @@ net-im/tkabber 9999-r6: GUI client for XMPP (Jabber) instant messaging protocol,
 net-libs/bctoolbox 0.2.0 9999: Utilities library used by Belledonne Communications softwares like belle-sip, mediastreamer2 and linphone.
 net-libs/liboping 9999: C library and ncurses based program to generate ICMP echo requests and ping multiple hosts at once
 net-libs/libringclient 9999: Ring is a Voice-over-IP software phone.
+net-libs/loudmouth 9999: Lightweight C Jabber library
 net-libs/miniupnpc 2.0: UPnP client library and a simple UPnP client
 net-libs/opendht 9999: A lightweight C++11 Distributed Hash Table implementation originally based on https://github.com/jech/dht by Juliusz Chroboczek.
 net-libs/ortp 0.25.0 0.27.0 9999: Open Real-time Transport Protocol (RTP, RFC3550) stack

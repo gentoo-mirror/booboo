@@ -1,0 +1,14 @@
+BDEPEND=>=dev-vcs/git-1.8.2.1[curl]
+DEFINED_PHASES=configure install prepare unpack
+DEPEND=>=dev-libs/glib-2.4 gnutls? ( >=net-libs/gnutls-1.4.0 ) openssl? ( dev-libs/openssl ) virtual/pkgconfig doc? ( >=dev-util/gtk-doc-am-1 <dev-util/gtk-doc-1.12 )
+DESCRIPTION=Lightweight C Jabber library
+EAPI=7
+HOMEPAGE=https://github.com/mcabber/loudmouth
+INHERIT=git-r3
+IUSE=openssl gnutls doc
+LICENSE=LGPL-2.1
+PROPERTIES=live
+RDEPEND=>=dev-libs/glib-2.4 gnutls? ( >=net-libs/gnutls-1.4.0 ) openssl? ( dev-libs/openssl )
+SLOT=0
+_eclasses_=git-r3	b8e8c92aa5fe8df7187e466138eb4e52
+_md5_=7cb553c337396da7a68b34cda980e092
