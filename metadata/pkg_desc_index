@@ -194,6 +194,7 @@ media-libs/libmafw-shared 0.3.2010.36: The Multimedia Applications FrameWork (MA
 media-libs/mediastreamer 2.12.1 2.14.0 9999: Mediastreaming library for telephony application
 media-libs/portaudio 9999: A free, cross-platform, open-source, audio I/O library
 media-libs/rem 0.4.6 0.4.7: Librem is a portable and generic library for real-time audio and video processing.
+media-plugins/alsa-plugin-rsound 9999-r1: RSound plugin for ALSA
 media-plugins/alsaequal 9999: a real-time adjustable equalizer plugin for ALSA
 media-sound/acousticbrainz-gui 9999: This client lets you submit your own audio features to the AcousticBrainz project.
 media-sound/ayfly 9999: Ayfly is a AY-891x emulator and player.
