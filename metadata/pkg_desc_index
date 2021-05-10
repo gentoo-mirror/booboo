@@ -63,6 +63,7 @@ app-misc/kdrill 6.5: Kanji quiz and a lookup tool for X, helps in memorizing Jap
 app-misc/run-mailcap 3.64: Run a program specified in the mailcap file based on a mime type
 app-misc/uimge 0.07.5.0: console application to post you pictures into web
 app-mobilephone/gsm-ussd 0.4.0.25: a script to send USSD (Unstructured Supplementary Services Data) queries to your broadband provider.
+app-mobilephone/vcf2csv 0.6.201011061941: vcf2csv is a command line tool to convert vcard files to html or csv.
 app-paludis/pink-update 9999: paludis port of etc-update
 app-text/apvlv 9999-r2: a PDF Viewer which behaviors like Vim
 app-text/catdoc 9999: Converter for Microsoft Word, Excel, PowerPoint and RTF files to text

@@ -1,0 +1,9 @@
+DEFINED_PHASES=compile install prepare
+DESCRIPTION=vcf2csv is a command line tool to convert vcard files to html or csv.
+EAPI=7
+HOMEPAGE=http://vcf2csv.sourceforge.net/
+KEYWORDS=~x86 ~amd64
+LICENSE=GPL-3
+SLOT=0
+SRC_URI=mirror://sourceforge/vcf2csv/vcf2csv/vcf2csv-0.6/vcf2csv-0.6-201011061941-src-bin.tgz
+_md5_=938f1e88f7445d042ba5add6575e0828
