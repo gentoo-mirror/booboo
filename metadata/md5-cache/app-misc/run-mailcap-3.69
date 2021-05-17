@@ -1,0 +1,10 @@
+DEFINED_PHASES=install
+DESCRIPTION=Run a program specified in the mailcap file based on a mime type
+EAPI=7
+HOMEPAGE=https://salsa.debian.org/debian/mailcap
+KEYWORDS=~amd64 ~x86
+LICENSE=public-domain
+RDEPEND=dev-lang/perl
+SLOT=0
+SRC_URI=http://deb.debian.org/debian/pool/main/m/mailcap/mailcap_3.69.tar.xz
+_md5_=11e538553e66df9406bff618164bc8c9
