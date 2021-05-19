@@ -12,9 +12,9 @@ EGIT_COMMIT="v${PV}"
 LICENSE="NEWLIB"
 SLOT="0"
 KEYWORDS="~x86 ~amd64"
-IUSE="qrcode smartcard unwind"
+IUSE="hw-wallet qrcode smartcard unwind"
 
-COMMON_DEPEND="net-p2p/monero:=
+COMMON_DEPEND="net-p2p/monero:=[daemon]
 	dev-db/lmdb:=
 	dev-qt/qtconcurrent:5
 	dev-qt/qtcore:5
@@ -48,7 +48,7 @@ src_configure () {
 	local mycmakeargs=(
 		-DBUILD_SHARED_LIBS=OFF
 		-DMANUAL_SUBMODULES=ON
-		-DUSE_DEVICE_TREZOR=OFF
+		-DUSE_DEVICE_TREZOR=$(usex hw-wallet)
 	)
 	cmake_src_configure
 }
