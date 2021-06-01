@@ -123,6 +123,7 @@ dev-python/prometheus_client 0.7.1-r1: Python client for the Prometheus monitori
 dev-python/pycparser 9999: C parser and AST generator written in Python
 dev-python/pymacaroons 0.13.0: PyMacaroons is a Python implementation of Macaroons. They’re better than cookies!
 dev-python/python-olm 3.1.5: Python bindings for the Olm C library
+dev-python/pythonocc 0.18.1 9999: Python Interface to OpenCASCADE CAD library
 dev-python/pythonocc-cadquery 9999: Python Interface to OpenCASCADE CAD library, CadQuery fork
 dev-python/signedjson 1.1.0: Signs JSON objects with ED25519 signatures.
 dev-python/unpaddedbase64 1.1.0-r1: Unpadded Base64
@@ -175,6 +176,7 @@ media-fonts/arialuni 2: Arial Unicode MS Font is an extended version of font Ari
 media-gfx/admesh 9999: CLI and C library for processing triangulated solid meshes
 media-gfx/antimony 9999: CAD from a parallel universe
 media-gfx/cadquery 9999: A parametric CAD scripting framework based on PythonOCC
+media-gfx/cq-editor 9999: CadQuery GUI editor based on PyQT
 media-gfx/genericcam 9999: Generic CAM is an open source tool path generator for CNC machines.
 media-gfx/ginkgocadx 9999: an advanced DICOM viewer and dicomizer that can also be used to convert png, jpeg, bmp, pdf, tiff to DICOM files
 media-gfx/heekscad 9999: Computer-Aided Design application based on OCE
