@@ -45,7 +45,6 @@ mail-client/mutt:sidebar - Use the vanilla tree + sidebar patch
 mail-client/mutt:smime - Enable support for smime
 mail-client/mutt:smtp - Enable support for smtp
 mail-client/mutt:tokyocabinet - Enable tokyocabinet database backend for header caching
-media-libs/esdl:image - Enable image support
 media-libs/mediastreamer:amr - Use of AMR Narrow Band codec plugin
 media-libs/mediastreamer:dtls - Turn on or off compilation of dtls
 media-libs/mediastreamer:filters - Enable compilation of filters
