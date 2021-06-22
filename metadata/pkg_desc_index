@@ -173,6 +173,7 @@ media-gfx/heekscad 9999: Computer-Aided Design application based on OCE
 media-gfx/heekscnc 9999: HeeksCAD-based CAM
 media-gfx/implicitcad 0.3.0.1 9999: Math-inspired programmatic 2&3D CAD: CSG, bevels, and shells; gcode export
 media-gfx/prusaslicer 9999: G-code generator for 3D printers (RepRap, Makerbot, Ultimaker etc.)
+media-gfx/qiv 9999: Quick Image Viewer
 media-gfx/solvespace 9999: Parametric 2d/3d CAD
 media-gfx/sxiv 1.3.2: Simple (or small or suckless) X Image Viewer
 media-libs/libmafw 0.2.2010.06: The Multimedia Applications FrameWork (MAFW) complements GStreamer to enhance the multimedia experience in the Maemo platform, providing developers with a flexible, easy to use, and extensible high-level layer on top of other included multimedia-related technologies.
@@ -194,6 +195,7 @@ media-sound/scrobbler 1.1.4: A command-line Last.fm scrobbler and a now-playing 
 media-sound/sonic 9999: Simple library to speed up or slow down speech
 media-video/eviacam 9999: webcam based mouse emulator
 net-analyzer/nmap_vulscan 2.0: A NSE vulnerability scanner which uses an offline version of different vulnerability databases
+net-dialup/picocom 9999: minimal dumb-terminal emulation program
 net-fs/diod 1.0.24: Distributed I/O Daemon - a 9P file server
 net-fs/ufs 0.2: libspfs-based daemon that shares the local filesystem over 9P
 net-im/biboumi 2.0 4.2 9999: XMPP gateway to IRC.
