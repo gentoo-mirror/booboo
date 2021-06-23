@@ -10,5 +10,5 @@ LICENSE=LGPL-2.1
 PROPERTIES=live
 RDEPEND=>=dev-libs/glib-2.4 gnutls? ( >=net-libs/gnutls-1.4.0 ) openssl? ( dev-libs/openssl )
 SLOT=0
-_eclasses_=git-r3	b8e8c92aa5fe8df7187e466138eb4e52
+_eclasses_=git-r3	cc875b0c1e9b3bdac1af0f82f3ba29da
 _md5_=7cb553c337396da7a68b34cda980e092
