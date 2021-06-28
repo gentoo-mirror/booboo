@@ -39,12 +39,6 @@ dev-qt/qtsvg:exceptions - Add support for exceptions - like catching them inside
 dev-qt/qttest:exceptions - Add support for exceptions - like catching them inside the event loop (recommended by upstream)
 dev-tcltk/tclgpg:helper - Compile C helper to run gpg binary
 games-simulation/corsix-th:midi - Adds support for background midis via media-sound/timidity++
-mail-client/mutt:gpg - Enable support for app-crypt/gpgme
-mail-client/mutt:pop - Enable support for pop
-mail-client/mutt:sidebar - Use the vanilla tree + sidebar patch
-mail-client/mutt:smime - Enable support for smime
-mail-client/mutt:smtp - Enable support for smtp
-mail-client/mutt:tokyocabinet - Enable tokyocabinet database backend for header caching
 media-libs/mediastreamer:amr - Use of AMR Narrow Band codec plugin
 media-libs/mediastreamer:dtls - Turn on or off compilation of dtls
 media-libs/mediastreamer:filters - Enable compilation of filters
