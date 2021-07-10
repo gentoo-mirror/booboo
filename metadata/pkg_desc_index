@@ -83,17 +83,9 @@ dev-embedded/stlink 9999-r1: On board debugger driver for stm32-discovery boards
 dev-embedded/stm32flash 0.4 0.5 0.6: Open source flash program for STM32 using the ST serial bootloader
 dev-embedded/yosys 9999: Yosys - Yosys Open SYnthesis Suite
 dev-go/ingo 9999: persistent storage for flags in go
-dev-haskell/blaze-svg 0.3.4.1: SVG combinator library
-dev-haskell/boolean 0.2.3: Generalized booleans and numbers
 dev-haskell/bytestring-progress 1.0.7 1.0.9 1.2: A library for tracking the consumption of a lazy ByteString
-dev-haskell/equational-reasoning 0.2.0.7: Proof assistant for Haskell using DataKinds & PolyKinds
-dev-haskell/memotrie 0.6.2: Trie-based memo functions
-dev-haskell/numinstances 1.4: Instances of numeric classes for functions and tuples
 dev-haskell/retry 9999: Retry combinators for monadic actions that may fail
-dev-haskell/storable-endian 0.2.5: Storable instances with endianness
 dev-haskell/terminal-progress-bar 0.2: A simple progress bar in the terminal
-dev-haskell/type-natural 0.3.0.0: Type-level natural and proofs of their properties
-dev-haskell/vector-space 0.10.2: Vector & affine spaces, linear maps, and derivatives
 dev-lang/kona 9999: Kona is an open-source implementation of the K programming language.
 dev-lang/sedsed 9999: Sedsed can debug, indent, tokenize and HTMLize your SED scripts.
 dev-libs/cbang 9999: C! (cbang) is a library of cross-platform C++ utilities
@@ -172,7 +164,7 @@ media-gfx/genericcam 9999: Generic CAM is an open source tool path generator for
 media-gfx/ginkgocadx 9999: an advanced DICOM viewer and dicomizer that can also be used to convert png, jpeg, bmp, pdf, tiff to DICOM files
 media-gfx/heekscad 9999: Computer-Aided Design application based on OCE
 media-gfx/heekscnc 9999: HeeksCAD-based CAM
-media-gfx/implicitcad 0.3.0.1 9999: Math-inspired programmatic 2&3D CAD: CSG, bevels, and shells; gcode export
+media-gfx/implicitcad 0.3.0.1 9999: A math-inspired programmatic 2D & 3D CAD system
 media-gfx/prusaslicer 9999: G-code generator for 3D printers (RepRap, Makerbot, Ultimaker etc.)
 media-gfx/qiv 9999: Quick Image Viewer
 media-gfx/solvespace 9999: Parametric 2d/3d CAD
@@ -269,10 +261,8 @@ virtual/libusb 0-r3: Virtual for libusb
 www-client/serpent 2020.11.25 2021.01.05 2021.04.27: A XUL-based web-browser demonstrating the Unified XUL Platform (UXP).
 www-servers/lighttpd 2.9999: Lightweight high-performance web server
 www-servers/uhttpd 9999: OpenWRT HTTP server
-x11-apps/arbtt 9999: Automatic Rule-Based Time Tracker
 x11-apps/xkb-switch 9999: Switch your X keyboard layouts from the command line
 x11-misc/i3lock-color 9999: An improved i3lock
-x11-misc/pakej 9999: Status bar daemon
 x11-misc/run_scaled 9999: Run an X application scaled via xpra. Useful on hidpi screens.
 x11-misc/xautoclick 0.31: xAutoClick is an application to reduce RSI by simulating multiple mouse clicks
 x11-misc/xss-lock 9999: Use external locker as X screen saver.
