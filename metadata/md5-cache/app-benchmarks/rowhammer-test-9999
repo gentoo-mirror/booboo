@@ -1,0 +1,11 @@
+BDEPEND=>=dev-vcs/git-1.8.2.1[curl]
+DEFINED_PHASES=compile install unpack
+DESCRIPTION=Test DRAM for bit flips caused by the rowhammer problem
+EAPI=7
+HOMEPAGE=https://github.com/google/rowhammer-test
+INHERIT=git-r3
+LICENSE=Apache-2.0
+PROPERTIES=live
+SLOT=0
+_eclasses_=git-r3	cc875b0c1e9b3bdac1af0f82f3ba29da
+_md5_=b92c0cb463614db392aee9f671520e23

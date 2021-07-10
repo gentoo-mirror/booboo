@@ -3,6 +3,7 @@ acct-user/miredo 0: System user: miredo
 app-accessibility/espeak-ng 9999: eSpeak NG - reborn of eSpeak TTS (Text-to-Speach engine)
 app-admin/conky 1.10.5-r1: An advanced, highly configurable system monitor for X
 app-benchmarks/STREAM 9999: a benchmark that measures sustainable memory bandwidth and computation rate
+app-benchmarks/rowhammer-test 9999: Test DRAM for bit flips caused by the rowhammer problem
 app-crypt/libsignal-protocol-c 9999: Signal Protocol C Library
 app-dicts/stardict-cdict-en-zh-big5 2.4.2: Stardict Dictionary English to Traditional Chinese (BIG5)
 app-dicts/stardict-cdict-en-zh-gb 2.4.2: Stardict Dictionary English to Simplified Chinese (GB)
