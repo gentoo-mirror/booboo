@@ -83,7 +83,7 @@ dev-embedded/stlink 9999-r1: On board debugger driver for stm32-discovery boards
 dev-embedded/stm32flash 0.4 0.5 0.6: Open source flash program for STM32 using the ST serial bootloader
 dev-embedded/yosys 9999: Yosys - Yosys Open SYnthesis Suite
 dev-go/ingo 9999: persistent storage for flags in go
-dev-haskell/bytestring-progress 1.0.7 1.0.9 1.2: A library for tracking the consumption of a lazy ByteString
+dev-haskell/bytestring-progress 1.2: A library for tracking the consumption of a lazy ByteString
 dev-haskell/retry 9999: Retry combinators for monadic actions that may fail
 dev-haskell/terminal-progress-bar 0.2: A simple progress bar in the terminal
 dev-lang/kona 9999: Kona is an open-source implementation of the K programming language.
@@ -164,7 +164,7 @@ media-gfx/genericcam 9999: Generic CAM is an open source tool path generator for
 media-gfx/ginkgocadx 9999: an advanced DICOM viewer and dicomizer that can also be used to convert png, jpeg, bmp, pdf, tiff to DICOM files
 media-gfx/heekscad 9999: Computer-Aided Design application based on OCE
 media-gfx/heekscnc 9999: HeeksCAD-based CAM
-media-gfx/implicitcad 0.3.0.1 9999: A math-inspired programmatic 2D & 3D CAD system
+media-gfx/implicitcad 0.3.0.1: A math-inspired programmatic 2D & 3D CAD system
 media-gfx/prusaslicer 9999: G-code generator for 3D printers (RepRap, Makerbot, Ultimaker etc.)
 media-gfx/qiv 9999: Quick Image Viewer
 media-gfx/solvespace 9999: Parametric 2d/3d CAD
