@@ -8,5 +8,5 @@ KEYWORDS=alpha amd64 ia64 mips ppc ppc64 sparc x86
 RDEPEND=x11-apps/xkb-switch || ( >=app-editors/vim-7.3 >=app-editors/gvim-7.3 )
 SLOT=0
 SRC_URI=http://www.vim.org/scripts/download_script.php?src_id=25033 -> vim-xkbswitch-0.15.tgz
-_eclasses_=vim-doc	e063cddf18e5d2f2cfb21388252579ec	vim-plugin	93be71a1efbbf62981fcd40ee0db6e3f
+_eclasses_=vim-doc	e063cddf18e5d2f2cfb21388252579ec	vim-plugin	0dc43a0d19e9cf28116eff88ffd07748
 _md5_=f8822bb078e202dbd99d0293b7f4901c
