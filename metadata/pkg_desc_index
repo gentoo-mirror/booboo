@@ -86,7 +86,6 @@ dev-haskell/bytestring-progress 1.2: A library for tracking the consumption of a
 dev-haskell/retry 9999: Retry combinators for monadic actions that may fail
 dev-haskell/terminal-progress-bar 0.2: A simple progress bar in the terminal
 dev-lang/kona 9999: Kona is an open-source implementation of the K programming language.
-dev-lang/sedsed 9999: Sedsed can debug, indent, tokenize and HTMLize your SED scripts.
 dev-libs/cbang 9999: C! (cbang) is a library of cross-platform C++ utilities
 dev-libs/libnfc 9999: Near Field Communications (NFC) library
 dev-libs/librs232 9999: multiplatform library for serial communications over RS-232 (serial port)
