@@ -54,7 +54,6 @@ app-dicts/stardict-xdict-en-zh-gb 2.4.2: Stardict Dictionary English to Simplifi
 app-dicts/stardict-xdict-zh-en-big5 2.4.2: Stardict Dictionary Traditional Chinese (BIG5) to English
 app-dicts/stardict-xdict-zh-en-gb 2.4.2: Stardict Dictionary Simplified Chinese (GB) to English
 app-editors/neovim-qt 9999: GUI version of the Neovim text editor
-app-eselect/eselect-qtgraphicssystem 1.1.1: Utility to change the active Qt Graphics System
 app-forensics/snowman 9999: A native code to C/C++ decompiler
 app-misc/co2mon 9999: CLI for MasterKit CO2 Monitor
 app-misc/crazyflie-clients-python 2017.06.1 2019.01: Host applications and library for Crazyflie written in Python.
