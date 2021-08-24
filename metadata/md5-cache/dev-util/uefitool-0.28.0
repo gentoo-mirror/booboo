@@ -1,5 +1,5 @@
 DEFINED_PHASES=configure install
-DEPEND=dev-qt/qtcore:5
+DEPEND=dev-qt/qtcore:5 dev-qt/qtgui:5 dev-qt/qtwidgets:5
 DESCRIPTION=UEFI firmware image viewer and editor
 EAPI=7
 HOMEPAGE=https://github.com/LongSoft/UEFITool
@@ -9,4 +9,4 @@ LICENSE=BSD
 SLOT=0
 SRC_URI=https://github.com/LongSoft/UEFITool/archive/0.28.0.tar.gz -> uefitool-0.28.0.tar.gz
 _eclasses_=toolchain-funcs	9ea1c67b6f8315fdc2568abb674519aa	multilib	97566c1a256d07b00848aa767e38a352	qmake-utils	f5eb2f69fffe94292aaaf802fb21c8d1
-_md5_=d21b16b4cbd37e0b8b241ffb0e4b378d
+_md5_=fefe35c846ea4bf4eae413d59edb58ef
