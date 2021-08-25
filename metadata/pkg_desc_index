@@ -84,7 +84,6 @@ dev-embedded/yosys 9999: Yosys - Yosys Open SYnthesis Suite
 dev-go/ingo 9999: persistent storage for flags in go
 dev-haskell/bytestring-progress 1.2: A library for tracking the consumption of a lazy ByteString
 dev-haskell/retry 9999: Retry combinators for monadic actions that may fail
-dev-haskell/terminal-progress-bar 0.2: A simple progress bar in the terminal
 dev-lang/kona 9999: Kona is an open-source implementation of the K programming language.
 dev-libs/cbang 9999: C! (cbang) is a library of cross-platform C++ utilities
 dev-libs/libnfc 9999: Near Field Communications (NFC) library
@@ -213,7 +212,6 @@ net-misc/yacy 1.92.20161226.9000: YaCy - p2p based distributed web-search engine
 net-misc/youtube-dlc 99999999: Download videos from YouTube.com (and more sites...)
 net-misc/zebedee 2.5.3-r1: A simple, free, secure TCP and UDP tunnel program
 net-p2p/bisq-bin 1.6.2: The decentralized bitcoin exchange (non-atomic, with arbitration)
-net-p2p/chimera 1.20: Chimera, a light-weight & efficient implementation of a structured peer-to-peer overlay network
 net-p2p/gnunet 9999-r1: GNUnet is a framework for secure peer-to-peer networking.
 net-p2p/gnunet-gtk 0.10.1 9999: GNUnet is a framework for secure peer-to-peer networking.
 net-p2p/monero-gui 0.17.2.0: GUI for net-p2p/monero
@@ -239,7 +237,6 @@ sys-apps/con2fbmap 2.1.28: Shows and sets mapping between consoles and framebuff
 sys-apps/ksm_preload 9999: Enables legacy applications to leverage Linux's memory deduplication.
 sys-apps/lfsb 0.4.4: A Linux utility to change the FSB frequency without having to reboot
 sys-apps/me_cleaner 9999: Tool for partial deblobbing of Intel ME/TXE firmware images
-sys-apps/nix 1.11.1: A purely functional package manager
 sys-apps/usb_modeswitch 2.2.5_p20150627: USB_ModeSwitch is a tool for controlling 'flip flop' (multiple devices) USB gear like UMTS sticks
 sys-apps/vbtracetool 9999: Video bios execution tracing widget
 sys-auth/linux-sgx-driver 9999: Intel(R) Software Guard Extensions for Linux* OS
