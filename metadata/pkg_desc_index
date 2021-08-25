@@ -141,7 +141,6 @@ dev-util/iaito 9999: A Qt and C++ GUI for radare2 reverse engineering framework
 dev-util/lemon 3.16.2 3.31.1: A LALR(1) parser generator
 dev-util/uefitool 0.28.0: UEFI firmware image viewer and editor
 dev-util/waitgdb 9999: Stop the program on crash to allow attaching a debugger (like gdb)
-games-arcade/taisei 1.0a 9999: Taisei (lit. Occident) is a fan-made, Open Source clone of the Touhou series, written in C using SDL/OpenGL/OpenAL.
 games-board/qgo2 9999: qGo is a full featured SGF editor and Go Client.
 games-board/rftg 0.9.4 9999: "Race for the Galaxy" card game.
 games-fps/unvanquished-data 0.51.1: Datafiles and maps for unvanquished
@@ -153,7 +152,6 @@ games-simulation/simutrans-extended-sweden128 9999: Sweden pakset for Simutrans 
 games-strategy/7kaa 9999: Seven Kingdoms: Ancient Adversaries
 games-strategy/StarRuler2 9999: 4X Space Strategy game
 gnome-base/gconf 2.18.0.1: Gnome Configuration System and Daemon
-media-fonts/arialuni 2: Arial Unicode MS Font is an extended version of font Arial
 media-gfx/admesh 9999: CLI and C library for processing triangulated solid meshes
 media-gfx/antimony 9999: CAD from a parallel universe
 media-gfx/cadquery 9999: A parametric CAD scripting framework based on PythonOCC
