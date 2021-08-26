@@ -81,7 +81,6 @@ dev-embedded/slsnif 0.4.4 9999: Serial port logging utility
 dev-embedded/stlink 9999-r1: On board debugger driver for stm32-discovery boards
 dev-embedded/stm32flash 0.4 0.5 0.6: Open source flash program for STM32 using the ST serial bootloader
 dev-embedded/yosys 9999: Yosys - Yosys Open SYnthesis Suite
-dev-go/ingo 9999: persistent storage for flags in go
 dev-haskell/bytestring-progress 1.2: A library for tracking the consumption of a lazy ByteString
 dev-haskell/retry 9999: Retry combinators for monadic actions that may fail
 dev-lang/kona 9999: Kona is an open-source implementation of the K programming language.
@@ -168,7 +167,6 @@ media-libs/libmafw 0.2.2010.06: The Multimedia Applications FrameWork (MAFW) com
 media-libs/libmafw-shared 0.3.2010.36: The Multimedia Applications FrameWork (MAFW) complements GStreamer to enhance the multimedia experience in the Maemo platform, providing developers with a flexible, easy to use, and extensible high-level layer on top of other included multimedia-related technologies.
 media-libs/mediastreamer 2.12.1 2.14.0 9999: Mediastreaming library for telephony application
 media-libs/portaudio 9999: A free, cross-platform, open-source, audio I/O library
-media-libs/rem 0.4.6 0.4.7: Librem is a portable and generic library for real-time audio and video processing.
 media-plugins/alsa-plugin-rsound 9999-r1: RSound plugin for ALSA
 media-plugins/alsaequal 9999: a real-time adjustable equalizer plugin for ALSA
 media-sound/acousticbrainz-gui 9999: This client lets you submit your own audio features to the AcousticBrainz project.
@@ -215,7 +213,6 @@ net-p2p/bisq-bin 1.6.2: The decentralized bitcoin exchange (non-atomic, with arb
 net-p2p/gnunet 9999-r1: GNUnet is a framework for secure peer-to-peer networking.
 net-p2p/gnunet-gtk 0.10.1 9999: GNUnet is a framework for secure peer-to-peer networking.
 net-p2p/monero-gui 0.17.2.0: GUI for net-p2p/monero
-net-voip/baresip 9999: Baresip is a portable and modular SIP User-Agent with audio and video support.
 net-voip/gnome-ring 9999: Ring is a Voice-over-IP software phone.
 net-voip/re 0.4.14 0.4.15: Libre is a portable and generic library for real-time communications with async IO support and a complete SIP stack with support for SDP, RTP/RTCP, STUN/TURN/ICE, BFCP and DNS Client
 net-voip/ring-daemon 9999: Ring is a Voice-over-IP software phone.
