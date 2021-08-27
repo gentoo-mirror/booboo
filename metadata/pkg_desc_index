@@ -181,7 +181,6 @@ media-sound/sonic 9999: Simple library to speed up or slow down speech
 media-video/eviacam 9999: webcam based mouse emulator
 net-analyzer/nmap_vulscan 2.0: A NSE vulnerability scanner which uses an offline version of different vulnerability databases
 net-dialup/picocom 9999: minimal dumb-terminal emulation program
-net-fs/diod 1.0.24: Distributed I/O Daemon - a 9P file server
 net-fs/ufs 0.2: libspfs-based daemon that shares the local filesystem over 9P
 net-im/biboumi 2.0 4.2 9999: XMPP gateway to IRC.
 net-im/hatexmpp 9999: hatexmpp is a xmpp-client featuring ii-like interface

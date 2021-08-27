@@ -6,4 +6,4 @@ KEYWORDS=~x86 ~amd64
 LICENSE=GPL-3
 SLOT=0
 SRC_URI=mirror://sourceforge/vcf2csv/vcf2csv/vcf2csv-0.6/vcf2csv-0.6-201011061941-src-bin.tgz
-_md5_=938f1e88f7445d042ba5add6575e0828
+_md5_=e715217f4329d67c6b948b085d5cd044
