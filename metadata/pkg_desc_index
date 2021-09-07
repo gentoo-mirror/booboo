@@ -237,9 +237,12 @@ sys-boot/dracut-tuxonice 9999: TuxOnIce module for dracut.
 sys-boot/sedutil 9999: The Drive Trust Alliance Self Encrypting Drive Utility
 sys-devel/ct-ng 9999: crosstool-ng is a tool to build cross-compiling toolchains
 sys-fs/nullfs 9999: FUSE /dev/null equivalent for directories
+sys-fs/udev-zero 9999: Drop-in replacement for libudev intended to work with any device manager
 sys-libs/libcal 9999: Configuration Access Library
 sys-libs/libspfs 0.2: Library for writing 9P2000 compliant user-space file servers that can be mounted using v9fs file system.
+virtual/libudev 9999: Virtual for libudev providers
 virtual/libusb 0-r3: Virtual for libusb
+virtual/udev 9999: Virtual to select between different udev daemon providers
 www-client/serpent 2021.04.27: A XUL-based web-browser demonstrating the Unified XUL Platform (UXP).
 www-servers/lighttpd 2.9999: Lightweight high-performance web server
 www-servers/uhttpd 9999: OpenWRT HTTP server
