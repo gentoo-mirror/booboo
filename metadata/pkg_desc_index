@@ -73,6 +73,7 @@ app-vim/vim-xkbswitch 0.15: easily switch current keyboard layout when entering 
 dev-cpp/litesql 9999: (Louiz's fork of the) Integrates C++ objects tightly to relational database and thus provides an object persistence layer.
 dev-embedded/arachne-pnr 9999: Arachne PNR - free and open-source place and route tool for FPGAs
 dev-embedded/esptool2 9999: An esp8266 rom creation tool
+dev-embedded/hid-tools 9999: a set of tools to interact with the kernel's HID subsystem
 dev-embedded/icestorm 9999: IceStorm - tools for analyzing and creating bitstreams for Lattice iCE40 FPGAs
 dev-embedded/icoprog 9999: IceProg version for IcoBoard PiHat
 dev-embedded/libmpsse 1.3.2 9999: Open source library for SPI/I2C control via FTDI chips
