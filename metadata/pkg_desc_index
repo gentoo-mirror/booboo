@@ -110,22 +110,6 @@ dev-python/pythonocc-cadquery 9999: Python Interface to OpenCASCADE CAD library,
 dev-python/signedjson 1.1.0: Signs JSON objects with ED25519 signatures.
 dev-python/unpaddedbase64 1.1.0-r1: Unpadded Base64
 dev-qt/libgq 0.2: This is libgq, a set of small libraries with Q wrappers for G things.
-dev-qt/qt3support 4.8.7: The Qt3Support module for the Qt toolkit
-dev-qt/qtbearer 4.8.7: The network bearer plugins for the Qt toolkit
-dev-qt/qtcore 4.8.7-r4: Cross-platform application development framework
-dev-qt/qtdbus 4.8.7: The DBus module for the Qt toolkit
-dev-qt/qtdeclarative 4.8.7: The Declarative module for the Qt toolkit
-dev-qt/qtdemo 4.8.7: Demonstration module and examples for the Qt toolkit
-dev-qt/qtgui 4.8.7: The GUI module for the Qt toolkit
-dev-qt/qthelp 4.8.7: The Help module for the Qt toolkit
-dev-qt/qtmultimedia 4.8.7: The Multimedia module for the Qt toolkit
-dev-qt/qtopengl 4.8.7: The OpenGL module for the Qt toolkit
-dev-qt/qtscript 4.8.7: The QtScript module for the Qt toolkit
-dev-qt/qtsql 4.8.7-r1: The SQL module for the Qt toolkit
-dev-qt/qtsvg 4.8.7: The SVG module for the Qt toolkit
-dev-qt/qttest 4.8.7: The QtTest module for unit testing Qt applications and libraries
-dev-qt/qttranslations 4.8.7: Translation files for the Qt toolkit
-dev-qt/qtxmlpatterns 4.8.7: The XmlPatterns module for the Qt toolkit
 dev-tcltk/tclgpg 9999-r1: Tcl interface to GNU Privacy Guard with interface similar to TclGPGME.
 dev-tcltk/tcludp 1.0.11: The Tcl UDP extension provides a simple library to support UDP socket in Tcl.
 dev-tcltk/tkcon 2.5-r1: Tk GUI console
@@ -167,7 +151,6 @@ media-gfx/sxiv 1.3.2: Simple (or small or suckless) X Image Viewer
 media-libs/mediastreamer 2.12.1 2.14.0 9999: Mediastreaming library for telephony application
 media-libs/portaudio 9999: A free, cross-platform, open-source, audio I/O library
 media-plugins/alsa-plugin-rsound 9999-r1: RSound plugin for ALSA
-media-plugins/alsaequal 9999: a real-time adjustable equalizer plugin for ALSA
 media-sound/acousticbrainz-gui 9999: This client lets you submit your own audio features to the AcousticBrainz project.
 media-sound/ayfly 9999: Ayfly is a AY-891x emulator and player.
 media-sound/cmusfm 0.1.2: Last.fm scrobbler for cmus music player
@@ -242,7 +225,6 @@ sys-kernel/linux-firmware 20210919: Linux firmware files
 sys-libs/libcal 9999: Configuration Access Library
 sys-libs/libspfs 0.2: Library for writing 9P2000 compliant user-space file servers that can be mounted using v9fs file system.
 virtual/libudev 9999: Virtual for libudev providers
-virtual/libusb 0-r3: Virtual for libusb
 virtual/udev 9999: Virtual to select between different udev daemon providers
 www-client/serpent 2021.04.27: A XUL-based web-browser demonstrating the Unified XUL Platform (UXP).
 www-servers/lighttpd 2.9999: Lightweight high-performance web server
