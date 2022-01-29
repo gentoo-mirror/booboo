@@ -3,40 +3,6 @@
 # * generated automatically using pmaint *
 
 dev-libs/libnfc:pcsc-lite - Enable NFC drivers that require pcsc-lite
-dev-qt/qt3support:exceptions - Add support for exceptions - like catching them inside the event loop (recommended by upstream)
-dev-qt/qtbearer:exceptions - Add support for exceptions - like catching them inside the event loop (recommended by upstream)
-dev-qt/qtcore:exceptions - Add support for exceptions - like catching them inside the event loop (recommended by upstream)
-dev-qt/qtcore:glib - Enable dev-libs/glib eventloop support
-dev-qt/qtcore:qt3support - Enable the Qt3Support libraries for Qt4. Note that this does not mean you can compile pure Qt3 programs with Qt4.
-dev-qt/qtdbus:exceptions - Add support for exceptions - like catching them inside the event loop (recommended by upstream)
-dev-qt/qtdeclarative:exceptions - Add support for exceptions - like catching them inside the event loop (recommended by upstream)
-dev-qt/qtdeclarative:qt3support - Enable the Qt3Support libraries for Qt4. Note that this does not mean you can compile pure Qt3 programs with Qt4.
-dev-qt/qtdeclarative:webkit - Build the WebView QML component
-dev-qt/qtdemo:dbus - Build QtDBus examples and demos
-dev-qt/qtdemo:declarative - Build QtDeclarative examples and demos
-dev-qt/qtdemo:exceptions - Add support for exceptions - like catching them inside the event loop (recommended by upstream)
-dev-qt/qtdemo:multimedia - Build QtMultimedia examples and demos
-dev-qt/qtdemo:opengl - Build QtOpenGL examples and demos
-dev-qt/qtdemo:phonon - Build Phonon examples and demos
-dev-qt/qtdemo:webkit - Build QtWebKit examples and demos
-dev-qt/qtdemo:xmlpatterns - Build QtXmlPatterns examples and demos
-dev-qt/qtgui:egl - Enable EGL integration
-dev-qt/qtgui:exceptions - Add support for exceptions - like catching them inside the event loop (recommended by upstream)
-dev-qt/qtgui:glib - Enable integration with the dev-libs/glib event loop
-dev-qt/qtgui:gtkstyle - Build a widgets style that mimics the active GTK+ theme
-dev-qt/qtgui:qt3support - Enable the Qt3Support libraries for Qt4. Note that this does not mean you can compile pure Qt3 programs with Qt4.
-dev-qt/qtgui:trace - Build the 'trace' graphicssystem engine which allows to record all drawing operations into a trace buffer. The trace can be replayed later with the qttracereplay tool.
-dev-qt/qthelp:compat - Build the extra compatibility layer required by a few packages, see http://blog.qt.io/blog/2010/06/22/qt-assistant-compat-version-available-as-extra-source-package/
-dev-qt/qthelp:exceptions - Add support for exceptions - like catching them inside the event loop (recommended by upstream)
-dev-qt/qtmultimedia:exceptions - Add support for exceptions - like catching them inside the event loop (recommended by upstream)
-dev-qt/qtopengl:egl - Use EGL instead of GLX to manage OpenGL contexts
-dev-qt/qtopengl:exceptions - Add support for exceptions - like catching them inside the event loop (recommended by upstream)
-dev-qt/qtopengl:qt3support - Enable the Qt3Support libraries for Qt4
-dev-qt/qtscript:exceptions - Add support for exceptions - like catching them inside the event loop (recommended by upstream)
-dev-qt/qtsql:exceptions - Add support for exceptions - like catching them inside the event loop (recommended by upstream)
-dev-qt/qtsql:qt3support - Enable the Qt3Support libraries for Qt4
-dev-qt/qtsvg:exceptions - Add support for exceptions - like catching them inside the event loop (recommended by upstream)
-dev-qt/qttest:exceptions - Add support for exceptions - like catching them inside the event loop (recommended by upstream)
 dev-tcltk/tclgpg:helper - Compile C helper to run gpg binary
 games-simulation/corsix-th:midi - Adds support for background midis via media-sound/timidity++
 media-libs/mediastreamer:amr - Use of AMR Narrow Band codec plugin
