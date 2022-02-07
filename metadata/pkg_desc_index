@@ -165,7 +165,6 @@ media-video/eviacam 9999: webcam based mouse emulator
 net-analyzer/nmap_vulscan 2.0: A NSE vulnerability scanner which uses an offline version of different vulnerability databases
 net-dialup/picocom 9999: minimal dumb-terminal emulation program
 net-fs/ufs 0.2: libspfs-based daemon that shares the local filesystem over 9P
-net-im/biboumi 2.0 4.2 9999: XMPP gateway to IRC.
 net-im/hatexmpp 9999: hatexmpp is a xmpp-client featuring ii-like interface
 net-im/synapse 1.23.1: Reference implementation of Matrix homeserver
 net-im/tkabber 9999-r6: GUI client for XMPP (Jabber) instant messaging protocol, written in Tcl/Tk.
