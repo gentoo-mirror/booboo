@@ -187,6 +187,7 @@ net-misc/mobos-gui 9999: A simple QML GUI to use with oFono
 net-misc/trackma 9999: Open multi-site list manager for media tracking sites
 net-misc/vuurmuur_conf 0.7: Iptables frontend. Ncurses GUI, for administration and monitoring.
 net-misc/wide-dhcpv6 20080615-r2: DHCP Client and Server originally developed by KAME Project
+net-misc/yacy 1.92.20161226.9000: YaCy - p2p based distributed web-search engine
 net-misc/zebedee 2.5.3-r1: A simple, free, secure TCP and UDP tunnel program
 net-p2p/bisq-bin 1.6.2: The decentralized bitcoin exchange (non-atomic, with arbitration)
 net-p2p/gnunet 9999-r1: GNUnet is a framework for secure peer-to-peer networking.
