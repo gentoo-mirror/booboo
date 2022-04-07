@@ -192,7 +192,7 @@ net-p2p/monero-gui 0.17.2.0 0.17.2.3 0.17.3.0 0.17.3.1: GUI for net-p2p/monero
 net-voip/gnome-ring 9999: Ring is a Voice-over-IP software phone.
 net-voip/re 0.4.14 0.4.15: Libre is a portable and generic library for real-time communications with async IO support and a complete SIP stack with support for SDP, RTP/RTCP, STUN/TURN/ICE, BFCP and DNS Client
 net-vpn/iodine 9999: IP over DNS tunnel
-net-vpn/miredo 1.2.6: Miredo is an open-source Teredo IPv6 tunneling software
+net-vpn/miredo 1.2.6 9999: Miredo is an open-source Teredo IPv6 tunneling software
 net-wireless/kalibrate-rtl 9999: fork of http://thre.at/kalibrate/ for use with rtl-sdr devices
 net-wireless/rtl-sdr 9999: turns your Realtek RTL2832 based DVB dongle into a SDR receiver, tejeez fork
 sci-electronics/OpenBoardView 7.4_pre1: Linux SDL/ImGui edition software for viewing .brd files, intended as a drop-in replacement for the "Test_Link" software and "Landrex"
