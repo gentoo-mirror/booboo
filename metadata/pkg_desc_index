@@ -161,7 +161,7 @@ net-analyzer/nmap_vulscan 2.0: A NSE vulnerability scanner which uses an offline
 net-dialup/picocom 9999: minimal dumb-terminal emulation program
 net-fs/ufs 0.2: libspfs-based daemon that shares the local filesystem over 9P
 net-im/hatexmpp 9999: hatexmpp is a xmpp-client featuring ii-like interface
-net-im/kotatogram-desktop 1.4.9: Official desktop client for Telegram
+net-im/kotatogram-desktop 1.4.9: Experimental Telegram Desktop fork
 net-im/synapse 1.23.1: Reference implementation of Matrix homeserver
 net-im/tkabber 9999-r6: GUI client for XMPP (Jabber) instant messaging protocol, written in Tcl/Tk.
 net-libs/bctoolbox 9999: Utilities library used by Belledonne Communications softwares like belle-sip, mediastreamer2 and linphone.
