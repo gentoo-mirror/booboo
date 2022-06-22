@@ -1,0 +1,16 @@
+BDEPEND=X? ( >=x11-apps/mkfontscale-1.2.0 media-fonts/encodings )
+DEFINED_PHASES=install postinst postrm setup
+DEPEND=media-fonts/dejavu[X?]
+DESCRIPTION=A color and B&W emoji SVG-in-OT font with ZWJ, skin tone mods and country flags
+EAPI=7
+HOMEPAGE=https://github.com/eosrei/twemoji-color-font
+INHERIT=font
+IUSE=X
+KEYWORDS=~amd64 ~x86
+LICENSE=MIT
+RDEPEND=media-fonts/dejavu[X?]
+RESTRICT=mirror
+SLOT=0
+SRC_URI=https://github.com/eosrei/twemoji-color-font/releases/download/v13.1.0/TwitterColorEmoji-SVGinOT-Linux-13.1.0.tar.gz
+_eclasses_=font	d31f12a0f6e13d56dc3062e76ae58a61
+_md5_=b0d2effb66b0adda3ea4b5cb89dfdbf1

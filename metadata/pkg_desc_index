@@ -131,6 +131,7 @@ games-strategy/7kaa 9999: Seven Kingdoms: Ancient Adversaries
 games-strategy/StarRuler2 9999: 4X Space Strategy game
 gnome-base/gconf 2.18.0.1: Gnome Configuration System and Daemon
 media-fonts/terminus-ttf 4.49.1: TTF version of media-fonts/terminus-font
+media-fonts/twemoji-color-font 13.1.0: A color and B&W emoji SVG-in-OT font with ZWJ, skin tone mods and country flags
 media-gfx/admesh 9999: CLI and C library for processing triangulated solid meshes
 media-gfx/antimony 9999: CAD from a parallel universe
 media-gfx/cadquery 9999: A parametric CAD scripting framework based on PythonOCC
