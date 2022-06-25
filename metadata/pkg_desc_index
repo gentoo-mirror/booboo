@@ -142,6 +142,7 @@ media-gfx/heekscad 9999: Computer-Aided Design application based on OCE
 media-gfx/heekscnc 9999: HeeksCAD-based CAM
 media-gfx/implicitcad 0.3.0.1: A math-inspired programmatic 2D & 3D CAD system
 media-gfx/prusaslicer 9999: G-code generator for 3D printers (RepRap, Makerbot, Ultimaker etc.)
+media-gfx/qcad 3.27.6.3: Open Source 2D CAD
 media-gfx/qiv 9999: Quick Image Viewer
 media-gfx/solvespace 9999: Parametric 2d/3d CAD
 media-gfx/sxiv 1.3.2: Simple (or small or suckless) X Image Viewer
