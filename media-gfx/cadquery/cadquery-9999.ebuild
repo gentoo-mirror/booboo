@@ -20,8 +20,3 @@ DEPEND=""
 RDEPEND="${DEPEND}
 	>=dev-python/pythonocc-cadquery-0.18.2"
 BDEPEND=""
-
-src_prepare() {
-	sed -i -e '/ "tests"/d' setup.py || die
-	default
-}
