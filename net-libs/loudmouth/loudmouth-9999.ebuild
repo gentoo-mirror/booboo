@@ -27,6 +27,7 @@ DEPEND="${RDEPEND}
 
 src_prepare() {
 	default
+	set -x
 	sed -i -e 's/-Werror//' acinclude.m4
 	use doc && {
 		./autogen.sh
