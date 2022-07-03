@@ -11,4 +11,4 @@ PROPERTIES=live
 RDEPEND=>=dev-libs/glib-2.4 gnutls? ( >=net-libs/gnutls-1.4.0 ) openssl? ( dev-libs/openssl )
 SLOT=0
 _eclasses_=git-r3	b9ac6f96d2a88edb5b351df634dc5e53
-_md5_=64d2d0325f5732a5abd4c850461cc128
+_md5_=7cb553c337396da7a68b34cda980e092
