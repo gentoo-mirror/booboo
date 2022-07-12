@@ -149,6 +149,7 @@ media-libs/mediastreamer 2.12.1 2.14.0 9999: Mediastreaming library for telephon
 media-libs/portaudio 9999: A free, cross-platform, open-source, audio I/O library
 media-plugins/alsa-plugin-rsound 9999-r1: RSound plugin for ALSA
 media-plugins/alsaequal 9999: a real-time adjustable equalizer plugin for ALSA
+media-radio/aptdec 9999: NOAA APT satellite imagery decoder
 media-sound/acousticbrainz-gui 9999: This client lets you submit your own audio features to the AcousticBrainz project.
 media-sound/ayfly 9999: Ayfly is a AY-891x emulator and player.
 media-sound/cmusfm 0.1.2: Last.fm scrobbler for cmus music player
