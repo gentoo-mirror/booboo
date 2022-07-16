@@ -202,7 +202,6 @@ net-vpn/tinc 1.1.9999: tinc is an easy to configure VPN implementation
 net-wireless/gnss-sdr 0.0.17: an open-source software-defined GNSS receiver
 net-wireless/kalibrate-rtl 9999: fork of http://thre.at/kalibrate/ for use with rtl-sdr devices
 net-wireless/rtl-ais 0.3 9999: A simple AIS tuner and generic dual-frequency FM demodulator
-net-wireless/rtl-sdr 9999: turns your Realtek RTL2832 based DVB dongle into a SDR receiver, tejeez fork
 sci-electronics/OpenBoardView 7.4_pre1: Linux SDL/ImGui edition software for viewing .brd files, intended as a drop-in replacement for the "Test_Link" software and "Landrex"
 sci-electronics/adms 9999: ADMS is a code generator for the Verilog-AMS language
 sci-electronics/qucs 0.0.19: Quite Universal Circuit Simulator in Qt4
