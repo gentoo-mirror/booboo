@@ -48,7 +48,6 @@ net-vpn/tinc:uml - Enable support for User Mode Linux Sockets
 net-vpn/tinc:vde - Enable Virtual Distributed Ethernet (VDE) based networking
 sci-mathematics/cgal:mpfi - Enable support for multiple recision interval arithmetic via sci-libs/mpfi
 sci-mathematics/cgal:ntl - Enable support for dev-libs/ntl
-sys-apps/usb_modeswitch:jimtcl - Use dev-lang/jimtcl instead of dev-lang/tcl for smaller memory footprint
 www-servers/lighttpd:memcache - Enable memcache support for mod_cml and mod_trigger_b4_dl
 www-servers/lighttpd:rrdtool - Enable rrdtool support via mod_rrdtool
 www-servers/lighttpd:webdav - Enable webdav properties
