@@ -150,6 +150,7 @@ net-fs/ufs 0.2: libspfs-based daemon that shares the local filesystem over 9P
 net-im/hatexmpp 9999: hatexmpp is a xmpp-client featuring ii-like interface
 net-im/kotatogram-desktop 1.4.9: Experimental Telegram Desktop fork
 net-im/synapse 1.23.1: Reference implementation of Matrix homeserver
+net-im/tkabber 9999-r6: GUI client for XMPP (Jabber) instant messaging protocol, written in Tcl/Tk.
 net-libs/liboping 9999: C library and ncurses based program to generate ICMP echo requests and ping multiple hosts at once
 net-libs/loudmouth 9999: Lightweight C Jabber library
 net-libs/opendht 9999: A lightweight C++11 Distributed Hash Table implementation originally based on https://github.com/jech/dht by Juliusz Chroboczek.
