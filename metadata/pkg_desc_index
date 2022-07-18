@@ -97,6 +97,7 @@ dev-python/pythonocc 0.18.1 9999: Python Interface to OpenCASCADE CAD library
 dev-python/pythonocc-cadquery 9999: Python Interface to OpenCASCADE CAD library, CadQuery fork
 dev-python/signedjson 1.1.0: Signs JSON objects with ED25519 signatures.
 dev-python/unpaddedbase64 1.1.0-r1: Unpadded Base64
+dev-tcltk/tclgpg 9999-r1: Tcl interface to GNU Privacy Guard with interface similar to TclGPGME.
 dev-tcltk/tcludp 1.0.11: The Tcl UDP extension provides a simple library to support UDP socket in Tcl.
 dev-tcltk/tkimg 9999: Adds a lot of image formats to Tcl/Tk
 dev-util/0xFFFF 9999-r1: Open Free Fiasco Firmware Flasher
