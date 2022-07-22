@@ -3,23 +3,6 @@
 # * generated automatically using pmaint *
 
 dev-tcltk/tclgpg:helper - Compile C helper to run gpg binary
-games-simulation/corsix-th:midi - Adds support for background midis via media-sound/timidity++
-media-libs/mediastreamer:amr - Use of AMR Narrow Band codec plugin
-media-libs/mediastreamer:dtls - Turn on or off compilation of dtls
-media-libs/mediastreamer:filters - Enable compilation of filters
-media-libs/mediastreamer:g726 - Support g726 codec
-media-libs/mediastreamer:g729 - Use g726 codec plugin
-media-libs/mediastreamer:ilbc - Use of iLBC (RFC3951) codec plugin
-media-libs/mediastreamer:non-free-codecs - Include non-free codecs in build
-media-libs/mediastreamer:ntp-timestamp - Turn on NTP timestamping on received packet
-media-libs/mediastreamer:opus - Enable opus codec support
-media-libs/mediastreamer:ortp - Enable usage of net-libs/ortp
-media-libs/mediastreamer:pcap - Enable usage of net-libs/libpcap
-media-libs/mediastreamer:qsa - Turn on QSA (QNX Sound Architecture) support
-media-libs/mediastreamer:silk - Use silk (skype protocol) codec plugin
-media-libs/mediastreamer:video - Enable video support
-media-libs/mediastreamer:vp8 - Enable vp8 support via media-libs/libvpx
-media-libs/mediastreamer:zrtp - Add support for ZRTP key negotiation
 net-im/kotatogram-desktop:enchant - Enable the app-text/aspell spell-checking backend
 net-im/kotatogram-desktop:hunspell - Enable the app-text/hunspell spell-checking backend
 net-im/kotatogram-desktop:screencast - Enable support for remote desktop and screen cast using media-video/pipewire
@@ -37,7 +20,6 @@ net-im/tkabber:trayicon - Enables support for tray icon with dev-tcltk/tktray
 net-im/tkabber:udp - Enables support for DNS resolving over UDP.
 net-im/tkabber:vanilla - Skips any kind of source patching (and epatch_user too).
 net-libs/loudmouth:asyncns - Use libasyncns for asynchronous name resolution.
-net-libs/ortp:ntp-timestamp - Turn on NTP timestamping on received packet
 net-p2p/gnunet:experimental - enable experimental options
 net-p2p/gnunet:http - enable embedded http server support
 net-vpn/tinc:gui - Add GUI support, using dev-python/wxpython
