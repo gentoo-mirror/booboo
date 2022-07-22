@@ -190,12 +190,14 @@ sci-libs/libarea 9999: Library and python module for pocketing and profiling ope
 sci-mathematics/cgal 5.0.2: C++ library for geometric algorithms and data structures
 sys-apps/9mount 9999: A set of SUID mounting tools for use with v9fs.
 sys-apps/con2fbmap 2.1.28: Shows and sets mapping between consoles and framebuffer devices
+sys-apps/ksm_preload 9999: Enables legacy applications to leverage Linux's memory deduplication.
 sys-apps/lfsb 0.4.4: A Linux utility to change the FSB frequency without having to reboot
 sys-apps/me_cleaner 9999: Tool for partial deblobbing of Intel ME/TXE firmware images
 sys-apps/vbtracetool 9999: Video bios execution tracing widget
 sys-auth/linux-sgx-driver 9999: Intel(R) Software Guard Extensions for Linux* OS
 sys-block/f3 9999: Fight Flash Fraud, or Fight Fake Flash
 sys-boot/sedutil 9999: The Drive Trust Alliance Self Encrypting Drive Utility
+sys-fs/nullfs 9999: FUSE /dev/null equivalent for directories
 sys-fs/udev-zero 9999: Drop-in replacement for libudev intended to work with any device manager
 sys-kernel/linux-firmware 20210919: Linux firmware files
 sys-libs/libcal 9999: Configuration Access Library
