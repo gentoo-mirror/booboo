@@ -138,6 +138,7 @@ media-plugins/alsa-plugin-rsound 9999-r1: RSound plugin for ALSA
 media-plugins/alsaequal 9999: a real-time adjustable equalizer plugin for ALSA
 media-radio/aptdec 9999: NOAA APT satellite imagery decoder
 media-sound/acousticbrainz-gui 9999: This client lets you submit your own audio features to the AcousticBrainz project.
+media-sound/ayfly 9999: Ayfly is a AY-891x emulator and player.
 media-sound/cmusfm 0.1.2: Last.fm scrobbler for cmus music player
 media-sound/jack-matchmaker 9999: Auto-connect JACK ports as they appear and when they match the port patterns given on the command line or read from a file.
 media-sound/jackminimix 0.2.1: a simple mixer for the Jack with an OSC control interface.
