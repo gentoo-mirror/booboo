@@ -202,6 +202,7 @@ sys-fs/nullfs 9999: FUSE /dev/null equivalent for directories
 sys-fs/udev-zero 9999: Drop-in replacement for libudev intended to work with any device manager
 sys-kernel/linux-firmware 20210919: Linux firmware files
 sys-libs/libcal 9999: Configuration Access Library
+sys-libs/libspfs 0.2: Library for writing 9P2000 compliant user-space file servers that can be mounted using v9fs file system.
 virtual/libudev 9999: Virtual for libudev providers
 virtual/udev 9999: Virtual to select between different udev daemon providers
 www-client/serpent 2021.04.27: A XUL-based web-browser demonstrating the Unified XUL Platform (UXP).
