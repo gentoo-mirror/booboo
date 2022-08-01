@@ -1,10 +1,8 @@
 acct-group/miredo 0: System group: miredo
 acct-user/miredo 0: System user: miredo
 app-accessibility/espeak-ng 9999: eSpeak NG - reborn of eSpeak TTS (Text-to-Speach engine)
-app-admin/conky 1.10.5-r1: An advanced, highly configurable system monitor for X
 app-benchmarks/STREAM 9999: a benchmark that measures sustainable memory bandwidth and computation rate
 app-benchmarks/rowhammer-test 9999: Test DRAM for bit flips caused by the rowhammer problem
-app-crypt/libsignal-protocol-c 9999: Signal Protocol C Library
 app-dicts/stardict-cdict-en-zh-big5 2.4.2: Stardict Dictionary English to Traditional Chinese (BIG5)
 app-dicts/stardict-cdict-en-zh-gb 2.4.2: Stardict Dictionary English to Simplified Chinese (GB)
 app-dicts/stardict-cedict-zh-en-big5 2.4.2: Stardict Dictionary Traditional Chinese (BIG5) to English
@@ -54,7 +52,6 @@ app-dicts/stardict-xdict-en-zh-big5 2.4.2: Stardict Dictionary English to Tradit
 app-dicts/stardict-xdict-en-zh-gb 2.4.2: Stardict Dictionary English to Simplified Chinese (GB)
 app-dicts/stardict-xdict-zh-en-big5 2.4.2: Stardict Dictionary Traditional Chinese (BIG5) to English
 app-dicts/stardict-xdict-zh-en-gb 2.4.2: Stardict Dictionary Simplified Chinese (GB) to English
-app-editors/neovim-qt 9999: GUI version of the Neovim text editor
 app-misc/co2mon 9999: CLI for MasterKit CO2 Monitor
 app-misc/crazyflie-clients-python 2017.06.1 2019.01: Host applications and library for Crazyflie written in Python.
 app-misc/kdrill 6.5: Kanji quiz and a lookup tool for X, helps in memorizing Japanese characters
@@ -63,7 +60,6 @@ app-mobilephone/gsm-ussd 0.4.0.25: a script to send USSD (Unstructured Supplemen
 app-mobilephone/vcf2csv 0.6.201011061941: vcf2csv is a command line tool to convert vcard files to html or csv.
 app-paludis/pink-update 9999: paludis port of etc-update
 app-text/catdoc 9999: Converter for Microsoft Word, Excel, PowerPoint and RTF files to text
-app-text/htmltidy 99999999: The granddaddy of HTML tools, with support for modern standards
 app-text/paps 0.7.1: Unicode-aware text to PostScript converter
 app-text/uniutils 2.27: This package consists of a set of programs for manipulating and analyzing Unicode text. The analysis utilities are useful when working with Unicode files when one doesn't know the writing system, doesn't have the necessary font, needs to inspect invisible characters, needs to find out whether characters have been combined or in what order they occur, or needs statistics on which characters occur.
 app-vim/ledger-syntax 9999: vim plugin: app-office/ledger file format syntax
@@ -82,8 +78,6 @@ dev-libs/libpredict 9999: A satellite orbit prediction library
 dev-libs/librs232 9999: multiplatform library for serial communications over RS-232 (serial port)
 dev-libs/libsigc++ 2.10.9999: Typesafe callback system for standard C++
 dev-libs/libusb 0.1.12-r8: Userspace access to USB devices
-dev-libs/msgpack 1.2.0: MessagePack is a binary-based efficient data interchange format
-dev-libs/olm 3.1.4: An implementation of the Double Ratchet cryptographic ratchet in C++
 dev-python/canonicaljson 1.4.0: Canonical JSON
 dev-python/cflib 0.1.3 0.1.6 0.1.7: A simple wrapper around optparse for powerful command line utilities.
 dev-python/frozendict 1.2-r1: An immutable dictionary
@@ -95,8 +89,6 @@ dev-python/prometheus_client 0.7.1-r1: Python client for the Prometheus monitori
 dev-python/pycparser 9999: C parser and AST generator written in Python
 dev-python/pymacaroons 0.13.0: PyMacaroons is a Python implementation of Macaroons. They’re better than cookies!
 dev-python/python-olm 3.1.5: Python bindings for the Olm C library
-dev-python/pythonocc 0.18.1 9999: Python Interface to OpenCASCADE CAD library
-dev-python/pythonocc-cadquery 9999: Python Interface to OpenCASCADE CAD library, CadQuery fork
 dev-python/signedjson 1.1.0: Signs JSON objects with ED25519 signatures.
 dev-python/unpaddedbase64 1.1.0-r1: Unpadded Base64
 dev-tcltk/tclgpg 9999-r1: Tcl interface to GNU Privacy Guard with interface similar to TclGPGME.
@@ -105,7 +97,6 @@ dev-tcltk/tkimg 9999: Adds a lot of image formats to Tcl/Tk
 dev-util/0xFFFF 9999-r1: Open Free Fiasco Firmware Flasher
 dev-util/abootimg 9999-r1: Manipulate boot images for the Android bootloader
 dev-util/bcunit 9999: a fork of the defunct project CUnit, with several fixes and patches applied
-dev-util/iaito 9999: A Qt and C++ GUI for radare2 reverse engineering framework
 dev-util/lemon 3.16.2 3.31.1: A LALR(1) parser generator
 dev-util/uefitool 0.28.0: UEFI firmware image viewer and editor
 dev-util/waitgdb 9999: Stop the program on crash to allow attaching a debugger (like gdb)
@@ -120,24 +111,14 @@ games-strategy/7kaa 9999: Seven Kingdoms: Ancient Adversaries
 games-strategy/StarRuler2 9999: 4X Space Strategy game
 media-fonts/terminus-ttf 4.49.1: TTF version of media-fonts/terminus-font
 media-fonts/twemoji-color-font 13.1.0: A color and B&W emoji SVG-in-OT font with ZWJ, skin tone mods and country flags
-media-gfx/admesh 9999: CLI and C library for processing triangulated solid meshes
-media-gfx/antimony 9999: CAD from a parallel universe
 media-gfx/cadquery 9999: A parametric CAD scripting framework based on PythonOCC
 media-gfx/cq-editor 9999: CadQuery GUI editor based on PyQT
-media-gfx/genericcam 9999: Generic CAM is an open source tool path generator for CNC machines.
-media-gfx/ginkgocadx 9999: an advanced DICOM viewer and dicomizer that can also be used to convert png, jpeg, bmp, pdf, tiff to DICOM files
-media-gfx/heekscad 9999: Computer-Aided Design application based on OCE
-media-gfx/heekscnc 9999: HeeksCAD-based CAM
 media-gfx/implicitcad 0.3.0.1: A math-inspired programmatic 2D & 3D CAD system
-media-gfx/prusaslicer 9999: G-code generator for 3D printers (RepRap, Makerbot, Ultimaker etc.)
 media-gfx/qcad 3.27.6.3: Open Source 2D CAD
 media-gfx/qiv 9999: Quick Image Viewer
-media-gfx/solvespace 9999: Parametric 2d/3d CAD
 media-libs/portaudio 9999: A free, cross-platform, open-source, audio I/O library
 media-plugins/alsa-plugin-rsound 9999-r1: RSound plugin for ALSA
 media-plugins/alsaequal 9999: a real-time adjustable equalizer plugin for ALSA
-media-radio/aptdec 9999: NOAA APT satellite imagery decoder
-media-sound/acousticbrainz-gui 9999: This client lets you submit your own audio features to the AcousticBrainz project.
 media-sound/ayfly 9999: Ayfly is a AY-891x emulator and player.
 media-sound/cmusfm 0.1.2: Last.fm scrobbler for cmus music player
 media-sound/jack-matchmaker 9999: Auto-connect JACK ports as they appear and when they match the port patterns given on the command line or read from a file.
@@ -158,14 +139,11 @@ net-im/synapse 1.23.1: Reference implementation of Matrix homeserver
 net-im/tkabber 9999-r6: GUI client for XMPP (Jabber) instant messaging protocol, written in Tcl/Tk.
 net-libs/liboping 9999: C library and ncurses based program to generate ICMP echo requests and ping multiple hosts at once
 net-libs/loudmouth 9999: Lightweight C Jabber library
-net-libs/opendht 9999: A lightweight C++11 Distributed Hash Table implementation originally based on https://github.com/jech/dht by Juliusz Chroboczek.
 net-libs/pjsip 2.7.2: Multimedia communication libraries written in C language for building VoIP applications.
 net-libs/zoidcom 0.6.5 0.6.7 0.6.10: High-level, UDP-based networking library
 net-misc/6tunnel 9999: TCP proxy for applications that don't speak IPv6
 net-misc/gnurl 7.72.0: libgnurl is a fork of libcurl, which is mostly for GNUnet
 net-misc/killcx 1.0.3: Close a TCP connection
-net-misc/mbpoll 9999: command line utility to communicate with ModBus slave (RTU or TCP)
-net-misc/mbusd 9999: 
 net-misc/mobos-gui 9999: A simple QML GUI to use with oFono
 net-misc/trackma 9999: Open multi-site list manager for media tracking sites
 net-misc/vuurmuur_conf 0.7: Iptables frontend. Ncurses GUI, for administration and monitoring.
@@ -176,17 +154,13 @@ net-p2p/monero-gui 0.17.2.0 0.17.2.3 0.17.3.0 0.17.3.1 0.17.3.2: GUI for net-p2p
 net-vpn/miredo 1.2.6 9999: Miredo is an open-source Teredo IPv6 tunneling software
 net-vpn/tinc 1.1.9999: tinc is an easy to configure VPN implementation
 net-wireless/dumpvdl2 2.2.0: A lightweight, standalone VDL Mode 2 message decoder and protocol analyzer
-net-wireless/gnss-sdr 0.0.17: an open-source software-defined GNSS receiver
 net-wireless/kalibrate-rtl 9999: fork of http://thre.at/kalibrate/ for use with rtl-sdr devices
 net-wireless/libacars 2.1.4: A library for decoding various ACARS message payloads
 net-wireless/rtl-ais 0.3 9999: A simple AIS tuner and generic dual-frequency FM demodulator
-sci-electronics/OpenBoardView 7.4_pre1: Linux SDL/ImGui edition software for viewing .brd files, intended as a drop-in replacement for the "Test_Link" software and "Landrex"
 sci-electronics/adms 9999: ADMS is a code generator for the Verilog-AMS language
 sci-electronics/qucs 0.0.19: Quite Universal Circuit Simulator in Qt4
 sci-geosciences/florb 9999: florb is a really simple map viewer and GPX editor written in C++ using the FLTK UI toolkit.
 sci-geosciences/navit 9999-r1: An open-source car navigation system with a routing engine
-sci-libs/libarea 9999: Library and python module for pocketing and profiling operations
-sci-mathematics/cgal 5.0.2: C++ library for geometric algorithms and data structures
 sys-apps/9mount 9999: A set of SUID mounting tools for use with v9fs.
 sys-apps/con2fbmap 2.1.28: Shows and sets mapping between consoles and framebuffer devices
 sys-apps/ksm_preload 9999: Enables legacy applications to leverage Linux's memory deduplication.
