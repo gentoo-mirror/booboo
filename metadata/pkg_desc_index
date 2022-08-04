@@ -60,6 +60,7 @@ app-mobilephone/gsm-ussd 0.4.0.25: a script to send USSD (Unstructured Supplemen
 app-mobilephone/vcf2csv 0.6.201011061941: vcf2csv is a command line tool to convert vcard files to html or csv.
 app-paludis/pink-update 9999: paludis port of etc-update
 app-text/catdoc 9999: Converter for Microsoft Word, Excel, PowerPoint and RTF files to text
+app-text/htmltidy 99999999: The granddaddy of HTML tools, with support for modern standards
 app-text/paps 0.7.1: Unicode-aware text to PostScript converter
 app-text/uniutils 2.27: This package consists of a set of programs for manipulating and analyzing Unicode text. The analysis utilities are useful when working with Unicode files when one doesn't know the writing system, doesn't have the necessary font, needs to inspect invisible characters, needs to find out whether characters have been combined or in what order they occur, or needs statistics on which characters occur.
 app-vim/ledger-syntax 9999: vim plugin: app-office/ledger file format syntax
@@ -111,6 +112,7 @@ games-strategy/7kaa 9999: Seven Kingdoms: Ancient Adversaries
 games-strategy/StarRuler2 9999: 4X Space Strategy game
 media-fonts/terminus-ttf 4.49.1: TTF version of media-fonts/terminus-font
 media-fonts/twemoji-color-font 13.1.0: A color and B&W emoji SVG-in-OT font with ZWJ, skin tone mods and country flags
+media-gfx/admesh 9999: CLI and C library for processing triangulated solid meshes
 media-gfx/cadquery 9999: A parametric CAD scripting framework based on PythonOCC
 media-gfx/cq-editor 9999: CadQuery GUI editor based on PyQT
 media-gfx/implicitcad 0.3.0.1: A math-inspired programmatic 2D & 3D CAD system
@@ -119,6 +121,7 @@ media-gfx/qiv 9999: Quick Image Viewer
 media-libs/portaudio 9999: A free, cross-platform, open-source, audio I/O library
 media-plugins/alsa-plugin-rsound 9999-r1: RSound plugin for ALSA
 media-plugins/alsaequal 9999: a real-time adjustable equalizer plugin for ALSA
+media-radio/aptdec 9999: NOAA APT satellite imagery decoder
 media-sound/ayfly 9999: Ayfly is a AY-891x emulator and player.
 media-sound/cmusfm 0.1.2: Last.fm scrobbler for cmus music player
 media-sound/jack-matchmaker 9999: Auto-connect JACK ports as they appear and when they match the port patterns given on the command line or read from a file.
@@ -144,6 +147,7 @@ net-libs/zoidcom 0.6.5 0.6.7 0.6.10: High-level, UDP-based networking library
 net-misc/6tunnel 9999: TCP proxy for applications that don't speak IPv6
 net-misc/gnurl 7.72.0: libgnurl is a fork of libcurl, which is mostly for GNUnet
 net-misc/killcx 1.0.3: Close a TCP connection
+net-misc/mbpoll 9999: command line utility to communicate with ModBus slave (RTU or TCP)
 net-misc/mobos-gui 9999: A simple QML GUI to use with oFono
 net-misc/trackma 9999: Open multi-site list manager for media tracking sites
 net-misc/vuurmuur_conf 0.7: Iptables frontend. Ncurses GUI, for administration and monitoring.
