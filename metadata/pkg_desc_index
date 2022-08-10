@@ -151,6 +151,7 @@ net-misc/6tunnel 9999: TCP proxy for applications that don't speak IPv6
 net-misc/gnurl 7.72.0: libgnurl is a fork of libcurl, which is mostly for GNUnet
 net-misc/killcx 1.0.3: Close a TCP connection
 net-misc/mbpoll 9999: command line utility to communicate with ModBus slave (RTU or TCP)
+net-misc/mbusd 9999: Open-source Modbus TCP to Modbus RTU (RS-232/485) gateway
 net-misc/mobos-gui 9999: A simple QML GUI to use with oFono
 net-misc/trackma 9999: Open multi-site list manager for media tracking sites
 net-misc/vuurmuur_conf 0.7: Iptables frontend. Ncurses GUI, for administration and monitoring.
@@ -164,6 +165,7 @@ net-wireless/dumpvdl2 2.2.0: A lightweight, standalone VDL Mode 2 message decode
 net-wireless/kalibrate-rtl 9999: fork of http://thre.at/kalibrate/ for use with rtl-sdr devices
 net-wireless/libacars 2.1.4: A library for decoding various ACARS message payloads
 net-wireless/rtl-ais 0.3 9999: A simple AIS tuner and generic dual-frequency FM demodulator
+sci-electronics/OpenBoardView 7.4_pre1: Linux SDL/ImGui edition software for viewing .brd files, intended as a drop-in replacement for the "Test_Link" software and "Landrex"
 sci-electronics/adms 9999: ADMS is a code generator for the Verilog-AMS language
 sci-electronics/qucs 0.0.19: Quite Universal Circuit Simulator in Qt4
 sci-geosciences/florb 9999: florb is a really simple map viewer and GPX editor written in C++ using the FLTK UI toolkit.
