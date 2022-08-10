@@ -117,6 +117,7 @@ media-gfx/admesh 9999: CLI and C library for processing triangulated solid meshe
 media-gfx/antimony 9999: CAD from a parallel universe
 media-gfx/cadquery 9999: A parametric CAD scripting framework based on PythonOCC
 media-gfx/cq-editor 9999: CadQuery GUI editor based on PyQT
+media-gfx/genericcam 9999: Generic CAM is an open source tool path generator for CNC machines.
 media-gfx/heekscad 9999: Computer-Aided Design application based on OCE
 media-gfx/heekscnc 9999: HeeksCAD-based CAM
 media-gfx/implicitcad 0.3.0.1: A math-inspired programmatic 2D & 3D CAD system
