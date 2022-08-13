@@ -52,6 +52,7 @@ app-dicts/stardict-xdict-en-zh-big5 2.4.2: Stardict Dictionary English to Tradit
 app-dicts/stardict-xdict-en-zh-gb 2.4.2: Stardict Dictionary English to Simplified Chinese (GB)
 app-dicts/stardict-xdict-zh-en-big5 2.4.2: Stardict Dictionary Traditional Chinese (BIG5) to English
 app-dicts/stardict-xdict-zh-en-gb 2.4.2: Stardict Dictionary Simplified Chinese (GB) to English
+app-editors/neovim-qt 9999: GUI version of the Neovim text editor
 app-misc/co2mon 9999: CLI for MasterKit CO2 Monitor
 app-misc/crazyflie-clients-python 2017.06.1 2019.01: Host applications and library for Crazyflie written in Python.
 app-misc/kdrill 6.5: Kanji quiz and a lookup tool for X, helps in memorizing Japanese characters
@@ -79,6 +80,7 @@ dev-libs/libpredict 9999: A satellite orbit prediction library
 dev-libs/librs232 9999: multiplatform library for serial communications over RS-232 (serial port)
 dev-libs/libsigc++ 2.10.9999: Typesafe callback system for standard C++
 dev-libs/libusb 0.1.12-r8: Userspace access to USB devices
+dev-libs/olm 3.1.4: An implementation of the Double Ratchet cryptographic ratchet in C++
 dev-python/canonicaljson 1.4.0: Canonical JSON
 dev-python/cflib 0.1.3 0.1.6 0.1.7: A simple wrapper around optparse for powerful command line utilities.
 dev-python/frozendict 1.2-r1: An immutable dictionary
