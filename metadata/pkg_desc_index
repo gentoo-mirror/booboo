@@ -163,7 +163,7 @@ net-misc/trackma 9999: Open multi-site list manager for media tracking sites
 net-misc/vuurmuur_conf 0.7: Iptables frontend. Ncurses GUI, for administration and monitoring.
 net-misc/zebedee 2.5.3-r1: A simple, free, secure TCP and UDP tunnel program
 net-p2p/gnunet 9999-r1: GNUnet is a framework for secure peer-to-peer networking.
-net-p2p/monero-gui 0.17.2.0 0.17.2.3 0.17.3.0 0.17.3.1 0.17.3.2 0.18.1.0: GUI for net-p2p/monero
+net-p2p/monero-gui 0.17.2.3 0.17.3.0 0.17.3.1 0.17.3.2 0.18.1.0 0.18.1.2: GUI for net-p2p/monero
 net-vpn/miredo 1.2.6 9999: Miredo is an open-source Teredo IPv6 tunneling software
 net-vpn/tinc 1.1.9999: tinc is an easy to configure VPN implementation
 net-wireless/dumpvdl2 2.2.0: A lightweight, standalone VDL Mode 2 message decoder and protocol analyzer
