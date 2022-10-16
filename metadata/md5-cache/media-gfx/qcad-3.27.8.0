@@ -1,0 +1,15 @@
+DEFINED_PHASES=configure install postinst postrm preinst prepare
+DEPEND=dev-libs/glib media-libs/glu media-libs/mesa dev-qt/designer:5= dev-qt/qtcore:5= dev-qt/qtgui:5= dev-qt/qthelp:5= dev-qt/qtopengl:5= dev-qt/qtscript:5=[scripttools] dev-qt/qtsql:5= dev-qt/qtsvg:5= dev-qt/qtxmlpatterns:5= dev-qt/qtwebengine:5=
+DESCRIPTION=Open Source 2D CAD
+EAPI=8
+HOMEPAGE=http://www.qcad.org/
+IDEPEND=dev-util/desktop-file-utils x11-misc/shared-mime-info
+INHERIT=desktop xdg qmake-utils wrapper
+IUSE=l10n_de l10n_en l10n_es l10n_fr l10n_it l10n_ja l10n_nl l10n_pl l10n_pt l10n_ru l10n_sl l10n_sk l10n_sv l10n_fi l10n_hr l10n_hu l10n_zh_CN l10n_cs l10n_TW l10n_lt
+KEYWORDS=~amd64 ~x86
+LICENSE=GPL-3
+RDEPEND=dev-libs/glib media-libs/glu media-libs/mesa dev-qt/designer:5= dev-qt/qtcore:5= dev-qt/qtgui:5= dev-qt/qthelp:5= dev-qt/qtopengl:5= dev-qt/qtscript:5=[scripttools] dev-qt/qtsql:5= dev-qt/qtsvg:5= dev-qt/qtxmlpatterns:5= dev-qt/qtwebengine:5=
+SLOT=0
+SRC_URI=https://github.com/qcad/qcad/archive/v3.27.8.0.tar.gz -> qcad-3.27.8.0.tar.gz
+_eclasses_=desktop	22952d8f27cac191d75529d4c38e6bfa	xdg-utils	ac0e315a3688929e34ac75b139e7349a	xdg	6024fbc93167fad782e2032933654857	toolchain-funcs	441f754fd75cd4fd1fa06fbc17da6144	multilib	5ca4e49abed8e3a2f7b56920eadee157	qmake-utils	59420c906278d16deaaa629f9d115707	wrapper	4a1902f969e5718126434fc35f3a0d9c
+_md5_=ef3bb8e3cf6e36edb9adbd26ffc007c3
