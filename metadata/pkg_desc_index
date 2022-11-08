@@ -107,6 +107,7 @@ dev-util/waitgdb 9999: Stop the program on crash to allow attaching a debugger (
 games-board/qgo2 9999: qGo is a full featured SGF editor and Go Client.
 games-board/rftg 0.9.4 9999: "Race for the Galaxy" card game.
 games-fps/unvanquished-data 0.51.1: Datafiles and maps for unvanquished
+games-roguelike/hyperrogue 9999: A puzzle roguelike in the hyperbolic plane.
 games-rpg/freedroidrpg 9999: Modification of the classical Freedroid engine into an RPG
 games-simulation/simutrans-extended 9999: A free Transport Tycoon clone Extended version.
 games-simulation/simutrans-extended-britain128 9999: Britain pakset for Simutrans Extended

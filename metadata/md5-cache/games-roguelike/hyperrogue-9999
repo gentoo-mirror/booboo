@@ -1,0 +1,14 @@
+BDEPEND=>=dev-vcs/git-1.8.2.1[curl]
+DEFINED_PHASES=compile install prepare unpack
+DEPEND=media-libs/sdl-gfx media-libs/sdl-mixer media-libs/sdl-ttf media-libs/glew
+DESCRIPTION=A puzzle roguelike in the hyperbolic plane.
+EAPI=8
+HOMEPAGE=https://github.com/zenorogue/hyperrogue/
+INHERIT=git-r3
+KEYWORDS=~amd64 ~x86
+LICENSE=GPL-2
+PROPERTIES=live
+RDEPEND=media-libs/sdl-gfx media-libs/sdl-mixer media-libs/sdl-ttf media-libs/glew
+SLOT=0
+_eclasses_=git-r3	2347f8fe2d392b2a091191f94be37e6f
+_md5_=f00c4fa525b639cee1997290043b5dc9
