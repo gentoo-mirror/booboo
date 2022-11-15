@@ -75,7 +75,6 @@ dev-embedded/stm32flash 0.4 0.5 0.6 0.7: Open source flash program for STM32 usi
 dev-haskell/bytestring-progress 1.2: A library for tracking the consumption of a lazy ByteString
 dev-haskell/retry 9999: Retry combinators for monadic actions that may fail
 dev-lang/kona 9999: Kona is an open-source implementation of the K programming language.
-dev-libs/cbang 9999: C! (cbang) is a library of cross-platform C++ utilities
 dev-libs/libpredict 9999: A satellite orbit prediction library
 dev-libs/librs232 9999: multiplatform library for serial communications over RS-232 (serial port)
 dev-libs/libsigc++ 2.10.9999: Typesafe callback system for standard C++
