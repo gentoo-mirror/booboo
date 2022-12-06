@@ -8,5 +8,5 @@ KEYWORDS=~amd64 ~x86
 LICENSE=BSD
 SLOT=0
 SRC_URI=https://github.com/LongSoft/UEFITool/archive/0.28.0.tar.gz -> uefitool-0.28.0.tar.gz
-_eclasses_=toolchain-funcs	441f754fd75cd4fd1fa06fbc17da6144	multilib	5ca4e49abed8e3a2f7b56920eadee157	qmake-utils	59420c906278d16deaaa629f9d115707
+_eclasses_=toolchain-funcs	959e1d99122907eb98a3a660297a967e	multilib	5ca4e49abed8e3a2f7b56920eadee157	qmake-utils	59420c906278d16deaaa629f9d115707
 _md5_=fefe35c846ea4bf4eae413d59edb58ef
