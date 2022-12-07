@@ -1,6 +1,5 @@
 acct-group/miredo 0: System group: miredo
 acct-user/miredo 0: System user: miredo
-app-accessibility/espeak-ng 9999: eSpeak NG - reborn of eSpeak TTS (Text-to-Speach engine)
 app-benchmarks/STREAM 9999: a benchmark that measures sustainable memory bandwidth and computation rate
 app-benchmarks/rowhammer-test 9999: Test DRAM for bit flips caused by the rowhammer problem
 app-dicts/stardict-cdict-en-zh-big5 2.4.2: Stardict Dictionary English to Traditional Chinese (BIG5)
@@ -137,17 +136,14 @@ media-sound/jack-matchmaker 9999: Auto-connect JACK ports as they appear and whe
 media-sound/jackminimix 0.2.1: a simple mixer for the Jack with an OSC control interface.
 media-sound/m9u 0.5: m9u is designed to be a music server, much like mpd or xmms2. It sits in the background playing music, exporting an interface that one or more clients can connect to to control playback.
 media-sound/njconnect 1.6: 
-media-sound/pcaudiolib 9999: Portable C Audio Library
 media-sound/rsound 1.1: RSound is a networked audio system. It allows applications to transfer their audio data to a different computer.
 media-sound/scrobbler 1.1.4: A command-line Last.fm scrobbler and a now-playing status updater.
-media-sound/sonic 9999: Simple library to speed up or slow down speech
 media-video/eviacam 9999: webcam based mouse emulator
 net-analyzer/nmap_vulscan 2.0: A NSE vulnerability scanner which uses an offline version of different vulnerability databases
 net-dialup/picocom 9999: minimal dumb-terminal emulation program
 net-fs/ufs 0.2: libspfs-based daemon that shares the local filesystem over 9P
 net-im/hatexmpp 9999: hatexmpp is a xmpp-client featuring ii-like interface
 net-im/kotatogram-desktop 1.4.9: Experimental Telegram Desktop fork
-net-im/synapse 1.23.1: Reference implementation of Matrix homeserver
 net-im/tkabber 9999-r6: GUI client for XMPP (Jabber) instant messaging protocol, written in Tcl/Tk.
 net-libs/liboping 9999: C library and ncurses based program to generate ICMP echo requests and ping multiple hosts at once
 net-libs/loudmouth 9999: Lightweight C Jabber library
@@ -162,9 +158,7 @@ net-misc/mobos-gui 9999: A simple QML GUI to use with oFono
 net-misc/trackma 9999: Open multi-site list manager for media tracking sites
 net-misc/vuurmuur_conf 0.7: Iptables frontend. Ncurses GUI, for administration and monitoring.
 net-misc/zebedee 2.5.3-r1: A simple, free, secure TCP and UDP tunnel program
-net-p2p/gnunet 9999-r1: GNUnet is a framework for secure peer-to-peer networking.
 net-p2p/monero-gui 0.17.2.3 0.17.3.0 0.17.3.1 0.17.3.2 0.18.1.0 0.18.1.2: GUI for net-p2p/monero
-net-vpn/miredo 1.2.6 9999: Miredo is an open-source Teredo IPv6 tunneling software
 net-vpn/tinc 1.1.9999: tinc is an easy to configure VPN implementation
 net-wireless/dumpvdl2 2.2.0: A lightweight, standalone VDL Mode 2 message decoder and protocol analyzer
 net-wireless/gnss-sdr 0.0.17: an open-source software-defined GNSS receiver
