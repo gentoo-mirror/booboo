@@ -53,7 +53,6 @@ app-dicts/stardict-xdict-zh-en-big5 2.4.2: Stardict Dictionary Traditional Chine
 app-dicts/stardict-xdict-zh-en-gb 2.4.2: Stardict Dictionary Simplified Chinese (GB) to English
 app-editors/neovim-qt 9999: GUI version of the Neovim text editor
 app-misc/co2mon 9999: CLI for MasterKit CO2 Monitor
-app-misc/crazyflie-clients-python 2017.06.1 2019.01: Host applications and library for Crazyflie written in Python.
 app-misc/kdrill 6.5: Kanji quiz and a lookup tool for X, helps in memorizing Japanese characters
 app-misc/run-mailcap 3.69: Run a program specified in the mailcap file based on a mime type
 app-mobilephone/gsm-ussd 0.4.0.25: a script to send USSD (Unstructured Supplementary Services Data) queries to your broadband provider.
@@ -79,20 +78,11 @@ dev-libs/librs232 9999: multiplatform library for serial communications over RS-
 dev-libs/libsigc++ 2.10.9999: Typesafe callback system for standard C++
 dev-libs/libusb 0.1.12-r8: Userspace access to USB devices
 dev-libs/olm 3.1.4: An implementation of the Double Ratchet cryptographic ratchet in C++
-dev-python/canonicaljson 1.4.0: Canonical JSON
 dev-python/cflib 0.1.3 0.1.6 0.1.7: A simple wrapper around optparse for powerful command line utilities.
-dev-python/frozendict 1.2-r1: An immutable dictionary
 dev-python/lfmh 1.1.1: A Last.fm API interface.
-dev-python/matrix-nio 9999: A Python Matrix client library, designed according to sans I/O principles
-dev-python/matrix-python-sdk 9999: Matrix Client-Server SDK for Python 2 and 3
-dev-python/peewee 3.8.1: Small python ORM
 dev-python/prometheus_client 0.7.1-r1: Python client for the Prometheus monitoring system
-dev-python/pycparser 9999: C parser and AST generator written in Python
-dev-python/pymacaroons 0.13.0: PyMacaroons is a Python implementation of Macaroons. They’re better than cookies!
 dev-python/python-olm 3.1.5: Python bindings for the Olm C library
 dev-python/pythonocc-cadquery 9999: Python Interface to OpenCASCADE CAD library, CadQuery fork
-dev-python/signedjson 1.1.0: Signs JSON objects with ED25519 signatures.
-dev-python/unpaddedbase64 1.1.0-r1: Unpadded Base64
 dev-tcltk/tclgpg 9999-r1: Tcl interface to GNU Privacy Guard with interface similar to TclGPGME.
 dev-tcltk/tcludp 1.0.11: The Tcl UDP extension provides a simple library to support UDP socket in Tcl.
 dev-tcltk/tkimg 9999: Adds a lot of image formats to Tcl/Tk
@@ -137,7 +127,6 @@ media-sound/jackminimix 0.2.1: a simple mixer for the Jack with an OSC control i
 media-sound/m9u 0.5: m9u is designed to be a music server, much like mpd or xmms2. It sits in the background playing music, exporting an interface that one or more clients can connect to to control playback.
 media-sound/njconnect 1.6: 
 media-sound/rsound 1.1: RSound is a networked audio system. It allows applications to transfer their audio data to a different computer.
-media-sound/scrobbler 1.1.4: A command-line Last.fm scrobbler and a now-playing status updater.
 media-video/eviacam 9999: webcam based mouse emulator
 net-analyzer/nmap_vulscan 2.0: A NSE vulnerability scanner which uses an offline version of different vulnerability databases
 net-dialup/picocom 9999: minimal dumb-terminal emulation program
@@ -190,7 +179,6 @@ sys-libs/libcal 9999: Configuration Access Library
 sys-libs/libspfs 0.2: Library for writing 9P2000 compliant user-space file servers that can be mounted using v9fs file system.
 virtual/libudev 9999: Virtual for libudev providers
 virtual/udev 9999: Virtual to select between different udev daemon providers
-www-client/serpent 2021.04.27: A XUL-based web-browser demonstrating the Unified XUL Platform (UXP).
 x11-apps/xkb-switch 9999: Switch your X keyboard layouts from the command line
 x11-misc/run_scaled 9999: Run an X application scaled via xpra. Useful on hidpi screens.
 x11-misc/xautoclick 0.31: xAutoClick is an application to reduce RSI by simulating multiple mouse clicks
