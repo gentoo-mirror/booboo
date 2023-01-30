@@ -9,5 +9,5 @@ LICENSE=STREAM
 PROPERTIES=live
 RDEPEND=virtual/fortran
 SLOT=0
-_eclasses_=git-r3	2347f8fe2d392b2a091191f94be37e6f	toolchain-funcs	ec8bbc28394c7305b43ea07164bd8f5f	multilib	5ca4e49abed8e3a2f7b56920eadee157	fortran-2	72d28c6872beb1e7cb99684b0ae4715d
+_eclasses_=git-r3	2347f8fe2d392b2a091191f94be37e6f	toolchain-funcs	9a610728b9bcca1919234cceb35a1027	multilib	5ca4e49abed8e3a2f7b56920eadee157	fortran-2	72d28c6872beb1e7cb99684b0ae4715d
 _md5_=a4b29893317aac7c08aa5fcc33ec6691
