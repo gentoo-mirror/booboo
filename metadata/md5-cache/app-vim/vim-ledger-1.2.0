@@ -1,0 +1,13 @@
+DEFINED_PHASES=install postinst postrm
+DEPEND=|| ( >=app-editors/vim-7.3 >=app-editors/gvim-7.3 )
+DESCRIPTION=vim plugin: app-office/ledger file format syntax
+EAPI=7
+HOMEPAGE=https://github.com/ledger/vim-ledger
+INHERIT=vim-plugin
+KEYWORDS=~amd64 ~x86
+LICENSE=vim
+RDEPEND=|| ( >=app-editors/vim-7.3 >=app-editors/gvim-7.3 )
+SLOT=0
+SRC_URI=https://github.com/ledger/vim-ledger/archive/refs/tags/v1.2.0.tar.gz
+_eclasses_=vim-doc	f088862726f2bc672c57b1063b81ec52	vim-plugin	89bf54501de4a75f241062d5a56e787f
+_md5_=3a9e0111a26a7fecefb615a4c310baa6
