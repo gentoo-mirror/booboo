@@ -1,5 +1,6 @@
 acct-group/miredo 0: System group: miredo
 acct-user/miredo 0: System user: miredo
+app-accessibility/whisper-cpp 1.2.1: High-performance automatic speech recognition (ASR) using inference
 app-benchmarks/STREAM 9999: a benchmark that measures sustainable memory bandwidth and computation rate
 app-benchmarks/rowhammer-test 9999: Test DRAM for bit flips caused by the rowhammer problem
 app-dicts/stardict-cdict-en-zh-big5 2.4.2: Stardict Dictionary English to Traditional Chinese (BIG5)
