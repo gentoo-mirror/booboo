@@ -10,5 +10,5 @@ LICENSE=GPL-2
 PROPERTIES=live
 RDEPEND=media-libs/sdl-gfx media-libs/sdl-mixer media-libs/sdl-ttf media-libs/glew
 SLOT=0
-_eclasses_=git-r3	2347f8fe2d392b2a091191f94be37e6f
+_eclasses_=git-r3	c57c50c922e121043788de0b40ada60a
 _md5_=5b5ead77936527031cbe79b6f640c07f

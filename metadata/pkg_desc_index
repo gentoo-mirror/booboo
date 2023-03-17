@@ -66,7 +66,6 @@ app-text/paps 0.7.1: Unicode-aware text to PostScript converter
 app-text/uniutils 2.27: This package consists of a set of programs for manipulating and analyzing Unicode text. The analysis utilities are useful when working with Unicode files when one doesn't know the writing system, doesn't have the necessary font, needs to inspect invisible characters, needs to find out whether characters have been combined or in what order they occur, or needs statistics on which characters occur.
 app-vim/vim-ledger 1.2.0 9999: vim plugin: app-office/ledger file format syntax
 app-vim/vim-xkbswitch 0.16: easily switch current keyboard layout when entering and leaving Insert mode
-dev-embedded/esptool2 9999: An esp8266 rom creation tool
 dev-embedded/hid-tools 9999: a set of tools to interact with the kernel's HID subsystem
 dev-embedded/libmpsse 9999: Open source library for SPI/I2C control via FTDI chips
 dev-embedded/serproxy 0.1.2: Serproxy is a multi-threaded proxy program for redirecting network socket connections to/from serial links, in cases where the remote end of the serial link doesn't have a TCP/IP stack (eg an embedded or microcontroller system). The proxy allows other hosts on the network to communicate with the system on the remote end of the serial link.
@@ -87,9 +86,7 @@ dev-python/python-olm 3.1.5: Python bindings for the Olm C library
 dev-python/pythonocc-cadquery 9999: Python Interface to OpenCASCADE CAD library, CadQuery fork
 dev-tcltk/tclgpg 9999-r1: Tcl interface to GNU Privacy Guard with interface similar to TclGPGME.
 dev-tcltk/tcludp 1.0.11: The Tcl UDP extension provides a simple library to support UDP socket in Tcl.
-dev-tcltk/tkimg 9999: Adds a lot of image formats to Tcl/Tk
 dev-util/0xFFFF 9999-r1: Open Free Fiasco Firmware Flasher
-dev-util/abootimg 9999-r1: Manipulate boot images for the Android bootloader
 dev-util/bcunit 9999: a fork of the defunct project CUnit, with several fixes and patches applied
 dev-util/lemon 3.16.2 3.31.1: A LALR(1) parser generator
 dev-util/uefitool 0.28.0: UEFI firmware image viewer and editor
@@ -161,24 +158,20 @@ net-wireless/rtl-ais 0.3 9999: A simple AIS tuner and generic dual-frequency FM 
 sci-electronics/OpenBoardView 7.4_pre1: Linux SDL/ImGui edition software for viewing .brd files, intended as a drop-in replacement for the "Test_Link" software and "Landrex"
 sci-electronics/adms 9999: ADMS is a code generator for the Verilog-AMS language
 sci-electronics/qucs 0.0.19: Quite Universal Circuit Simulator in Qt4
-sci-geosciences/florb 9999: florb is a really simple map viewer and GPX editor written in C++ using the FLTK UI toolkit.
 sci-geosciences/navit 9999-r1: An open-source car navigation system with a routing engine
 sci-libs/libarea 9999: Library and python module for pocketing and profiling operations
 sci-libs/oce 0.18.1: Development platform for CAD/CAE, 3D surface/solid modeling and data exchange
-sys-apps/9mount 9999: A set of SUID mounting tools for use with v9fs.
 sys-apps/con2fbmap 2.1.28: Shows and sets mapping between consoles and framebuffer devices
 sys-apps/ksm_preload 9999: Enables legacy applications to leverage Linux's memory deduplication.
 sys-apps/lfsb 0.4.4: A Linux utility to change the FSB frequency without having to reboot
 sys-apps/me_cleaner 9999: Tool for partial deblobbing of Intel ME/TXE firmware images
 sys-apps/vbtracetool 9999: Video bios execution tracing widget
 sys-auth/linux-sgx-driver 9999: Intel(R) Software Guard Extensions for Linux* OS
-sys-block/f3 9999: Fight Flash Fraud, or Fight Fake Flash
 sys-boot/sedutil 9999: The Drive Trust Alliance Self Encrypting Drive Utility
 sys-devel/ct-ng 9999: crosstool-ng is a tool to build cross-compiling toolchains
 sys-fs/nullfs 9999: FUSE /dev/null equivalent for directories
 sys-fs/udev-zero 9999: Drop-in replacement for libudev intended to work with any device manager
 sys-kernel/linux-firmware 20210919: Linux firmware files
-sys-libs/libcal 9999: Configuration Access Library
 sys-libs/libspfs 0.2: Library for writing 9P2000 compliant user-space file servers that can be mounted using v9fs file system.
 virtual/libudev 9999: Virtual for libudev providers
 virtual/udev 9999: Virtual to select between different udev daemon providers
