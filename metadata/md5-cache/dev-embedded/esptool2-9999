@@ -1,0 +1,11 @@
+BDEPEND=>=dev-vcs/git-1.8.2.1[curl]
+DEFINED_PHASES=install unpack
+DESCRIPTION=An esp8266 rom creation tool
+EAPI=8
+HOMEPAGE=https://github.com/raburton/esptool2
+INHERIT=git-r3
+LICENSE=GPL-3
+PROPERTIES=live
+SLOT=0
+_eclasses_=git-r3	c57c50c922e121043788de0b40ada60a
+_md5_=8410de46546611b1919252f9cd88d670
