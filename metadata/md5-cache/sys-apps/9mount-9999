@@ -1,0 +1,11 @@
+BDEPEND=>=dev-vcs/git-1.8.2.1[curl]
+DEFINED_PHASES=install unpack
+DESCRIPTION=A set of SUID mounting tools for use with v9fs.
+EAPI=8
+HOMEPAGE=http://github.com/minad/9mount
+INHERIT=git-r3
+LICENSE=ISC
+PROPERTIES=live
+SLOT=0
+_eclasses_=git-r3	c57c50c922e121043788de0b40ada60a
+_md5_=5a199aa3a4b797f43c86c24c0aa7ce8c
