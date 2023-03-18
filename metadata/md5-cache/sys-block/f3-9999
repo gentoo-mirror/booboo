@@ -1,0 +1,11 @@
+BDEPEND=>=dev-vcs/git-1.8.2.1[curl]
+DEFINED_PHASES=compile install unpack
+DESCRIPTION=Fight Flash Fraud, or Fight Fake Flash
+EAPI=8
+HOMEPAGE=http://oss.digirati.com.br/f3/
+INHERIT=git-r3
+LICENSE=GPL-3
+PROPERTIES=live
+SLOT=0
+_eclasses_=git-r3	c57c50c922e121043788de0b40ada60a
+_md5_=61c820458516e6a70cf10937a9fb7b11

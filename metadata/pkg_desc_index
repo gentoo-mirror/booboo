@@ -86,6 +86,7 @@ dev-python/python-olm 3.1.5: Python bindings for the Olm C library
 dev-python/pythonocc-cadquery 9999: Python Interface to OpenCASCADE CAD library, CadQuery fork
 dev-tcltk/tclgpg 9999-r1: Tcl interface to GNU Privacy Guard with interface similar to TclGPGME.
 dev-tcltk/tcludp 1.0.11: The Tcl UDP extension provides a simple library to support UDP socket in Tcl.
+dev-tcltk/tkimg 9999: Adds a lot of image formats to Tcl/Tk
 dev-util/0xFFFF 9999-r1: Open Free Fiasco Firmware Flasher
 dev-util/bcunit 9999: a fork of the defunct project CUnit, with several fixes and patches applied
 dev-util/lemon 3.16.2 3.31.1: A LALR(1) parser generator
@@ -167,6 +168,7 @@ sys-apps/lfsb 0.4.4: A Linux utility to change the FSB frequency without having 
 sys-apps/me_cleaner 9999: Tool for partial deblobbing of Intel ME/TXE firmware images
 sys-apps/vbtracetool 9999: Video bios execution tracing widget
 sys-auth/linux-sgx-driver 9999: Intel(R) Software Guard Extensions for Linux* OS
+sys-block/f3 9999: Fight Flash Fraud, or Fight Fake Flash
 sys-boot/sedutil 9999: The Drive Trust Alliance Self Encrypting Drive Utility
 sys-devel/ct-ng 9999: crosstool-ng is a tool to build cross-compiling toolchains
 sys-fs/nullfs 9999: FUSE /dev/null equivalent for directories
