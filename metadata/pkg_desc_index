@@ -164,6 +164,7 @@ sci-geosciences/navit 9999-r1: An open-source car navigation system with a routi
 sci-libs/libarea 9999: Library and python module for pocketing and profiling operations
 sci-libs/oce 0.18.1: Development platform for CAD/CAE, 3D surface/solid modeling and data exchange
 sys-apps/9mount 9999: A set of SUID mounting tools for use with v9fs.
+sys-apps/bubblejail 9999: Bubblejail is a bubblewrap-based alternative to Firejail.
 sys-apps/con2fbmap 2.1.28: Shows and sets mapping between consoles and framebuffer devices
 sys-apps/ksm_preload 9999: Enables legacy applications to leverage Linux's memory deduplication.
 sys-apps/lfsb 0.4.4: A Linux utility to change the FSB frequency without having to reboot
