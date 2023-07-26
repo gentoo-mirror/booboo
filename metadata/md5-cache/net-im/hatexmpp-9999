@@ -10,5 +10,5 @@ LICENSE=WTFPL-2
 PROPERTIES=live
 RDEPEND=>=dev-libs/glib-2.18.4 >=sys-fs/fuse-2.7.4:0 >=net-libs/loudmouth-1.4.3
 SLOT=0
-_eclasses_=git-r3	97f7f638070d17e4c2b6542589bb4575
+_eclasses_=git-r3	2358a7b20091609e24bd3a83b3ac5991
 _md5_=9012b6feab8718e0966f595e3651cc1a
