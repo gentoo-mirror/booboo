@@ -62,14 +62,12 @@ app-mobilephone/vcf2csv 0.6.201011061941: vcf2csv is a command line tool to conv
 app-paludis/pink-update 9999: paludis port of etc-update
 app-text/catdoc 9999: Converter for Microsoft Word, Excel, PowerPoint and RTF files to text
 app-text/htmltidy 99999999: The granddaddy of HTML tools, with support for modern standards
-app-text/paps 0.7.1: Unicode-aware text to PostScript converter
 app-text/sdcv 0.5.5: Console version of Stardict program
 app-text/uniutils 2.27: This package consists of a set of programs for manipulating and analyzing Unicode text. The analysis utilities are useful when working with Unicode files when one doesn't know the writing system, doesn't have the necessary font, needs to inspect invisible characters, needs to find out whether characters have been combined or in what order they occur, or needs statistics on which characters occur.
 app-vim/vim-ledger 1.2.0 9999: vim plugin: app-office/ledger file format syntax
 app-vim/vim-xkbswitch 0.16: easily switch current keyboard layout when entering and leaving Insert mode
 dev-embedded/esptool2 9999: An esp8266 rom creation tool
 dev-embedded/hid-tools 9999: a set of tools to interact with the kernel's HID subsystem
-dev-embedded/libmpsse 9999: Open source library for SPI/I2C control via FTDI chips
 dev-embedded/serproxy 0.1.2: Serproxy is a multi-threaded proxy program for redirecting network socket connections to/from serial links, in cases where the remote end of the serial link doesn't have a TCP/IP stack (eg an embedded or microcontroller system). The proxy allows other hosts on the network to communicate with the system on the remote end of the serial link.
 dev-embedded/slsnif 9999: Serial port logging utility
 dev-embedded/stm32flash 0.4 0.5 0.6 0.7: Open source flash program for STM32 using the ST serial bootloader
@@ -86,24 +84,16 @@ dev-python/lfmh 1.1.1: A Last.fm API interface.
 dev-python/pyrogram 9999: Telegram MTProto API framework for users and bots
 dev-python/python-olm 3.1.5: Python bindings for the Olm C library
 dev-python/pythonocc-cadquery 9999: Python Interface to OpenCASCADE CAD library, CadQuery fork
-dev-tcltk/tclgpg 9999-r1: Tcl interface to GNU Privacy Guard with interface similar to TclGPGME.
 dev-tcltk/tcludp 1.0.11: The Tcl UDP extension provides a simple library to support UDP socket in Tcl.
-dev-tcltk/tkimg 9999: Adds a lot of image formats to Tcl/Tk
 dev-util/0xFFFF 9999-r1: Open Free Fiasco Firmware Flasher
 dev-util/bcunit 9999: a fork of the defunct project CUnit, with several fixes and patches applied
 dev-util/lemon 3.16.2 3.31.1: A LALR(1) parser generator
 dev-util/uefitool 0.28.0: UEFI firmware image viewer and editor
 dev-util/waitgdb 9999: Stop the program on crash to allow attaching a debugger (like gdb)
-games-board/qgo2 9999: qGo is a full featured SGF editor and Go Client.
 games-board/rftg 0.9.4 9999: "Race for the Galaxy" card game.
 games-fps/unvanquished-data 0.51.1: Datafiles and maps for unvanquished
 games-roguelike/hyperrogue 9999: A puzzle roguelike in the hyperbolic plane.
-games-rpg/freedroidrpg 9999: Modification of the classical Freedroid engine into an RPG
-games-simulation/simutrans-extended 9999: A free Transport Tycoon clone Extended version.
-games-simulation/simutrans-extended-britain128 9999: Britain pakset for Simutrans Extended
-games-simulation/simutrans-extended-sweden128 9999: Sweden pakset for Simutrans Extended
 games-strategy/7kaa 9999: Seven Kingdoms: Ancient Adversaries
-games-strategy/StarRuler2 9999: 4X Space Strategy game
 media-fonts/terminus-ttf 4.49.3: TTF version of media-fonts/terminus-font
 media-fonts/twemoji-color-font 13.1.0: A color and B&W emoji SVG-in-OT font with ZWJ, skin tone mods and country flags
 media-gfx/admesh 9999: CLI and C library for processing triangulated solid meshes
@@ -119,7 +109,6 @@ media-gfx/qiv 9999: Quick Image Viewer
 media-gfx/solvespace 9999: Parametric 2d/3d CAD
 media-libs/portaudio 9999: A free, cross-platform, open-source, audio I/O library
 media-plugins/alsa-plugin-rsound 9999-r1: RSound plugin for ALSA
-media-plugins/alsaequal 9999: a real-time adjustable equalizer plugin for ALSA
 media-radio/aptdec 9999: NOAA APT satellite imagery decoder
 media-sound/acousticbrainz-gui 9999: This client lets you submit your own audio features to the AcousticBrainz project.
 media-sound/ayfly 9999: Ayfly is a AY-891x emulator and player.
@@ -132,22 +121,18 @@ media-sound/rsound 1.1: RSound is a networked audio system. It allows applicatio
 media-sound/scrobbler 1.1.4: A command-line Last.fm scrobbler and a now-playing status updater.
 media-video/eviacam 9999: webcam based mouse emulator
 net-analyzer/nmap_vulscan 2.0: A NSE vulnerability scanner which uses an offline version of different vulnerability databases
-net-dialup/picocom 9999: minimal dumb-terminal emulation program
 net-fs/ufs 0.2: libspfs-based daemon that shares the local filesystem over 9P
 net-im/hatexmpp 9999: hatexmpp is a xmpp-client featuring ii-like interface
 net-im/kotatogram-desktop 1.4.9: Experimental Telegram Desktop fork
-net-im/tkabber 9999-r6: GUI client for XMPP (Jabber) instant messaging protocol, written in Tcl/Tk.
 net-libs/liboping 9999: C library and ncurses based program to generate ICMP echo requests and ping multiple hosts at once
 net-libs/loudmouth 9999: Lightweight C Jabber library
 net-libs/pjsip 2.7.2: Multimedia communication libraries written in C language for building VoIP applications.
 net-libs/zoidcom 0.6.5 0.6.7 0.6.10: High-level, UDP-based networking library
 net-misc/6tunnel 9999: TCP proxy for applications that don't speak IPv6
-net-misc/gnurl 7.72.0: libgnurl is a fork of libcurl, which is mostly for GNUnet
 net-misc/killcx 1.0.3: Close a TCP connection
 net-misc/mbpoll 9999: command line utility to communicate with ModBus slave (RTU or TCP)
 net-misc/mbusd 9999: Open-source Modbus TCP to Modbus RTU (RS-232/485) gateway
 net-misc/mobos-gui 9999: A simple QML GUI to use with oFono
-net-misc/trackma 9999: Open multi-site list manager for media tracking sites
 net-misc/vuurmuur_conf 0.7: Iptables frontend. Ncurses GUI, for administration and monitoring.
 net-misc/zebedee 2.5.3-r1: A simple, free, secure TCP and UDP tunnel program
 net-p2p/monero-gui 0.17.3.2 0.18.1.0 0.18.2.0 0.18.2.2: GUI for net-p2p/monero
@@ -158,12 +143,10 @@ net-wireless/gnss-sdr 0.0.17: an open-source software-defined GNSS receiver
 net-wireless/kalibrate-rtl 9999: fork of http://thre.at/kalibrate/ for use with rtl-sdr devices
 net-wireless/libacars 2.1.4: A library for decoding various ACARS message payloads
 net-wireless/rtl-ais 0.3 9999: A simple AIS tuner and generic dual-frequency FM demodulator
-sci-electronics/OpenBoardView 7.4_pre1: Linux SDL/ImGui edition software for viewing .brd files, intended as a drop-in replacement for the "Test_Link" software and "Landrex"
 sci-electronics/adms 9999: ADMS is a code generator for the Verilog-AMS language
 sci-electronics/qucs 0.0.19: Quite Universal Circuit Simulator in Qt4
 sci-geosciences/navit 9999-r1: An open-source car navigation system with a routing engine
 sci-libs/libarea 9999: Library and python module for pocketing and profiling operations
-sci-libs/oce 0.18.1: Development platform for CAD/CAE, 3D surface/solid modeling and data exchange
 sys-apps/9mount 9999: A set of SUID mounting tools for use with v9fs.
 sys-apps/bubblejail 9999: Bubblejail is a bubblewrap-based alternative to Firejail.
 sys-apps/con2fbmap 2.1.28: Shows and sets mapping between consoles and framebuffer devices
@@ -184,5 +167,4 @@ virtual/libudev 9999: Virtual for libudev providers
 virtual/udev 9999: Virtual to select between different udev daemon providers
 x11-apps/xkb-switch 9999: Switch your X keyboard layouts from the command line
 x11-misc/run_scaled 9999: Run an X application scaled via xpra. Useful on hidpi screens.
-x11-misc/xautoclick 0.31: xAutoClick is an application to reduce RSI by simulating multiple mouse clicks
 x11-misc/xss-lock 9999: Use external locker as X screen saver.
