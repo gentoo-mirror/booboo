@@ -85,6 +85,7 @@ dev-python/lfmh 1.1.1: A Last.fm API interface.
 dev-python/pyrogram 9999: Telegram MTProto API framework for users and bots
 dev-python/python-olm 3.1.5: Python bindings for the Olm C library
 dev-python/pythonocc-cadquery 9999: Python Interface to OpenCASCADE CAD library, CadQuery fork
+dev-tcltk/tclgpg 9999-r1: Tcl interface to GNU Privacy Guard with interface similar to TclGPGME.
 dev-tcltk/tcludp 1.0.11: The Tcl UDP extension provides a simple library to support UDP socket in Tcl.
 dev-util/0xFFFF 9999-r1: Open Free Fiasco Firmware Flasher
 dev-util/bcunit 9999: a fork of the defunct project CUnit, with several fixes and patches applied
