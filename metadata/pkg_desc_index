@@ -62,6 +62,7 @@ app-mobilephone/vcf2csv 0.6.201011061941: vcf2csv is a command line tool to conv
 app-paludis/pink-update 9999: paludis port of etc-update
 app-text/catdoc 9999: Converter for Microsoft Word, Excel, PowerPoint and RTF files to text
 app-text/htmltidy 99999999: The granddaddy of HTML tools, with support for modern standards
+app-text/paps 0.7.1: Unicode-aware text to PostScript converter
 app-text/sdcv 0.5.5: Console version of Stardict program
 app-text/uniutils 2.27: This package consists of a set of programs for manipulating and analyzing Unicode text. The analysis utilities are useful when working with Unicode files when one doesn't know the writing system, doesn't have the necessary font, needs to inspect invisible characters, needs to find out whether characters have been combined or in what order they occur, or needs statistics on which characters occur.
 app-vim/vim-ledger 1.2.0 9999: vim plugin: app-office/ledger file format syntax
@@ -167,4 +168,5 @@ virtual/libudev 9999: Virtual for libudev providers
 virtual/udev 9999: Virtual to select between different udev daemon providers
 x11-apps/xkb-switch 9999: Switch your X keyboard layouts from the command line
 x11-misc/run_scaled 9999: Run an X application scaled via xpra. Useful on hidpi screens.
+x11-misc/xautoclick 0.31: xAutoClick is an application to reduce RSI by simulating multiple mouse clicks
 x11-misc/xss-lock 9999: Use external locker as X screen saver.

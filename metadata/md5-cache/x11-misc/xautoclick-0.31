@@ -1,0 +1,12 @@
+DEFINED_PHASES=configure install prepare
+DEPEND=x11-libs/libX11 gtk? ( x11-libs/gtk+:2 ) fltk? ( x11-libs/fltk:1 )
+DESCRIPTION=xAutoClick is an application to reduce RSI by simulating multiple mouse clicks
+EAPI=8
+HOMEPAGE=http://xautoclick.sourceforge.net/
+IUSE=gtk fltk
+KEYWORDS=~x86 ~amd64
+LICENSE=GPL-2
+RDEPEND=x11-libs/libX11 gtk? ( x11-libs/gtk+:2 ) fltk? ( x11-libs/fltk:1 )
+SLOT=0
+SRC_URI=mirror://sourceforge/xautoclick/xautoclick-0.31.tar.xz
+_md5_=e787809a8a0874eaff0ca5cebf318302
