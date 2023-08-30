@@ -123,9 +123,11 @@ media-sound/rsound 1.1: RSound is a networked audio system. It allows applicatio
 media-sound/scrobbler 1.1.4: A command-line Last.fm scrobbler and a now-playing status updater.
 media-video/eviacam 9999: webcam based mouse emulator
 net-analyzer/nmap_vulscan 2.0: A NSE vulnerability scanner which uses an offline version of different vulnerability databases
+net-dialup/picocom 9999: minimal dumb-terminal emulation program
 net-fs/ufs 0.2: libspfs-based daemon that shares the local filesystem over 9P
 net-im/hatexmpp 9999: hatexmpp is a xmpp-client featuring ii-like interface
 net-im/kotatogram-desktop 1.4.9: Experimental Telegram Desktop fork
+net-im/tkabber 9999-r6: GUI client for XMPP (Jabber) instant messaging protocol, written in Tcl/Tk.
 net-libs/liboping 9999: C library and ncurses based program to generate ICMP echo requests and ping multiple hosts at once
 net-libs/loudmouth 9999: Lightweight C Jabber library
 net-libs/pjsip 2.7.2: Multimedia communication libraries written in C language for building VoIP applications.
