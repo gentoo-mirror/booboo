@@ -69,6 +69,7 @@ app-vim/vim-ledger 1.2.0 9999: vim plugin: app-office/ledger file format syntax
 app-vim/vim-xkbswitch 0.16: easily switch current keyboard layout when entering and leaving Insert mode
 dev-embedded/esptool2 9999: An esp8266 rom creation tool
 dev-embedded/hid-tools 9999: a set of tools to interact with the kernel's HID subsystem
+dev-embedded/libmpsse 9999: Open source library for SPI/I2C control via FTDI chips
 dev-embedded/serproxy 0.1.2: Serproxy is a multi-threaded proxy program for redirecting network socket connections to/from serial links, in cases where the remote end of the serial link doesn't have a TCP/IP stack (eg an embedded or microcontroller system). The proxy allows other hosts on the network to communicate with the system on the remote end of the serial link.
 dev-embedded/slsnif 9999: Serial port logging utility
 dev-embedded/stm32flash 0.4 0.5 0.6 0.7: Open source flash program for STM32 using the ST serial bootloader
