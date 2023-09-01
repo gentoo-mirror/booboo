@@ -136,6 +136,7 @@ net-libs/loudmouth 9999: Lightweight C Jabber library
 net-libs/pjsip 2.7.2: Multimedia communication libraries written in C language for building VoIP applications.
 net-libs/zoidcom 0.6.5 0.6.7 0.6.10: High-level, UDP-based networking library
 net-misc/6tunnel 9999: TCP proxy for applications that don't speak IPv6
+net-misc/gnurl 7.72.0: libgnurl is a fork of libcurl, which is mostly for GNUnet
 net-misc/killcx 1.0.3: Close a TCP connection
 net-misc/mbpoll 9999: command line utility to communicate with ModBus slave (RTU or TCP)
 net-misc/mbusd 9999: Open-source Modbus TCP to Modbus RTU (RS-232/485) gateway
