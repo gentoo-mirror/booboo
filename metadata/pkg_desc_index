@@ -170,7 +170,6 @@ sys-boot/sedutil 9999: The Drive Trust Alliance Self Encrypting Drive Utility
 sys-devel/ct-ng 9999: crosstool-ng is a tool to build cross-compiling toolchains
 sys-fs/nullfs 9999: FUSE /dev/null equivalent for directories
 sys-fs/udev-zero 9999: Drop-in replacement for libudev intended to work with any device manager
-sys-kernel/linux-firmware 20210919: Linux firmware files
 sys-libs/libspfs 0.2: Library for writing 9P2000 compliant user-space file servers that can be mounted using v9fs file system.
 sys-power/throttled 0.9.2 9999: Fix Intel CPU Throttling on Linux
 virtual/libudev 9999: Virtual for libudev providers
