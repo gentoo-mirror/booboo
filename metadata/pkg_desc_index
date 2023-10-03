@@ -143,7 +143,7 @@ net-misc/mbusd 9999: Open-source Modbus TCP to Modbus RTU (RS-232/485) gateway
 net-misc/mobos-gui 9999: A simple QML GUI to use with oFono
 net-misc/vuurmuur_conf 0.7: Iptables frontend. Ncurses GUI, for administration and monitoring.
 net-misc/zebedee 2.5.3-r1: A simple, free, secure TCP and UDP tunnel program
-net-p2p/monero-gui 0.17.3.2 0.18.1.0 0.18.2.0 0.18.2.2: GUI for net-p2p/monero
+net-p2p/monero-gui 0.17.3.2 0.18.1.0 0.18.2.0 0.18.2.2 0.18.3.1: GUI for net-p2p/monero
 net-vpn/miredo 1.2.6 9999: Miredo is an open-source Teredo IPv6 tunneling software
 net-vpn/tinc 1.1.9999: tinc is an easy to configure VPN implementation
 net-wireless/dumpvdl2 2.2.0: A lightweight, standalone VDL Mode 2 message decoder and protocol analyzer
