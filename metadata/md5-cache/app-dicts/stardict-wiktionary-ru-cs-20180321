@@ -1,7 +1,7 @@
 DEFINED_PHASES=compile install
 DEPEND=|| ( >=app-text/stardict-2.4.2 app-text/sdcv app-text/goldendict ) gzip? ( app-arch/gzip app-text/dictd )
 DESCRIPTION=Stardict Dictionary Russian to Czech
-EAPI=4
+EAPI=8
 HOMEPAGE=http://libredict.org/
 INHERIT=stardict
 IUSE=+gzip gzip
@@ -11,4 +11,4 @@ RESTRICT=strip
 SLOT=0
 SRC_URI=http://www.libredict.org/dictionaries/ru-cs/wiktionary_ru-cs_stardict_2018-03-21.tgz
 _eclasses_=stardict	d55eeb8d7051f3339421c8cba9ba5d7e
-_md5_=f0c6548dbdae001ecc4be6c26f4dd575
+_md5_=b663623ab8799d5cde88e1e69f2a8664
