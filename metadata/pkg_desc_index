@@ -73,8 +73,6 @@ dev-embedded/libmpsse 9999: Open source library for SPI/I2C control via FTDI chi
 dev-embedded/serproxy 0.1.2: Serproxy is a multi-threaded proxy program for redirecting network socket connections to/from serial links, in cases where the remote end of the serial link doesn't have a TCP/IP stack (eg an embedded or microcontroller system). The proxy allows other hosts on the network to communicate with the system on the remote end of the serial link.
 dev-embedded/slsnif 9999: Serial port logging utility
 dev-embedded/stm32flash 0.4 0.5 0.6 0.7: Open source flash program for STM32 using the ST serial bootloader
-dev-haskell/bytestring-progress 1.2: A library for tracking the consumption of a lazy ByteString
-dev-haskell/retry 9999: Retry combinators for monadic actions that may fail
 dev-lang/kona 9999: Kona is an open-source implementation of the K programming language.
 dev-libs/libpredict 9999: A satellite orbit prediction library
 dev-libs/librs232 9999: multiplatform library for serial communications over RS-232 (serial port)
