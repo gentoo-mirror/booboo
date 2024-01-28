@@ -164,7 +164,6 @@ sys-apps/vbtracetool 9999: Video bios execution tracing widget
 sys-auth/linux-sgx-driver 9999: Intel(R) Software Guard Extensions for Linux* OS
 sys-block/f3 9999: Fight Flash Fraud, or Fight Fake Flash
 sys-boot/sedutil 9999: The Drive Trust Alliance Self Encrypting Drive Utility
-sys-devel/ct-ng 9999: crosstool-ng is a tool to build cross-compiling toolchains
 sys-fs/nullfs 9999: FUSE /dev/null equivalent for directories
 sys-fs/udev-zero 9999: Drop-in replacement for libudev intended to work with any device manager
 sys-libs/libspfs 0.2: Library for writing 9P2000 compliant user-space file servers that can be mounted using v9fs file system.
