@@ -3,6 +3,7 @@ acct-user/miredo 0: System user: miredo
 app-accessibility/whisper-cpp 1.2.1: High-performance automatic speech recognition (ASR) using inference
 app-benchmarks/STREAM 9999: a benchmark that measures sustainable memory bandwidth and computation rate
 app-benchmarks/rowhammer-test 9999: Test DRAM for bit flips caused by the rowhammer problem
+app-crypt/RdRand 2.1.4: Library for generating random numbers using the RdRand instruction on Intel CPUs
 app-dicts/stardict-cdict-en-zh-big5 2.4.2: Stardict Dictionary English to Traditional Chinese (BIG5)
 app-dicts/stardict-cdict-en-zh-gb 2.4.2: Stardict Dictionary English to Simplified Chinese (GB)
 app-dicts/stardict-cedict-zh-en-big5 2.4.2: Stardict Dictionary Traditional Chinese (BIG5) to English
