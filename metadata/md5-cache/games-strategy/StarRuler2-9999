@@ -10,5 +10,5 @@ LICENSE=MIT
 PROPERTIES=live
 RDEPEND=virtual/opengl virtual/glu media-libs/openal media-libs/libpng:0 sys-libs/zlib media-libs/glew:= media-libs/freetype >=media-libs/libvorbis-1.1.2 >=media-libs/libogg-1.1.3 app-arch/bzip2 x11-libs/libXrandr net-misc/curl
 SLOT=0
-_eclasses_=git-r3	86fa1f157b70b9d2ff340c4633b1cf4b	wrapper	4a1902f969e5718126434fc35f3a0d9c
+_eclasses_=git-r3	fbb2889c81f3a05910c1524db69425c1	wrapper	4a1902f969e5718126434fc35f3a0d9c
 _md5_=991d9cb426a31026f3554039cfdf8fa8
