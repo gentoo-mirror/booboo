@@ -95,6 +95,7 @@ dev-util/waitgdb 9999: Stop the program on crash to allow attaching a debugger (
 games-board/rftg 0.9.4 9999: "Race for the Galaxy" card game.
 games-fps/unvanquished-data 0.51.1: Datafiles and maps for unvanquished
 games-roguelike/hyperrogue 9999: A puzzle roguelike in the hyperbolic plane.
+games-rpg/freedroidrpg 9999: Modification of the classical Freedroid engine into an RPG
 games-strategy/7kaa 9999: Seven Kingdoms: Ancient Adversaries
 games-strategy/StarRuler2 9999: 4X Space Strategy game
 mail-filter/mailmasquerade 9999: proxies e-mail to a configurable address
