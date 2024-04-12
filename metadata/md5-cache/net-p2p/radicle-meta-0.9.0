@@ -1,0 +1,10 @@
+DEFINED_PHASES=-
+DESCRIPTION=Radicle is an open source, peer-to-peer code collaboration stack built on Git.
+EAPI=8
+HOMEPAGE=https://radicle.xyz/
+IUSE=+cli httpd +node +git
+KEYWORDS=~amd64
+LICENSE=metapackage
+RDEPEND=cli? ( >=net-p2p/radicle-cli-0.9.0:0 ) httpd? ( >=net-p2p/radicle-httpd-0.9.0:0 ) node? ( >=net-p2p/radicle-node-0.9.0:0 ) git? ( >=net-p2p/radicle-remote-helper-0.9.0:0 )
+SLOT=0
+_md5_=e2afa52788e5d012f80bec60c211574c

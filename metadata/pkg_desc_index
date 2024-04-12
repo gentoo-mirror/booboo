@@ -1,5 +1,7 @@
 acct-group/miredo 0: System group: miredo
+acct-group/radicle 0: Group for the system-wide net-p2p/radicle-node
 acct-user/miredo 0: System user: miredo
+acct-user/radicle 0: User for the system-wide net-p2p/radicle-node server
 app-accessibility/whisper-cpp 1.2.1: High-performance automatic speech recognition (ASR) using inference
 app-benchmarks/STREAM 9999: a benchmark that measures sustainable memory bandwidth and computation rate
 app-benchmarks/rowhammer-test 9999: Test DRAM for bit flips caused by the rowhammer problem
@@ -144,6 +146,11 @@ net-misc/mobos-gui 9999: A simple QML GUI to use with oFono
 net-misc/vuurmuur_conf 0.7: Iptables frontend. Ncurses GUI, for administration and monitoring.
 net-misc/zebedee 2.5.3-r1: A simple, free, secure TCP and UDP tunnel program
 net-p2p/monero-gui 0.17.3.2 0.18.1.0 0.18.2.0 0.18.2.2 0.18.3.3: GUI for net-p2p/monero
+net-p2p/radicle-cli 0.9.0: Radicle command-line tool
+net-p2p/radicle-httpd 0.9.0: Radicle Web Server
+net-p2p/radicle-meta 0.9.0: Radicle is an open source, peer-to-peer code collaboration stack built on Git.
+net-p2p/radicle-node 0.9.0: Radicle Node Server
+net-p2p/radicle-remote-helper 0.9.0: Radicle git remote helper
 net-vpn/miredo 1.2.6 9999: Miredo is an open-source Teredo IPv6 tunneling software
 net-vpn/tinc 1.1.9999: tinc is an easy to configure VPN implementation
 net-wireless/dumpvdl2 2.2.0: A lightweight, standalone VDL Mode 2 message decoder and protocol analyzer
