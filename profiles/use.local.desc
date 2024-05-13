@@ -6,6 +6,9 @@ app-accessibility/whisper-cpp:command - Installs the example spoken-command inte
 app-accessibility/whisper-cpp:models - Adds a runtime dependency on app-accessibility/whisepr-ggml-models
 app-accessibility/whisper-cpp:stream - Installs the example of speech-to-text from microphone audio stream
 app-text/sdcv:darkterm - Improve readability of color output on terminals with dark background.
+dev-python/ezdxf:cython - Build Cython-based C extensions
+dev-python/ezdxf:matplotlib - Add support for dev-python/matplotlib
+dev-python/ezdxf:qt5 - Add support for dev-python/PyQt5
 dev-tcltk/tclgpg:helper - Compile C helper to run gpg binary
 net-im/kotatogram-desktop:enchant - Enable the app-text/aspell spell-checking backend
 net-im/kotatogram-desktop:hunspell - Enable the app-text/hunspell spell-checking backend
