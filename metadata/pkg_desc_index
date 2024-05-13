@@ -166,6 +166,7 @@ sci-electronics/OpenBoardView 7.4_pre1: Linux SDL/ImGui edition software for vie
 sci-electronics/adms 9999: ADMS is a code generator for the Verilog-AMS language
 sci-electronics/qucs 0.0.19: Quite Universal Circuit Simulator in Qt4
 sci-geosciences/navit 9999-r1: An open-source car navigation system with a routing engine
+sci-libs/casadi 9999: CasADi is a symbolic framework for numeric optimization implementing automatic differentiation in forward and reverse modes on sparse matrix-valued computational graphs.
 sci-libs/libarea 9999: Library and python module for pocketing and profiling operations
 sci-libs/oce 0.18.1: Development platform for CAD/CAE, 3D surface/solid modeling and data exchange
 sys-apps/9mount 9999: A set of SUID mounting tools for use with v9fs.
