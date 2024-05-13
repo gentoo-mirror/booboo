@@ -83,6 +83,7 @@ dev-libs/librs232 9999: multiplatform library for serial communications over RS-
 dev-libs/libsigc++ 2.10.9999: Typesafe callback system for standard C++
 dev-libs/libusb 0.1.12-r8: Userspace access to USB devices
 dev-libs/olm 3.1.4: An implementation of the Double Ratchet cryptographic ratchet in C++
+dev-python/cadquery-ocp 7.7.2.1: Python wrapper for OCCT generated using pywrap
 dev-python/cflib 0.1.3 0.1.6 0.1.7: A simple wrapper around optparse for powerful command line utilities.
 dev-python/ezdxf 0.16.5: Python interface to DXF
 dev-python/lfmh 1.1.1: A Last.fm API interface.
