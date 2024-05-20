@@ -145,6 +145,7 @@ net-im/kotatogram-desktop 1.4.9: Experimental Telegram Desktop fork
 net-im/tkabber 9999-r6: GUI client for XMPP (Jabber) instant messaging protocol, written in Tcl/Tk.
 net-libs/liboping 9999: C library and ncurses based program to generate ICMP echo requests and ping multiple hosts at once
 net-libs/loudmouth 9999: Lightweight C Jabber library
+net-libs/opendht 9999: A lightweight C++11 Distributed Hash Table implementation
 net-libs/pjsip 2.7.2: Multimedia communication libraries written in C language for building VoIP applications.
 net-libs/zoidcom 0.6.5 0.6.7 0.6.10: High-level, UDP-based networking library
 net-misc/6tunnel 9999: TCP proxy for applications that don't speak IPv6

@@ -27,6 +27,8 @@ net-im/tkabber:trayicon - Enables support for tray icon with dev-tcltk/tktray
 net-im/tkabber:udp - Enables support for DNS resolving over UDP.
 net-im/tkabber:vanilla - Skips any kind of source patching (and epatch_user too).
 net-libs/loudmouth:asyncns - Use libasyncns for asynchronous name resolution.
+net-libs/opendht:python - Install Python bindings. Requires dev-python/cython.
+net-libs/opendht:tools - Install extra opendht tools (dhtchat, dhtnode and dhtscanner).
 net-vpn/tinc:gui - Add GUI support, using dev-python/wxpython
 net-vpn/tinc:legacy - Enable legacy (tinc 1.0) protocol support
 net-vpn/tinc:tools - Build some testing tools
