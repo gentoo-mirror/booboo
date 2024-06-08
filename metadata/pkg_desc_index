@@ -81,7 +81,6 @@ dev-lang/kona 9999: Kona is an open-source implementation of the K programming l
 dev-libs/libpredict 9999: A satellite orbit prediction library
 dev-libs/librs232 9999: multiplatform library for serial communications over RS-232 (serial port)
 dev-libs/libsigc++ 2.10.9999: Typesafe callback system for standard C++
-dev-libs/libusb 0.1.12-r8: Userspace access to USB devices
 dev-libs/olm 3.1.4: An implementation of the Double Ratchet cryptographic ratchet in C++
 dev-python/anytree 2.8.0: Powerful and Lightweight Python Tree Data Structure
 dev-python/cadquery-ocp 7.7.2.1: Python wrapper for OCCT generated using pywrap
@@ -99,7 +98,6 @@ dev-python/typish 1.9.3: Functionality for types
 dev-tcltk/tclgpg 9999-r1: Tcl interface to GNU Privacy Guard with interface similar to TclGPGME.
 dev-tcltk/tcludp 1.0.11: The Tcl UDP extension provides a simple library to support UDP socket in Tcl.
 dev-util/0xFFFF 9999-r1: Open Free Fiasco Firmware Flasher
-dev-util/bcunit 9999: a fork of the defunct project CUnit, with several fixes and patches applied
 dev-util/lemon 3.16.2 3.31.1: A LALR(1) parser generator
 dev-util/uefitool 0.28.0: UEFI firmware image viewer and editor
 dev-util/waitgdb 9999: Stop the program on crash to allow attaching a debugger (like gdb)
