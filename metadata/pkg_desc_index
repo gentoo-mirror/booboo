@@ -119,6 +119,7 @@ media-gfx/heekscnc 9999: HeeksCAD-based CAM
 media-gfx/qcad 3.27.8.4: Open Source 2D CAD
 media-gfx/qiv 9999: Quick Image Viewer
 media-gfx/solvespace 9999: Parametric 2d/3d CAD
+media-libs/portaudio 9999: A free, cross-platform, open-source, audio I/O library
 media-plugins/alsa-plugin-rsound 9999-r1: RSound plugin for ALSA
 media-plugins/alsaequal 9999: a real-time adjustable equalizer plugin for ALSA
 media-radio/aptdec 9999: NOAA APT satellite imagery decoder
