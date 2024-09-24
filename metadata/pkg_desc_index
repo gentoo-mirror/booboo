@@ -116,6 +116,7 @@ media-gfx/cq-editor 9999: CadQuery GUI editor based on PyQT
 media-gfx/genericcam 9999: Generic CAM is an open source tool path generator for CNC machines.
 media-gfx/heekscad 9999: Computer-Aided Design application based on OCE
 media-gfx/heekscnc 9999: HeeksCAD-based CAM
+media-gfx/prusaslicer 2.7.3_alpha1-r666: A mesh slicer to generate G-code for fused-filament-fabrication (3D printers)
 media-gfx/qcad 3.27.8.4: Open Source 2D CAD
 media-gfx/qiv 9999: Quick Image Viewer
 media-gfx/solvespace 9999: Parametric 2d/3d CAD
