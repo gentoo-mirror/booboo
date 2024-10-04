@@ -28,12 +28,16 @@ DEPEND="
 	net-libs/libpcap:=
 	dev-libs/pugixml:=
 	sci-libs/matio:=
-	dev-cpp/gflags:=
 	sci-libs/volk:=
-	dev-cpp/glog:=
+	dev-libs/protobuf:=
 	sci-libs/armadillo:="
 RDEPEND="${DEPEND}"
 BDEPEND=""
+
+src_prepare() {
+	eapply "${FILESDIR}/protobuf.patch"
+	cmake_src_prepare
+}
 
 src_configure() {
 	local mycmakeargs=(
