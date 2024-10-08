@@ -61,7 +61,6 @@ app-misc/crazyflie-clients-python 2017.06.1 2019.01: Host applications and libra
 app-misc/kdrill 6.5: Kanji quiz and a lookup tool for X, helps in memorizing Japanese characters
 app-misc/run-mailcap 3.69: Run a program specified in the mailcap file based on a mime type
 app-misc/thd 9999: a lightweight hotkey daemon
-app-mobilephone/gsm-ussd 0.4.0.25: a script to send USSD (Unstructured Supplementary Services Data) queries to your broadband provider.
 app-mobilephone/vcf2csv 0.6.201011061941: vcf2csv is a command line tool to convert vcard files to html or csv.
 app-paludis/pink-update 9999: paludis port of etc-update
 app-text/catdoc 9999: Converter for Microsoft Word, Excel, PowerPoint and RTF files to text
