@@ -9,5 +9,5 @@ LICENSE=GPL-2
 PROPERTIES=live
 RDEPEND=>=dev-lang/tcl-8.5 >=dev-lang/tk-8.5 >=dev-tcltk/tcllib-1.6 >=dev-tcltk/bwidget-1.3 gpg? ( dev-tcltk/tclgpg ) ssl? ( >=dev-tcltk/tls-1.4.1 ) sound? ( dev-tcltk/snack ) trayicon? ( >=dev-tcltk/tktray-1.1 ) tkimg? ( >=dev-tcltk/tkimg-1.4.6 ) udp? ( dev-tcltk/tcludp )
 SLOT=0
-_eclasses_=fossil	89a8ec22661276ec0efff25b1dedfce8	desktop	56973babb9c5f19cab0eeb53ece644c6
+_eclasses_=fossil	89a8ec22661276ec0efff25b1dedfce8	desktop	3a72ffe0d8e1dd73af3a1c8c15a59fed
 _md5_=dec86a5ec3280202f521a9662e2634e8
