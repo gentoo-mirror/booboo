@@ -1,4 +1,4 @@
-BDEPEND=|| ( dev-lang/python:3.11 dev-lang/python:3.10 ) >=dev-util/cmake-3.16 virtual/pkgconfig app-alternatives/ninja >=dev-build/cmake-3.20.5
+BDEPEND=|| ( dev-lang/python:3.13 dev-lang/python:3.12 dev-lang/python:3.11 dev-lang/python:3.10 ) >=dev-util/cmake-3.16 virtual/pkgconfig app-alternatives/ninja >=dev-build/cmake-3.20.5
 DEFINED_PHASES=compile configure install postinst postrm preinst prepare pretend setup test
 DEPEND=app-arch/lz4:= dev-cpp/abseil-cpp:= dev-libs/libdispatch dev-libs/openssl:= dev-libs/xxhash >=dev-qt/qtcore-5.15:5 >=dev-qt/qtgui-5.15:5[dbus?,jpeg,png,wayland?,X?] >=dev-qt/qtimageformats-5.15:5 >=dev-qt/qtnetwork-5.15:5[ssl] >=dev-qt/qtsvg-5.15:5 >=dev-qt/qtwidgets-5.15:5[png,X?] media-fonts/open-sans media-libs/fontconfig:= ~media-libs/libtgvoip-2.4.4_p20220117 media-libs/openal media-libs/opus:= media-libs/rnnoise ~media-libs/tg_owt-0_pre20220209[screencast=,X=] media-video/ffmpeg:=[opus] sys-libs/zlib:=[minizip] dbus? ( dev-cpp/glibmm:2 dev-qt/qtdbus:5 dev-libs/libdbusmenu-qt[qt5(+)] ) enchant? ( app-text/enchant:= ) hunspell? ( >=app-text/hunspell-1.7:= ) jemalloc? ( dev-libs/jemalloc:=[-lazy-lock] ) wayland? ( kde-frameworks/kwayland:= ) X? ( x11-libs/libxcb:= ) dev-cpp/range-v3 =dev-cpp/ms-gsl-3*
 DESCRIPTION=Experimental Telegram Desktop fork
@@ -14,4 +14,4 @@ REQUIRED_USE=spell? ( ^^ ( enchant hunspell ) )
 SLOT=0
 SRC_URI=https://github.com/kotatogram/kotatogram-desktop/releases/download/k1.4.9/kotatogram-desktop-1.4.9-full.tar.gz
 _eclasses_=xdg-utils	42869b3c8d86a70ef3cf75165a395e09	xdg	3ef49a87c52c8b77c476351195dfe575	toolchain-funcs	14648d8795f7779e11e1bc7cf08b7536	multilib	b2a329026f2e404e9e371097dda47f96	flag-o-matic	f14aba975c94ccaa9f357a27e3b17ffe	multiprocessing	1e32df7deee68372153dca65f4a7c21f	ninja-utils	2df4e452cea39a9ec8fb543ce059f8d6	cmake	10a50dfaf728b802fcfd37f8d0da9056	python-utils-r1	42c5abe4a656a4993a06a4fc61dbdd12	python-any-r1	6ddb5e75c10db046f89ebe39c85e1d82	optfeature	222cb475c5a4f7ae7cfb0bf510a6fe54
-_md5_=a8cb469ae92773e0d430eb4e58c72f6b
+_md5_=79d5c6a16f1532df3cea3ea14fb6517a
