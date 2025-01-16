@@ -163,6 +163,7 @@ net-wireless/dumpvdl2 2.2.0: A lightweight, standalone VDL Mode 2 message decode
 net-wireless/gnss-sdr 9999: an open-source software-defined GNSS receiver
 net-wireless/kalibrate-rtl 9999: fork of http://thre.at/kalibrate/ for use with rtl-sdr devices
 net-wireless/libacars 2.1.4: A library for decoding various ACARS message payloads
+net-wireless/rtl-ais 0.3 9999: A simple AIS tuner and generic dual-frequency FM demodulator
 sci-electronics/OpenBoardView 7.4_pre1: Linux SDL/ImGui edition software for viewing .brd files, intended as a drop-in replacement for the "Test_Link" software and "Landrex"
 sci-electronics/qucs 0.0.19: Quite Universal Circuit Simulator in Qt4
 sci-geosciences/navit 9999-r1: An open-source car navigation system with a routing engine
