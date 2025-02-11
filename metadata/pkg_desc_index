@@ -182,6 +182,7 @@ sys-auth/linux-sgx-driver 9999: Intel(R) Software Guard Extensions for Linux* OS
 sys-block/f3 9999: Fight Flash Fraud, or Fight Fake Flash
 sys-fs/nullfs 9999: FUSE /dev/null equivalent for directories
 sys-fs/udev-zero 9999: Drop-in replacement for libudev intended to work with any device manager
+sys-libs/fake-dbus 9999: Fake dbus
 sys-libs/libspfs 0.2: Library for writing 9P2000 compliant user-space file servers that can be mounted using v9fs file system.
 sys-power/throttled 9999: Fix Intel CPU Throttling on Linux
 virtual/libudev 9999: Virtual for libudev providers
