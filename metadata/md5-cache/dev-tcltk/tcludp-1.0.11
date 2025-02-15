@@ -7,5 +7,5 @@ KEYWORDS=~x86 ~amd64
 LICENSE=MIT-with-advertising
 RDEPEND=dev-lang/tcl
 SLOT=0
-SRC_URI=mirror://sourceforge/tcludp/1.0.11/tcludp-1.0.11.tar.gz
-_md5_=7ad0538835487da833c1aa7c3a668f05
+SRC_URI=https://downloads.sourceforge.net/tcludp/1.0.11/tcludp-1.0.11.tar.gz
+_md5_=97f274f604d11a1fdf23b0581f59ec78
