@@ -81,7 +81,7 @@ dev-libs/libpredict 9999: A satellite orbit prediction library
 dev-libs/librs232 9999: multiplatform library for serial communications over RS-232 (serial port)
 dev-libs/olm 3.1.4: An implementation of the Double Ratchet cryptographic ratchet in C++
 dev-python/anytree 2.8.0: Powerful and Lightweight Python Tree Data Structure
-dev-python/cadquery-ocp 7.7.2.1 7.8.1.2: Python wrapper for OCCT generated using pywrap
+dev-python/cadquery-ocp 7.8.1.2: Python wrapper for OCCT generated using pywrap
 dev-python/cflib 0.1.3 0.1.6 0.1.7: A simple wrapper around optparse for powerful command line utilities.
 dev-python/ezdxf 1.3.0: Python interface to DXF
 dev-python/lfmh 1.1.1: A Last.fm API interface.
