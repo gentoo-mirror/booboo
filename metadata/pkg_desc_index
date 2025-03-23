@@ -2,7 +2,6 @@ acct-group/miredo 0: System group: miredo
 acct-group/radicle 0: Group for the system-wide net-p2p/radicle-node
 acct-user/miredo 0: System user: miredo
 acct-user/radicle 0: User for the system-wide net-p2p/radicle-node server
-app-accessibility/whisper-cpp 1.2.1: High-performance automatic speech recognition (ASR) using inference
 app-benchmarks/STREAM 9999: a benchmark that measures sustainable memory bandwidth and computation rate
 app-benchmarks/rowhammer-test 9999: Test DRAM for bit flips caused by the rowhammer problem
 app-crypt/RdRand 2.1.4: Library for generating random numbers using the RdRand instruction on Intel CPUs

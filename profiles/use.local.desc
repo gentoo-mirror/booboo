@@ -2,9 +2,6 @@
 # Please add your descriptions to your package's metadata.xml ONLY.
 # * generated automatically using pmaint *
 
-app-accessibility/whisper-cpp:command - Installs the example spoken-command interface
-app-accessibility/whisper-cpp:models - Adds a runtime dependency on app-accessibility/whisepr-ggml-models
-app-accessibility/whisper-cpp:stream - Installs the example of speech-to-text from microphone audio stream
 app-text/sdcv:darkterm - Improve readability of color output on terminals with dark background.
 dev-python/ezdxf:cython - Build Cython-based C extensions
 dev-python/ezdxf:matplotlib - Add support for dev-python/matplotlib
