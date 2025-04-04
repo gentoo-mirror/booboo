@@ -150,7 +150,7 @@ net-misc/mbusd 9999: Open-source Modbus TCP to Modbus RTU (RS-232/485) gateway
 net-misc/mobos-gui 9999: A simple QML GUI to use with oFono
 net-misc/vuurmuur_conf 0.7: Iptables frontend. Ncurses GUI, for administration and monitoring.
 net-misc/zebedee 2.5.3-r1: A simple, free, secure TCP and UDP tunnel program
-net-p2p/monero-gui 0.17.3.2 0.18.1.0 0.18.2.0 0.18.2.2 0.18.3.3: GUI for net-p2p/monero
+net-p2p/monero-gui 0.17.3.2 0.18.1.0 0.18.2.0 0.18.2.2 0.18.3.3 0.18.4.0: GUI for net-p2p/monero
 net-p2p/radicle-cli 0.9.0: Radicle command-line tool
 net-p2p/radicle-httpd 0.9.0: Radicle Web Server
 net-p2p/radicle-meta 0.9.0: Radicle is an open source, peer-to-peer code collaboration stack built on Git.
