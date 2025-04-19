@@ -176,6 +176,7 @@ sys-apps/con2fbmap 2.1.28: Shows and sets mapping between consoles and framebuff
 sys-apps/ksm_preload 9999: Enables legacy applications to leverage Linux's memory deduplication.
 sys-apps/lfsb 0.4.4: A Linux utility to change the FSB frequency without having to reboot
 sys-apps/me_cleaner 9999: Tool for partial deblobbing of Intel ME/TXE firmware images
+sys-apps/usbwarden 9999: Simple script to handle whitelist of allowed usb devices
 sys-apps/vbtracetool 9999: Video bios execution tracing widget
 sys-auth/linux-sgx-driver 9999: Intel(R) Software Guard Extensions for Linux* OS
 sys-block/f3 9999: Fight Flash Fraud, or Fight Fake Flash
