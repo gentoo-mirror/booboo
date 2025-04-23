@@ -35,3 +35,4 @@ sci-libs/oce:freeimage - Enable support for image i/o via media-libs/freeimage
 sci-libs/oce:gl2ps - Use gl2ps PostScript printing library
 sci-libs/oce:tbb - Enable multithreading with the Intel Threads Building Block dev-cpp/tbb
 sci-libs/oce:vtk - Enable Virtualisation Toolkit
+x11-libs/libxkbcommon:tools - Build the xkbcli tools
