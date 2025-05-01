@@ -1,4 +1,4 @@
-BDEPEND=|| ( dev-lang/python:3.13 dev-lang/python:3.12 dev-lang/python:3.11 dev-lang/python:3.10 ) >=dev-util/cmake-3.16 virtual/pkgconfig app-alternatives/ninja >=dev-build/cmake-3.20.5
+BDEPEND=|| ( dev-lang/python:3.13 dev-lang/python:3.12 dev-lang/python:3.11 ) >=dev-util/cmake-3.16 virtual/pkgconfig app-alternatives/ninja >=dev-build/cmake-3.20.5
 DEFINED_PHASES=compile configure install postinst postrm preinst prepare pretend setup test
 DEPEND=app-arch/lz4:= dev-cpp/abseil-cpp:= dev-libs/libdispatch dev-libs/openssl:= dev-libs/xxhash >=dev-qt/qtcore-5.15:5 >=dev-qt/qtgui-5.15:5[dbus?,jpeg,png,wayland?,X?] >=dev-qt/qtimageformats-5.15:5 >=dev-qt/qtnetwork-5.15:5[ssl] >=dev-qt/qtsvg-5.15:5 >=dev-qt/qtwidgets-5.15:5[png,X?] media-fonts/open-sans media-libs/fontconfig:= ~media-libs/libtgvoip-2.4.4_p20220117 media-libs/openal media-libs/opus:= media-libs/rnnoise ~media-libs/tg_owt-0_pre20220209[screencast=,X=] media-video/ffmpeg:=[opus] sys-libs/zlib:=[minizip] dbus? ( dev-cpp/glibmm:2 dev-qt/qtdbus:5 dev-libs/libdbusmenu-qt[qt5(+)] ) enchant? ( app-text/enchant:= ) hunspell? ( >=app-text/hunspell-1.7:= ) jemalloc? ( dev-libs/jemalloc:=[-lazy-lock] ) wayland? ( kde-frameworks/kwayland:= ) X? ( x11-libs/libxcb:= ) dev-cpp/range-v3 =dev-cpp/ms-gsl-3*
 DESCRIPTION=Experimental Telegram Desktop fork
@@ -13,5 +13,5 @@ RDEPEND=app-arch/lz4:= dev-cpp/abseil-cpp:= dev-libs/libdispatch dev-libs/openss
 REQUIRED_USE=spell? ( ^^ ( enchant hunspell ) )
 SLOT=0
 SRC_URI=https://github.com/kotatogram/kotatogram-desktop/releases/download/k1.4.9/kotatogram-desktop-1.4.9-full.tar.gz
-_eclasses_=xdg-utils	42869b3c8d86a70ef3cf75165a395e09	xdg	3ef49a87c52c8b77c476351195dfe575	toolchain-funcs	f9d71a6efe9d083aec750dd13968e169	flag-o-matic	e8de74bac929ba17427e740e95707d00	multiprocessing	1e32df7deee68372153dca65f4a7c21f	ninja-utils	2df4e452cea39a9ec8fb543ce059f8d6	cmake	b05c1b7b3c9213c155f128f4eadaa49f	python-utils-r1	974462533ec80cd68e5f366ad8a86002	python-any-r1	891415dfe39ad9b41b461f2b86354af0	optfeature	538bce96e5589935b57e178e8635f301
+_eclasses_=xdg-utils	42869b3c8d86a70ef3cf75165a395e09	xdg	3ef49a87c52c8b77c476351195dfe575	toolchain-funcs	f9d71a6efe9d083aec750dd13968e169	flag-o-matic	e8de74bac929ba17427e740e95707d00	multiprocessing	1e32df7deee68372153dca65f4a7c21f	ninja-utils	2df4e452cea39a9ec8fb543ce059f8d6	cmake	b05c1b7b3c9213c155f128f4eadaa49f	python-utils-r1	b6ad054ea5bb201ed2fec9cac7a8d12b	python-any-r1	891415dfe39ad9b41b461f2b86354af0	optfeature	538bce96e5589935b57e178e8635f301
 _md5_=79d5c6a16f1532df3cea3ea14fb6517a
