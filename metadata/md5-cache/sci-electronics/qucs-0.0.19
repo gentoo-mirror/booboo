@@ -10,5 +10,5 @@ LICENSE=GPL-2
 RDEPEND=dev-qt/qtcore:4[qt3support] dev-qt/qtgui:4[qt3support] dev-qt/qtsvg:4 dev-qt/qt3support:4 x11-libs/libX11 sci-electronics/adms
 SLOT=0
 SRC_URI=https://downloads.sourceforge.net/qucs/qucs-0.0.19.tar.gz
-_eclasses_=toolchain-funcs	f9d71a6efe9d083aec750dd13968e169	flag-o-matic	e8de74bac929ba17427e740e95707d00
+_eclasses_=toolchain-funcs	f9d71a6efe9d083aec750dd13968e169	flag-o-matic	b892042b2667b8ac69ec8a2571dc290a
 _md5_=b2c251600eb6f4b5fe44f7c20596398e
