@@ -93,6 +93,8 @@ dev-python/python-olm 3.1.5: Python bindings for the Olm C library
 dev-python/pythonocc-cadquery 9999: Python Interface to OpenCASCADE CAD library, CadQuery fork
 dev-python/trianglesolver 1.2: Applies the law of sines or cosines to find the sides and angles of a triangle
 dev-python/typish 1.9.3: Functionality for types
+dev-qt/qtbluetooth 5.15.17: Bluetooth support library for the Qt5 framework
+dev-qt/qtgamepad 5.15.17: Qt module to support gamepad hardware
 dev-tcltk/critcl 3.3.1: Critcl lets you easily embed C code in Tcl.
 dev-tcltk/tclgpg 9999-r1: Tcl interface to GNU Privacy Guard with interface similar to TclGPGME.
 dev-tcltk/tcludp 1.0.11: The Tcl UDP extension provides a simple library to support UDP socket in Tcl.
