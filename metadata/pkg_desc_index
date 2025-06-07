@@ -85,6 +85,7 @@ dev-python/nptyping 2.5.0: Type hints for Numpy
 dev-python/ocpsvg 0.2.0: 
 dev-python/py-lib3mf 2.3.1: Minimal files required to use lib3mf in python.
 dev-python/pyrogram 9999: Telegram MTProto API framework for users and bots
+dev-python/trianglesolver 1.2: Applies the law of sines or cosines to find the sides and angles of a triangle
 dev-python/typish 1.9.3: Functionality for types
 dev-qt/qtbluetooth 5.15.17: Bluetooth support library for the Qt5 framework
 dev-qt/qtgamepad 5.15.17: Qt module to support gamepad hardware
