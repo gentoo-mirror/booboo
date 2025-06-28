@@ -185,7 +185,6 @@ sys-power/throttled 9999: Fix Intel CPU Throttling on Linux
 virtual/libudev 9999: Virtual for libudev providers
 virtual/udev 9999: Virtual to select between different udev daemon providers
 x11-apps/xkb-switch 9999: Switch your X keyboard layouts from the command line
-x11-libs/libxkbcommon 1.7.0-r1: Keymap handling library for toolkits and window systems
 x11-misc/run_scaled 9999: Run an X application scaled via xpra. Useful on hidpi screens.
 x11-misc/xautoclick 0.31: xAutoClick is an application to reduce RSI by simulating multiple mouse clicks
 x11-misc/xss-lock 9999: Use external locker as X screen saver.
