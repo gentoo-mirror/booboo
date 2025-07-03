@@ -60,7 +60,6 @@ app-misc/kdrill 6.5: Kanji quiz and a lookup tool for X, helps in memorizing Jap
 app-misc/run-mailcap 3.69: Run a program specified in the mailcap file based on a mime type
 app-misc/thd 9999: a lightweight hotkey daemon
 app-mobilephone/vcf2csv 0.6.201011061941: vcf2csv is a command line tool to convert vcard files to html or csv.
-app-paludis/pink-update 9999: paludis port of etc-update
 app-text/catdoc 9999: Converter for Microsoft Word, Excel, PowerPoint and RTF files to text
 app-text/htmltidy 99999999: The granddaddy of HTML tools, with support for modern standards
 app-text/paps 0.7.1: Unicode-aware text to PostScript converter
