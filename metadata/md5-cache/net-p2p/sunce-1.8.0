@@ -1,0 +1,15 @@
+BDEPEND=net-libs/nodejs[npm]
+DEFINED_PHASES=install postinst prepare prerm setup
+DEPEND=net-libs/nodejs app-admin/webapp-config
+DESCRIPTION=User-friendly Montelibero wallet for the Stellar ecosystem
+EAPI=8
+HOMEPAGE=https://github.com/SunceWallet/sunce
+INHERIT=webapp
+IUSE=vhosts
+KEYWORDS=~amd64
+LICENSE=MIT
+RDEPEND=app-admin/webapp-config
+SLOT=1.8.0
+SRC_URI=https://github.com/SunceWallet/sunce/archive/refs/tags/v1.8.0.tar.gz -> sunce-1.8.0.tar.gz https://github.com/l29ah/gentoo-overlay-blobs/raw/refs/heads/master/sunce-1.8.0-deps.tar.xz
+_eclasses_=webapp	5fa840db95fc7348dfd53b8526ed05f5
+_md5_=602e0c4ae5bba5d260c3ef3e6ce559c5

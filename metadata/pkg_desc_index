@@ -155,6 +155,7 @@ net-p2p/radicle-httpd 0.9.0: Radicle Web Server
 net-p2p/radicle-meta 0.9.0: Radicle is an open source, peer-to-peer code collaboration stack built on Git.
 net-p2p/radicle-node 0.9.0: Radicle Node Server
 net-p2p/radicle-remote-helper 0.9.0: Radicle git remote helper
+net-p2p/sunce 1.8.0: User-friendly Montelibero wallet for the Stellar ecosystem
 net-vpn/miredo 1.2.6 9999: Miredo is an open-source Teredo IPv6 tunneling software
 net-vpn/tinc 1.1.9999: tinc is an easy to configure VPN implementation
 net-wireless/dumpvdl2 2.2.0: A lightweight, standalone VDL Mode 2 message decoder and protocol analyzer
