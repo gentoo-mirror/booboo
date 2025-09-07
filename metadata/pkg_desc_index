@@ -190,6 +190,7 @@ sys-libs/libspfs 0.2: Library for writing 9P2000 compliant user-space file serve
 sys-power/throttled 9999: Fix Intel CPU Throttling on Linux
 virtual/libudev 9999: Virtual for libudev providers
 virtual/udev 9999: Virtual to select between different udev daemon providers
+www-apps/mitra 4.9.0: Federated social network built on ActivityPub
 x11-apps/xkb-switch 9999: Switch your X keyboard layouts from the command line
 x11-misc/run_scaled 9999: Run an X application scaled via xpra. Useful on hidpi screens.
 x11-misc/xautoclick 0.31: xAutoClick is an application to reduce RSI by simulating multiple mouse clicks
