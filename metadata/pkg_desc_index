@@ -146,7 +146,6 @@ net-libs/opendht 9999: A lightweight C++11 Distributed Hash Table implementation
 net-libs/zoidcom 0.6.5 0.6.7 0.6.10: High-level, UDP-based networking library
 net-misc/gnurl 7.72.0: libgnurl is a fork of libcurl, which is mostly for GNUnet
 net-misc/killcx 1.0.3: Close a TCP connection
-net-misc/mbpoll 9999: command line utility to communicate with ModBus slave (RTU or TCP)
 net-misc/mbusd 9999: Open-source Modbus TCP to Modbus RTU (RS-232/485) gateway
 net-misc/mobos-gui 9999: A simple QML GUI to use with oFono
 net-misc/vuurmuur_conf 0.7: Iptables frontend. Ncurses GUI, for administration and monitoring.
